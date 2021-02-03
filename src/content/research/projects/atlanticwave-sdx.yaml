@@ -1,6 +1,6 @@
 id: atlanticwave-sdx
 name: AtlanticWave-SDX
-email: fake@email.com
+email: 
 featuredImage: atlanticwave-sdx.jpg
 description: AtlanticWave-SDX helps domain scientists and network engineers around the world take advantage of Open Exchange Points (OXPs), which connect multiple networks for large-scale, data-intensive research and engineering applications.  
 renciRole: !markdown |
@@ -12,6 +12,9 @@ renciRole: !markdown |
 members:
   - id: yufeng-xin
     role: Lead
+  - id: mert-cevik
+  - id: cong-wang
+  - id: michael-stealey
 partners:
   - fiu
   - university-of-southern-california
