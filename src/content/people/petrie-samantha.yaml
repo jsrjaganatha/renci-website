@@ -2,13 +2,13 @@ id: samantha-petrie
 name:
   first: Samantha
   last: Petrie
-email: spetrie@renci.org
+email: samantha_petrie@unc.edu
 title: Student Intern, Office of the Director
-phone: 919-445-6384
+phone: 
 www:
-  twitter: what
-  github: nope
+  twitter: null
+  github: null
   instagram: null
   linkedin: null
   youtube: null
-bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+bio:
