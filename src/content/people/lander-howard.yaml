@@ -5,11 +5,16 @@ name:
 photo: lander-howard.png
 email: howard@renci.org
 title: Senior Research Software Developer
-phone: 919-445-5410
+phone: 919-445-9651
 www:
   twitter: null
-  github: not_real
+  github: null
   instagram: null
   linkedin: null
   youtube: null
-bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+bio: >
+  'Mr. Lander joined the Renaissance Computing Institute in April 2005 and has worked extensively here with the application of Cyber Science and Engineering to data and compute intensive scientific disciplines including physical oceanography and evolutionary biology. In particular Mr. Lander was an active participant in both the Southeastern Universities Research Association (SURA) Coastal Ocean Observing and Prediction Program (SCOOP) and North Carolina Flood Mapping (NCFMP) projects. Both of these included complex scientific workflows involving data transfers, multi-core scientific computation and campaign tracking.'
+
+  'Since 2012, Mr. Lander has been a Co-PI on the DataBridge project , an NSF funded research effort investigating the use of sociometric techniques to produce a Facebook like social net work f or datasets from the long tail of science. From 2010 to 2016. Mr. Lander co-chaired the RENCI Data Working Group, an institute wide cross-cutting working group involved in many aspect s of Data Science at RENCI including proposal generation, internal education and data architecture. Mr. Lander has significant experience with HPC technologies such as Globus, iRODS, and PBS and is experienced with many implementation languages and environments including Java, C, C++, Fortran, Python, Perl, Linux, AIX and Solaris as well as various hardware plat forms including BG/L, Cray XT 3 and commodity Linux clusters.'
+
+  'Mr. Lander was a Conference Chair and Session Moderator for the Second ASE International Conference on Big Data in 2014 as well as a Conference Chair for the 2015 ASE International Conference on Data Science. He was also the Chair for the Workshop for Advanced Data Discovery for Neuroscience, held in conjunction with the Neuroinformatics 2018 Conference.'

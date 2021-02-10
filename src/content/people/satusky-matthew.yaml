@@ -4,12 +4,12 @@ name:
   first: Matt
   last: Satusky
 email: satusky@email.unc.edu
-title: Post-doctoral Scholar
-phone: 919-445-5251
+title: Post-Doctoral Scholar
+phone:
 www:
-  twitter: what
-  github: nope
+  twitter: null
+  github: null
   instagram: null
   linkedin: null
   youtube: null
-bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+bio: 
