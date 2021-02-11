@@ -6,17 +6,18 @@ publishDate: 2020-07-14T14:33:42
 author: ["jayasree-jaganatha"]
 featuredImage: null
 groups:
-    - 
+    - data-science-and-analytics
 projects:
     - data-translator-robokop
 people:
-    - 
+    - chris-bizon
 teams: 
     - 
 collaborations:
     - 
 tags:
     - covid-19
+    - data-analysis
 ---
 
 ![ROBOKOP Technology offers fast, easier, exploration of emerging COVID-19 research](https://renci.org/wp-content/uploads/2020/07/ROBOKOP-Blog-01-1024x512.png)
