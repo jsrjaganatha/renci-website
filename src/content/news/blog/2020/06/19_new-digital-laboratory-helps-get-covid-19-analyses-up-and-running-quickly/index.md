@@ -17,6 +17,10 @@ collaborations:
     - 
 tags:
     - covid-19
+    - artificial intelligence
+    - data analysis
+    - open-source
+    - visualization
 ---
 
 ![Blackbalsam logo superimposed on landscape](https://renci.org/wp-content/uploads/2020/06/BB-Blog-04-1024x512.png)
