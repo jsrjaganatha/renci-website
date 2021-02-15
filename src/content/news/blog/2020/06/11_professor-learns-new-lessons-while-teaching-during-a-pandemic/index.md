@@ -12,7 +12,7 @@ projects:
 people:
     - ashok-krishnamurthy
 teams: 
-    - 
+    - ood
 collaborations:
     - 
 tags:
