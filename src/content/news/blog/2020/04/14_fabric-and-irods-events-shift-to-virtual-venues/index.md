@@ -6,18 +6,23 @@ publishDate: 2020-04-14T14:45:52
 author: ["jayasree-jaganatha"]
 featuredImage: null
 groups:
-    -
+    - nrig
 projects:
     - fabric
     - irods
 people:
-    - 
+    - ilya-baldin
+    - jason-coposky
 teams: 
     - 
 collaborations:
     - irods-consortium
 tags:
-    - 
+    - covid-19
+    - data-management
+    - networking
+    - testbed
+    - open-source
 ---
 
 Due to the current COVID-19 situation, many previously scheduled in-person events are moving to virtual spaces. Events associated with RENCI projects and with consortium and partner institutions are making decisions daily about whether to postpone, transition to virtual, or potentially proceed in the late summer and fall. We will keep [our events calendar](https://renci.org/events/) updated, so check back regularly for announcements. 
