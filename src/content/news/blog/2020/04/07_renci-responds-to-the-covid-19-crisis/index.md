@@ -3,20 +3,23 @@ title: "From the Director: RENCI responds to the COVID-19 crisis"
 slug: renci-responds-to-the-covid-19-crisis
 spotlight: false
 publishDate: 2020-04-07T15:29:44
-author: ["stephanie-suber"]
+author: ["stan-ahalt"]
 featuredImage: null
 groups:
-    - 
+    - data-science-and-analytics
 projects:
-    - 
+    - data-translator
+    - data-translator-robokop
+    - data-translator-icees
 people:
-    - 
+    - stan-ahalt
 teams: 
-    - 
+    - ood
 collaborations:
     - 
 tags:
-    - 
+    - covid-19
+    - data-analysis
 ---
 
 The past few weeks have presented unique challenges to how we work, how we enjoy ourselves, and how we live our everyday lives. We are all worried about the uncertainties and about how this will affect us and our loved ones in the coming weeks. 
