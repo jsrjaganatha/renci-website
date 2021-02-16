@@ -20,8 +20,9 @@ teams:
     - project-management
 collaborations:
     - irods-consortium
+    - ncds
 tags:
-    - 
+    - students
 ---
 
 A group of undergraduate Winston-Salem State University (WSSU) students majoring in math recently visited Chapel Hill for an educational tour of RENCI and to make connections with peers and educators in the UNC-Chapel Hill math department.
