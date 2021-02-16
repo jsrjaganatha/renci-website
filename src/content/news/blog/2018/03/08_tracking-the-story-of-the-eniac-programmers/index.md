@@ -12,22 +12,22 @@ groups:
 projects:
     - 
 people:
-    - 
+    - jaspreet-gill
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - high performance computing
 ---
 
-More than 70 years ago, six brilliant mathematicians came to Philadelphia to take part in a secret U.S. Army project designed to help the Allies win World War II. These young pioneers of the computing age learned to program using only logical diagrams and their considerable talents—no programming languages or tools existed to help them.\u00a0
+More than 70 years ago, six brilliant mathematicians came to Philadelphia to take part in a secret U.S. Army project designed to help the Allies win World War II. These young pioneers of the computing age learned to program using only logical diagrams and their considerable talents—no programming languages or tools existed to help them.
 
 ![](https://renci.org/wp-content/uploads/2018/03/ENIAC.jpg)
 
 _Jean Jennings Bartik (left), and Frances Bilas Smith in 1946 with ENIAC, the world’s first all-electonic computer. Photo credit: Computer History Museum_
 
-The result of their efforts was ENIAC (Electronic Numerical Integrator And Computer), the first all-electronic programmable computer, capable of running a ballistics trajectory— differential calculus equation—in seconds. \u00a0The Army unveiled ENIAC to the public in 1946, but the six mathematicians who poured their brainpower and creativity into the project were never recognized for their work.
+The result of their efforts was ENIAC (Electronic Numerical Integrator And Computer), the first all-electronic programmable computer, capable of running a ballistics trajectory— differential calculus equation—in seconds. The Army unveiled ENIAC to the public in 1946, but the six mathematicians who poured their brainpower and creativity into the project were never recognized for their work.
 
 They were the first modern-day programmers, but they were also women and expected to stay in the background. In photos from the ENIAC public debut, they are pictured but not identified, functioning as "refrigerator models" as one computer historian termed it, a reference to 1950s TV commercials for home appliances, in which smiling female models in high heels would open refrigerator doors.
 
