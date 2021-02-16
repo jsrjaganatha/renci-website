@@ -17,8 +17,9 @@ collaborations:
     - sbdh
 organizations:
     - rti
+    - nc-state-university
 tags:
-    - 
+    - students
 ---
 
 RTI's Kristina Brunelle (left) moderates a panel discussion with Amy Roussel, RTI (center); Gracie Johnson-Lopez, Diversity and HR Solutions (right); and Sackeena Gordon-Jones, Transformation Edge and NC State University (on screen).
