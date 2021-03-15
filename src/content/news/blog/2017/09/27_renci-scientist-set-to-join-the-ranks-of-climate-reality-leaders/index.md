@@ -10,13 +10,13 @@ groups:
 projects:
     - 
 people:
-    - 
+    - chris-lenhardt
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - training
 ---
 
 ![](https://renci.org/wp-content/uploads/2017/09/Screen-Shot-2017-09-27-at-2.42.38-PM-1024x447.png)
