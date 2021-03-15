@@ -10,7 +10,7 @@ groups:
 projects:
     - 
 people:
-    - 
+    - jay-aikat
 teams: 
     - 
 collaborations:
@@ -18,7 +18,9 @@ collaborations:
 organizations:
     - nsf
 tags:
-    - 
+    - cyberinfrastructure
+    - networking
+    - training
 ---
 
 Claris Castillo, a senior computational and networked systems researcher at RENCI, recently completed the [BRIDGES](https://fridaycenter.unc.edu/noncreditprograms/bridges/) program that promotes academic leadership among women. The four-week program targets women in higher education institutions seeking to strengthen their academic leadership skills and advance their careers in academia.
