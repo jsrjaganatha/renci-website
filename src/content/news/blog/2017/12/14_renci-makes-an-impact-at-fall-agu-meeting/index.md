@@ -7,6 +7,7 @@ author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - earth-data-sciences
+    - data-science-and-analytics
 projects:
     - 
 people:
@@ -15,12 +16,14 @@ people:
     - chris-lenhardt
     - howard-lander
     - lisa-stillwell
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - 
+    - cyberinfrastructure
+    - team-science
 ---
 
 Why was New Orleans inundated with scientists during the week of December 11, 15? They were in the Big Easy for the fall meeting of the [American Geophysical Union](https://sites.agu.org/) (AGU), a conference that attracts about 24,000 Earth and geoscientists from across the nation and around the globe.
