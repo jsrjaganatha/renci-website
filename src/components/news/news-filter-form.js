@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react'
 import styled, { useTheme } from 'styled-components'
+import { navigate } from '@reach/router'
 import { useFormState } from 'react-use-form-state'
 import { Select } from '../form'
 import { useCollaborations, useGroups, useProjects, useTags } from '../../hooks'
@@ -7,6 +8,7 @@ import { useNewsContext } from './news-context'
 import { Button } from '../../components/buttons'
 import { Icon } from '../../components/icon'
 import { animated, useTransition } from 'react-spring'
+import { filtersUrl } from './utils'
 
 const Wrapper = styled.div(({ theme }) => `
   padding: ${ theme.spacing.large } 0 ${ theme.spacing.extraLarge } 0;
@@ -72,22 +74,31 @@ export const NewsFilterForm = () => {
   const [topicOptions, setTopicOptions] = useState([])
   const [, { select }] = useFormState()
 
+  // memoized value indicating if filters are being used
+  // recalculated when filters change
   const usingFilters = useMemo(() => (filters.group || filters.project || filters.topic), [filters])
 
+  // on the first render,
   useEffect(() => {
-    // when filters, groups, or collaborations change
-    // update the corresponding project options for the selected group
+    // set the filter options
     setGroupOptions(groupsAndCollaborations.map(group => ({ value: group.id, label: group.name })).sort((g, h) => g.label.toLowerCase() < h.label.toLowerCase() ? -1 : 1))
     setProjectOptions(projects.map(project => ({ value: project.id, label: project.name })).sort((p, q) => p.label.toLowerCase() < q.label.toLowerCase() ? -1 : 1))
     setTopicOptions(tags.map(tag => ({ value: tag.id, label: tag.name })).sort((t, s) => t.label.toLowerCase() < s.label.toLowerCase() ? -1 : 1))
   }, [])
 
+  // when filters.group change,
   useEffect(() => {
+    // update the project options accordingly.
     const index = groupsAndCollaborations.findIndex(group => group.id === filters.group)
     const filteredProjects = index > -1 ? groupsAndCollaborations[index].projects : projects
     setProjectOptions(filteredProjects.map(project => ({ value: project.id, label: project.name })))
-  }, [filters, groupsAndCollaborations])
+  }, [filters.group])
 
+  // what to do when a project is selected?
+  // useEffect(() => {
+  // }, [filters.project])
+
+  // this defines the animation for the CLEAR FILTERS button
   const transitions = useTransition(usingFilters, null, {
     from: { opacity: 0.0 },
     enter: { opacity: 1.0 },

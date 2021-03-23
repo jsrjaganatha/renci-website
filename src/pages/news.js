@@ -7,6 +7,7 @@ import { Title } from '../components/typography'
 import { useNews, useWindow } from '../hooks'
 import { NewsFilterForm, PaginationTray, NewsContext, NewsList } from '../components/news'
 import { LoadingIndicator } from '../components/loading-indicator'
+import { filtersUrl } from '../components/news/utils'
 
 // constants
 const LOADING_TIME = 500
@@ -40,16 +41,6 @@ const FlexHeader = styled.div`
   }
 `
 
-// this constructs the URL from the filters (params) object
-// note that in this case, those filters are chosen by the user.
-const filtersUrl = (params, basePath = '/news') => {
-  if (Object.values(params).join('') === '')
-    return basePath
-  const q = Object.keys(params)
-    .filter(key => params[key] !== '')
-    .map(key => `${ key }=${ params[key] }`).join('&')
-  return basePath + '?' + q
-}
 
 const NewsPage = () => {
   // this kind of thing can be done in a lot of ways, so here is a bit about state.
