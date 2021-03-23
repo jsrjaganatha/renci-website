@@ -7,7 +7,7 @@ publishDate: 2018-11-15
 author: 
 featuredImage: null
 groups:
-    - analytics
+    - data-science-and-analytics
 projects:
     - data-translator
 people:
@@ -16,8 +16,6 @@ teams:
     - 
 collaborations:
     - 
-organizations:
-    - ncats
 tags:
     - team-science
 ---
