@@ -15,10 +15,6 @@ teams:
     - 
 collaborations:
     - irods-consortium
-organizations:
-    - tacc
-    - unc
-    - university-of-texas
 tags:
     - data-management
     - open-source
@@ -27,7 +23,6 @@ tags:
 The [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC), a supercomputing center that provides scientists with some of the world's most powerful computing resources to enable discoveries, is the latest organization to join the iRODS Consortium.  
 
 TACC, based at [The University of Texas at Austin](https://www.utexas.edu/), designs, deploys, and operates a wide range of high performance computing systems used by thousands of scientists each year to study problems in biology, medicine, environmental sciences, nanomaterials, astrophysics, and much more.    
-
 
 ![](https://renci.org/wp-content/uploads/2018/09/iRODS-TACC.jpg)
 
@@ -38,7 +33,6 @@ _Deployed in 2009, Corral at TACC is a storage and data management resource desi
 iRODS is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization used by research and business organizations around the globe. The software is an important component of the services TACC provides through its Corral data management system and the Wrangler system, a computing environment for data-intensive applications provided though the National Science Foundation's [XSEDE](https://www.xsede.org/) initiative.  
 
 "We are excited to further our relationship with such a prominent institute within the HPC space," said Jason Coposky, executive director of the iRODS Consortium. "Working with TACC will help us to harden our efforts toward parallel file system integration, storage tiering, and data movement over long distances on Internet2."  
-
 TACC joins Bayer, DellEMC, Data Direct Networks, IBM, Intel, MSC, the U.S. National Institute of Environmental Health Sciences, NetApp, Quantum, RENCI, SURF, the Swedish National Infrastructure for Computing, University College London, University of Groningen, Utrecht University, the Wellcome Sanger Institute, and Western Digital as iRODS Consortium members.   
 
 The iRODS Consortium guides development and support of iRODS, along with providing production-ready iRODS distribution and iRODS professional integration services, training, and support. The consortium is administered by founding member [RENCI](https://www.renci.org/), a research institute for applications of cyberinfrastructure located at the [University of North Carolina at Chapel Hill](http://www.unc.edu/).
