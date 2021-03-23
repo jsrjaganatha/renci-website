@@ -18,8 +18,6 @@ teams:
     - 
 collaborations:
     - 
-organizations:
-    - tacc
 tags:
     - networking
     - testbed
