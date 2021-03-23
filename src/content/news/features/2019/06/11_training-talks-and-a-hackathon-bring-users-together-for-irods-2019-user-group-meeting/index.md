@@ -16,8 +16,6 @@ teams:
     - 
 collaborations:
     -  irods-consortium
-organizations:
-    - utrecht-university
 tags:
     - data-management
     - open-source
