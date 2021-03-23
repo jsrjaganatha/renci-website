@@ -15,23 +15,6 @@ teams:
     - 
 collaborations:
     - irods-consortium
-organizations:
-    - bayer
-    - cloudian
-    - ddn
-    - ibm
-    - maastricht-university
-    - msc
-    - netapp
-    - nih-niehs
-    - renci
-    - surf
-    - tacc
-    - university-college-london
-    - university-of-groningen
-    - utrecht-university
-    - wellcome-sanger-institute
-    - western-digital
 tags:
     - data-management
     - open-source
