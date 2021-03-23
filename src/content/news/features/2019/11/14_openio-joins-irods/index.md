@@ -18,6 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - networking
+    - data-management
 ---
 
 The [iRODS Consortium](https://irods.org/), the foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS) data management software, welcomes OpenIO as its newest Consortium member.
