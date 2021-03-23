@@ -6,7 +6,7 @@ publishDate: 2019-10-17
 author: ["stephanie-suber"]
 featuredImage: null
 groups:
-    - analytics
+    - data-science-and-analytics
 projects:
     - 
 people:
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - 
+    - data-management
 ---
 
 The Renaissance Computing Institute (RENCI) at the University of North Carolina at Chapel Hill will collaborate on an $8.8 million, 3.5-year effort to make the volumes of data arising from cancer research more accessible, organized, and powerful. This contract was awarded by the Frederick National Laboratory for Cancer Research on behalf of the National Cancer Institute.
