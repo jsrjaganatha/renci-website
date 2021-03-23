@@ -16,10 +16,9 @@ teams:
     - 
 collaborations:
     - ncds
-organizations:
-    - odum-institute
 tags:
     - training
+    - students
 ---
 
 We live in a data-driven world, and as researchers, business professionals, and government policymakers struggle to stay on top of the latest data science trends and practices, the Data Matters™ Short Course Series returns to offer a week full of education and training.
