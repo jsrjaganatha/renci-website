@@ -16,8 +16,6 @@ teams:
     - 
 collaborations:
     - irods-consortium
-organizations:
-    - cloudian
 tags:
     - data-management
     - open-source
