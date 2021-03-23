@@ -236,12 +236,23 @@ h1 {
   font-weight: 500;
 }
 h2 {
-  font-size: 2.0rem;
-  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: left;
+  color: #3e3e3e;
+  line-height: 1.5;
+  font-weight: normal;
+  padding: 0.25rem 0;
+  margin: 0 0 0.5rem 0;
 }
 h3 {
-  font-size: 1.5rem;
-  font-weight: 300;
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  line-height: 1.5;
+  padding: 0.25rem 0;
+  margin: 0 0 1rem 0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  font-weight: normal;
 }
 h4 {
   font-weight: normal;

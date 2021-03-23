@@ -1,5 +1,12 @@
 import styled from 'styled-components'
 
+/*
+  Note that these styles aren't used when the markdown files are processed.
+  The headings there are styled according to styles/base.css.
+  For continuity, the styles here and there should match.
+  Make sure to change the styles there when making changes here, and vice versa.
+*/
+
 export const Heading = styled.h2(({ theme, center }) => `
   text-align: ${ center ? 'center' : 'left' };
   font-size: 1.5rem;
