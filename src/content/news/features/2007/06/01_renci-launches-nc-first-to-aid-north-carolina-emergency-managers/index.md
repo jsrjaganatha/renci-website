@@ -1,7 +1,6 @@
 ---
 title: "RENCI launches NC-FIRST to aid North Carolina emergency managers"
 slug: renci-launches-nc-first-to-aid-north-carolina-emergency-managers
-spotlight: false
 publishDate: 2007-06-01
 author: ["stephanie-suber"]
 featuredImage: null

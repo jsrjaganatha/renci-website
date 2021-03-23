@@ -1,7 +1,6 @@
 ---
 title: "New report recommends actions to position North Carolina as a leader in the new data economy"
 slug: new-report-recommends-actions-to-position-north-carolina-as-a-leader-in-the-new-data-economy
-spotlight: false
 publishDate: 2017-02-22
 author: 
 featuredImage: null

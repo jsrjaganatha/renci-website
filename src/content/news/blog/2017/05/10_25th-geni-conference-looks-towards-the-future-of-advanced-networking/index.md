@@ -1,7 +1,6 @@
 ---
 title: "25th GENI Conference looks towards the future of advanced networking"
 slug: 25th-geni-conference-looks-towards-the-future-of-advanced-networking
-spotlight: false
 publishDate: 2017-05-10T16:30:05
 author: ["stephanie-suber"]
 featuredImage: null

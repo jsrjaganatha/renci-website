@@ -1,7 +1,6 @@
 ---
 title: "The Science of Sound"
 slug: the-science-of-sound
-spotlight: false
 publishDate: 2008-12-30
 author: ["stephanie-suber"]
 featuredImage: null

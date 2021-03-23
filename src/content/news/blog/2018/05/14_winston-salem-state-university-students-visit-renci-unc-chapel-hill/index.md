@@ -1,7 +1,6 @@
 ---
 title: "Winston-Salem State University students visit RENCI, UNC-Chapel Hill"
 slug: winston-salem-state-university-students-visit-renci-unc-chapel-hill
-spotlight: false
 publishDate: 2018-05-14T15:21:29
 author:
     - stephanie-suber

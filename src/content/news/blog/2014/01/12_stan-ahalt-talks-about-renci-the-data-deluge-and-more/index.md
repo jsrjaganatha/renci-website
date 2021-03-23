@@ -1,7 +1,6 @@
 ---
 title: "Stan Ahalt talks about RENCI, the data deluge, and more"
 slug: stan-ahalt-talks-about-renci-the-data-deluge-and-more
-spotlight: false
 publishDate: 2014-01-12T09:34:38
 author: ["stephanie-suber"]
 featuredImage: null

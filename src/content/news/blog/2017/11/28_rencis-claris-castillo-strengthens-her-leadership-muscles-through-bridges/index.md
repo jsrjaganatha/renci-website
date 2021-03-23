@@ -1,7 +1,6 @@
 ---
 title: "RENCI's Claris Castillo strengthens her leadership muscles through BRIDGES"
 slug: rencis-claris-castillo-strengthens-her-leadership-muscles-through-bridges
-spotlight: false
 publishDate: 2017-11-28T10:39:46
 author: ["stephanie-suber"]
 featuredImage: null

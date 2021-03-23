@@ -1,7 +1,6 @@
 ---
 title: "Blowing through Manhattan"
 slug: blowing-through-manhattan
-spotlight: false
 publishDate: 2008-10-31
 author: ["stephanie-suber"]
 featuredImage: null

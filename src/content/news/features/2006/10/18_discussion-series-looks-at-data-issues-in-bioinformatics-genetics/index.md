@@ -1,7 +1,6 @@
 ---
 title: "Discussion series looks at data issues in bioinformatics, genetics"
 slug: discussion-series-looks-at-data-issues-in-bioinformatics-genetics
-spotlight: false
 publishDate: 2006-10-18
 author: ["stephanie-suber"]
 featuredImage: null

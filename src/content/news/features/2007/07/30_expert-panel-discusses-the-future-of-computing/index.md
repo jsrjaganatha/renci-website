@@ -1,7 +1,6 @@
 ---
 title: "Expert panel discusses the future of computing"
 slug: expert-panel-discusses-the-future-of-computing
-spotlight: false
 publishDate: 2007-07-30
 author: ["stephanie-suber"]
 featuredImage: null

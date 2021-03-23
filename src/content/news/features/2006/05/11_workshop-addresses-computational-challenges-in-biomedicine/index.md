@@ -1,7 +1,6 @@
 ---
 title: "Workshop addresses computational challenges in biomedicine"
 slug: workshop-addresses-computational-challenges-in-biomedicine
-spotlight: false
 publishDate: 2006-05-11
 author: ["stephanie-suber"]
 featuredImage: null

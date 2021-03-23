@@ -1,7 +1,6 @@
 ---
 title: "Lightning catchers"
 slug: lightning-catchers
-spotlight: false
 publishDate: 2008-09-08
 author: ["stephanie-suber"]
 featuredImage: null

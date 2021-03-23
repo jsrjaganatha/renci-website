@@ -1,7 +1,6 @@
 ---
 title: "RENCI disaster research to be showcased at NC emergency management meeting"
 slug: renci-disaster-research-to-be-showcased-at-nc-emergency-management-meeting
-spotlight: false
 publishDate: 2007-02-08
 author: ["stephanie-suber"]
 featuredImage: null

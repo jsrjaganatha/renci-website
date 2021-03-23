@@ -1,7 +1,6 @@
 ---
 title: "RENCI has the \"touch\" at SC08"
 slug: renci-has-the-touch-at-sc08
-spotlight: false
 publishDate: 2008-12-08
 author: ["stephanie-suber"]
 featuredImage: null

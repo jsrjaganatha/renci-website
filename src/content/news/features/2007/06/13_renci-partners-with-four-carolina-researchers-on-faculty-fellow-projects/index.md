@@ -1,7 +1,6 @@
 ---
 title: "RENCI partners with four Carolina researchers on faculty fellow projects"
 slug: renci-partners-with-four-carolina-researchers-on-faculty-fellow-projects
-spotlight: false
 publishDate: 2007-06-13
 author: ["stephanie-suber"]
 featuredImage: null

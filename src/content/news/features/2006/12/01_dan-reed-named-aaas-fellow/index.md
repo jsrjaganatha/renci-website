@@ -1,7 +1,6 @@
 ---
 title: "Dan Reed named AAAS fellow"
 slug: dan-reed-named-aaas-fellow
-spotlight: false
 publishDate: 2006-12-01
 author: ["stephanie-suber"]
 featuredImage: null

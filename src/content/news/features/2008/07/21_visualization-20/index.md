@@ -1,7 +1,6 @@
 ---
 title: "Visualization 2.0"
 slug: visualization-20
-spotlight: false
 publishDate: 2008-07-21
 author: ["stephanie-suber"]
 featuredImage: null

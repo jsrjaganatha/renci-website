@@ -1,7 +1,6 @@
 ---
 title: "RENCI to show the power of visual communications at lunchtime Bistro"
 slug: renci-to-show-the-power-of-visual-communications-at-lunchtime-bistro
-spotlight: false
 publishDate: 2008-06-02
 author: ["stephanie-suber"]
 featuredImage: null

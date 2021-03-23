@@ -1,7 +1,6 @@
 ---
 title: "Home-grown: a recipe for economic and physical health?"
 slug: economic-physical-health
-spotlight: false
 publishDate: 2010-03-10
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Students and employers from across NC connect at data science career event"
 slug: students-and-employers-from-across-nc-connect-at-data-science-career-event
-spotlight: false
 publishDate: 2017-02-21
 author: 
 featuredImage: null

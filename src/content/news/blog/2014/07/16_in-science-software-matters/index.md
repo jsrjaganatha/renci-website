@@ -1,7 +1,6 @@
 ---
 title: "In science, software matters"
 slug: in-science-software-matters
-spotlight: false
 publishDate: 2014-07-16T10:07:17
 author: ["stephanie-suber"]
 featuredImage: null

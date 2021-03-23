@@ -1,7 +1,7 @@
 ---
 title: "Software Defined Networking gives BEN a boost"
+subtitle: Breakable Experimental Network (BEN) is now faster and SDN-enabled
 slug: software-defined-networking-gives-ben-a-boost
-spotlight: false
 publishDate: 2015-11-11
 author: 
 featuredImage: null
@@ -20,8 +20,7 @@ tags:
     - networking
     - testbed
 ---
-![BEN Logo 9 final](https://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg)  
-_Breakable Experimental Network (BEN) is now faster and SDN-enabled_
+![BEN Logo](https://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg "BEN Logo")
 
 CHAPEL HILL, NC, November 10, 2015 - A collaboration between researchers at RENCI and the University of Houston means that RENCI's [Breakable Experimental Network](https://renci.org/news/benefits-of-ben/) (BEN) will be faster and easier to use for scientists with data intensive research problems to solve.
 
@@ -47,7 +46,7 @@ In addition to more muscle, the upgrade makes BEN a better fit for running data-
 
 The partnership with the University of Houston could evolve into a continuing collaboration in the use of SDN as BEN's capabilities are further improved and the RENCI research team works to bump up data transfer speeds to 100 Gbps.
 
-**RENCI networking research at SC15**
+## RENCI networking research at SC15
 
 RENCI's networking research group will be at the RENCI booth (#181) at [SC15](http://sc15.supercomputing.org/), the international conference for high performance computing, networking, storage and analysis in Austin, Texas, Nov. 17 – 19\. Stop by the booth to learn more about ExoGENI. RENCI networking experts will also present [PANORAMA](https://renci.org/research/panorama/), an approach for modeling and diagnosing the run-time performance of complex scientific workflows, and the Resource Aware Data-centrIc collaboratIon Infrastructure ([RADII](https://renci.org/radii/)), a cloud-based platform designed to enable data-centric collaborations. Another demonstration will deploy ExoGENI resources on [CloudLab](https://www.cloudlab.us/), a flexible, scientific infrastructure for research on the future of cloud computing.
 

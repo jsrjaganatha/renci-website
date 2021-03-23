@@ -1,7 +1,6 @@
 ---
 title: "Stanly County teachers win RENCI Weather Web Competition"
 slug: stanly-county-teachers-win-renci-weather-web-competition
-spotlight: false
 publishDate: 2009-04-29
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI explores uses for 360-degree camera system"
 slug: renci-explores-uses-for-360-degree-camera-system
-spotlight: false
 publishDate: 2009-04-23
 author: ["stephanie-suber"]
 featuredImage: null

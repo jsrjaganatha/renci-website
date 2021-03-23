@@ -1,7 +1,6 @@
 ---
 title: "RENCI's MRR heads for the hills"
 slug: rencis-mrr-heads-for-the-hills
-spotlight: false
 publishDate: 2008-07-12
 author: ["stephanie-suber"]
 featuredImage: null

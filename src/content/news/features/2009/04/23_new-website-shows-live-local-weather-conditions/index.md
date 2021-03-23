@@ -1,7 +1,6 @@
 ---
 title: "New website shows live local weather conditions"
 slug: new-website-shows-live-local-weather-conditions
-spotlight: false
 publishDate: 2009-04-23
 author: ["stephanie-suber"]
 featuredImage: null

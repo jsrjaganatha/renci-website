@@ -1,7 +1,6 @@
 ---
 title: "RENCI-SILS CI-BER project cited in White House \"Big Data\" announcement"
 slug: renci-sils-ci-ber-project
-spotlight: false
 publishDate: 2012-04-02
 author: ["stephanie-suber"]
 featuredImage: null

@@ -3,7 +3,6 @@ title: Cloud Computing Testbed Chameleon Launches Third Phase with Focus on IoT 
 subtitle: $10 million NSF grant funds next four years of multi-institutional project
 slug: cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility
 link: https://renci.org/news/cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility/
-spotlight: false
 publishDate: 2020-08-17T06:25:09
 author: ["stephanie-suber", "jayasree-jaganatha"]
 featuredImage: null

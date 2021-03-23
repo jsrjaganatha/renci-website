@@ -2,7 +2,6 @@
 title: "Tracking the story of the ENIAC programmers"
 subtitle: "Six women who changed computing finally get their day in the spotlight."
 slug: tracking-the-story-of-the-eniac-programmers
-spotlight: false
 publishDate: 2018-03-08T13:10:48
 author:
     - stephanie-suber

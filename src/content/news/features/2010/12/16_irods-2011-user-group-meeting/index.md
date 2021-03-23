@@ -1,7 +1,6 @@
 ---
 title: "iRODS 2011 User Group Meeting announced"
 slug: irods-2011-user-group-meeting
-spotlight: false
 publishDate: 2010-12-16
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Shifting Sands: Visualization techniques help NC State researchers understand Outer Banks dune erosion"
 slug: shifting-sands-renci-visualization-techniques-help-nc-state-researchers-understand-outer-banks-dune-erosion
-spotlight: false
 publishDate: 2012-12-11
 author: ["stephanie-suber"]
 featuredImage: null

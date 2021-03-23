@@ -1,7 +1,6 @@
 ---
 title: "Getting to know RENCI's Social Computing Rooms"
 slug: getting-to-know-rencis-social-computing-rooms
-spotlight: false
 publishDate: 2015-06-25
 author: 
 featuredImage: null
@@ -37,4 +36,4 @@ Each room holds up to 15 people comfortably and includes three projectors (12 pe
 
 The rooms—all available for use free of charge—have been popular and RENCI has documented the development of the SCRs and some of their uses in a white paper entitled _Getting to Know the Social Computing Rooms_.
 
-To learn more about SCRs and how faculty and students are using them, read the white paper [here](https://renci.org/White-Paper-2015-SCR).
+To learn more about SCRs and how faculty and students are using them, read the white paper at [https://renci.org/White-Paper-2015-SCR](https://renci.org/White-Paper-2015-SCR).

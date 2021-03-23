@@ -1,7 +1,6 @@
 ---
 title: "Top software developers tapped to lead iRODS Consortium"
 slug: top-software-developers-tapped-to-lead-irods-consortium
-spotlight: false
 publishDate: 2017-02-09
 author: 
 featuredImage: null

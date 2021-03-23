@@ -1,7 +1,6 @@
 ---
 title: "RENCI and the Coastal Resilience Center partnership honored with 2016 HPCwire Editors' Choice Award"
 slug: renci-and-the-coastal-resilience-center-partnership-honored-with-2016-hpcwire-editors-choice-award
-spotlight: false
 publishDate: 2016-11-15
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "SAA award winning book has RENCI, UNC connections"
 slug: saa-award-winning-book-has-renci-unc-connections
-spotlight: false
 publishDate: 2017-05-22T16:04:13
 author: ["stephanie-suber"]
 featuredImage: null

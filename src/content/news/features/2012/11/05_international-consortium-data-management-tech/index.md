@@ -1,7 +1,6 @@
 ---
 title: "International consortium planned to support sustained, robust data management technology"
 slug: international-consortium-data-management-tech
-spotlight: false
 publishDate: 2012-11-05
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI teams with Clemson and WSU on $2.95 million project to improve and simplify large-scale data analysis"
 slug: renci-teams-with-clemson-and-washington-state-on-2-95-million-nsf-project-to-improve-and-simplify-large-scale-data-analysis
-spotlight: false
 publishDate: 2017-03-30
 author: 
 featuredImage: null

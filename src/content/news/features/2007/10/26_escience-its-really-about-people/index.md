@@ -1,7 +1,6 @@
 ---
 title: "eScience: It's really about people"
 slug: escience-its-really-about-people
-spotlight: false
 publishDate: 2007-10-26
 author: ["stephanie-suber"]
 featuredImage: null

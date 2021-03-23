@@ -1,7 +1,6 @@
 ---
 title: "RENCI at SC09"
 slug: renci-at-sc09
-spotlight: false
 publishDate: 2009-11-10
 author: ["stephanie-suber"]
 featuredImage: null

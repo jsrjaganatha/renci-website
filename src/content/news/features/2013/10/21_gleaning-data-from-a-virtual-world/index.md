@@ -1,7 +1,6 @@
 ---
 title: "Gleaning data from a virtual world"
 slug: gleaning-data-from-a-virtual-world
-spotlight: false
 publishDate: 2013-10-21
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI experts attending GENI Conference"
 slug: renci-experts-attending-geni-conference
-spotlight: false
 publishDate: 2013-07-21T13:33:16
 author: ["stephanie-suber"]
 featuredImage: null

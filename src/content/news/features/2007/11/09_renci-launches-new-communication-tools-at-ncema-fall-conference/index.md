@@ -1,7 +1,6 @@
 ---
 title: "RENCI launches new communication tools at NCEMA fall conference"
 slug: renci-launches-new-communication-tools-at-ncema-fall-conference
-spotlight: false
 publishDate: 2007-11-09
 author: ["stephanie-suber"]
 featuredImage: null

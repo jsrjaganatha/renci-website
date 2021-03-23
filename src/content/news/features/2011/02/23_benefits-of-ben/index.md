@@ -1,7 +1,6 @@
 ---
 title: "Benefits of BEN"
 slug: benefits-of-ben
-spotlight: false
 publishDate: 2011-02-23
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "iRODS developers and consortium members plan busy week at SC16"
 slug: irods-developers-and-consortium-members-plan-busy-week-at-sc16
-spotlight: false
 publishDate: 2016-08-08
 author: 
 featuredImage: null

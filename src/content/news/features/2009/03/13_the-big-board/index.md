@@ -1,7 +1,6 @@
 ---
 title: "The Big Board"
 slug: the-big-board
-spotlight: false
 publishDate: 2009-03-13
 author: ["stephanie-suber"]
 featuredImage: null

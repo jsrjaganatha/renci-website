@@ -1,7 +1,7 @@
 ---
 title: "South Big Data Hub links talented students with tech startups through new program"
+subtitle: DataStart provides real-world experiences for students while helping entrepreneurial companies
 slug: south-big-data-hub-links-talented-students-with-tech-startups-through-new-program
-spotlight: false
 publishDate: 2016-05-24
 author: 
 featuredImage: null
@@ -18,7 +18,6 @@ collaborations:
 tags:
     - students
 ---
-_DataStart provides real-world experiences for students while helping entrepreneurial companies_
 
 Graduate students from six universities in the southern U.S. will spend the summer working on data challenges important to the success of new and growing technology companies thanks to a program called the Southern Startup Internship Program in Data Science (DataStart).
 

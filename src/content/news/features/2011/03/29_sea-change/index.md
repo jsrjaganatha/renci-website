@@ -1,7 +1,6 @@
 ---
 title: "Sea Change"
 slug: sea-change
-spotlight: false
 publishDate: 2011-03-29
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Grad students named Masters Fellows by RENCI at ECU"
 slug: grad-students-named-masters-fellows-by-renci-at-ecu
-spotlight: false
 publishDate: 2008-05-19
 author: ["stephanie-suber"]
 featuredImage: null

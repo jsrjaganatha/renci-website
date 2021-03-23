@@ -1,7 +1,6 @@
 ---
 title: "South Big Data Hub announces awards that apply data science to regional challenges"
 slug: south-big-data-hub-announces-awards-that-apply-data-science-to-regional-challenges
-spotlight: false
 publishDate: 2016-09-30
 author: 
 featuredImage: null

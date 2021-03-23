@@ -1,7 +1,6 @@
 ---
 title: "NC FIRST Robotics program grooms science and tech heroes of the future"
 slug: nc-first-robotics-program-grooms-science-and-tech-heroes-of-the-future
-spotlight: false
 publishDate: 2015-03-13T15:26:21
 author: ["stephanie-suber"]
 featuredImage: null

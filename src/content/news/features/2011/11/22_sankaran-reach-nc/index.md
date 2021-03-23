@@ -1,7 +1,6 @@
 ---
 title: "Director hired to lead development of statewide portal for university research expertise"
 slug: sankaran-reach-nc
-spotlight: false
 publishDate: 2011-11-22
 author: ["stephanie-suber"]
 featuredImage: null

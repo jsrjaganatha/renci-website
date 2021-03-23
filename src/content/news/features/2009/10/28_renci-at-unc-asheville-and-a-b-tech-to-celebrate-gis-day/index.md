@@ -1,7 +1,6 @@
 ---
 title: "RENCI at UNC Asheville and A-B Tech to celebrate GIS Day"
 slug: renci-at-unc-asheville-and-a-b-tech-to-celebrate-gis-day
-spotlight: false
 publishDate: 2009-10-28
 author: ["stephanie-suber"]
 featuredImage: null

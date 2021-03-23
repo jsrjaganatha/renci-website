@@ -1,7 +1,6 @@
 ---
 title: "Fourth annual Data Matters Short Court Series offers a wide range of topics for 2017"
 slug: fourth-annual-data-matters-short-court-series-offers-a-wide-range-of-topics-for-2017
-spotlight: false
 publishDate: 2017-04-26T17:19:42
 author: ["stephanie-suber"]
 featuredImage: null

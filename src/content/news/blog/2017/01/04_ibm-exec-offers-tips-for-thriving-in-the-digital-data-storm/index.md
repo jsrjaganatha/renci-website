@@ -1,7 +1,6 @@
 ---
 title: "IBM exec offers tips for thriving in the digital data storm"
 slug: ibm-exec-offers-tips-for-thriving-in-the-digital-data-storm
-spotlight: false
 publishDate: 2017-01-04T13:54:10
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Birds of a Feather session to examine petascale performance issues"
 slug: birds-of-a-feather-session-to-examine-petascale-performance-issues
-spotlight: false
 publishDate: 2006-11-02
 author: ["stephanie-suber"]
 featuredImage: null

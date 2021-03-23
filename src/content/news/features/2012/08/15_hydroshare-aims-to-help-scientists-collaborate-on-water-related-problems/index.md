@@ -1,7 +1,6 @@
 ---
 title: "HydroShare aims to help scientists collaborate on water-related problems"
 slug: hydroshare-aims-to-help-scientists-collaborate-on-water-related-problems
-spotlight: false
 publishDate: 2012-08-15
 author: ["stephanie-suber"]
 featuredImage: null

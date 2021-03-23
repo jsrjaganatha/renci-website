@@ -1,7 +1,6 @@
 ---
 title: "Why Data Commons? Because scientists want to focus on science, not infrastructure"
 slug: why-data-commons-because-scientists-want-to-focus-on-science-not-infrastructure
-spotlight: false
 publishDate: 2016-08-09T10:54:52
 author: ["stephanie-suber"]
 featuredImage: null

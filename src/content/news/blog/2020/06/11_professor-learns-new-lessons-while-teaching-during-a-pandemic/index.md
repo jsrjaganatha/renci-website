@@ -1,7 +1,6 @@
 ---
 title: "Professor learns new lessons while teaching during a pandemic"
 slug: professor-learns-new-lessons-while-teaching-during-a-pandemic
-spotlight: false
 publishDate: 2020-06-11T15:53:08
 author: ["jayasree-jaganatha"]
 featuredImage: null

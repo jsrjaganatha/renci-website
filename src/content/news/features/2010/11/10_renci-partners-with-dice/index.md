@@ -1,7 +1,6 @@
 ---
 title: "RENCI partners with DICE at UNC and UCSD to sustain iRODS software"
 slug: renci-partners-with-dice
-spotlight: false
 publishDate: 2010-11-10
 author: ["stephanie-suber"]
 featuredImage: null

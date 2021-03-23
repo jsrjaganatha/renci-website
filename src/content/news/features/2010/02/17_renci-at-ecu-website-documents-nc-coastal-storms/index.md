@@ -1,7 +1,6 @@
 ---
 title: "RENCI at ECU website documents NC coastal storms"
 slug: renci-at-ecu-website-documents-nc-coastal-storms
-spotlight: false
 publishDate: 2010-02-17
 author: ["stephanie-suber"]
 featuredImage: null

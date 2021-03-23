@@ -1,7 +1,6 @@
 ---
 title: "Start-up software company prepares to leave 'Launch Pad' for the next development stage"
 slug: start-up-software-company-prepares-to-leave-launch-pad-for-the-next-development-stage
-spotlight: false
 publishDate: 2009-11-18
 author: ["stephanie-suber"]
 featuredImage: null

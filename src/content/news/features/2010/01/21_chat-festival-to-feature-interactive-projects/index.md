@@ -1,7 +1,6 @@
 ---
 title: "CHAT Festival to feature interactive projects"
 slug: chat-festival-to-feature-interactive-projects
-spotlight: false
 publishDate: 2010-01-21
 author: ["stephanie-suber"]
 featuredImage: null

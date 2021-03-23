@@ -1,7 +1,6 @@
 ---
 title: "Matchmakers"
 slug: matchmakers
-spotlight: false
 publishDate: 2011-08-11
 author: ["stephanie-suber"]
 featuredImage: null

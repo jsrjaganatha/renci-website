@@ -1,7 +1,6 @@
 ---
 title: "Computer modeling facilitates discussion of coastal hazards"
 slug: computer-modeling-facilitates-discussion-of-coastal-hazards
-spotlight: false
 publishDate: 2014-12-02T12:17:58
 author: ["stephanie-suber"]
 featuredImage: null

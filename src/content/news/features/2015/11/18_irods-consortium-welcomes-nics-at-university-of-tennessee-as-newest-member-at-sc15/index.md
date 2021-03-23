@@ -1,7 +1,7 @@
 ---
 title: "iRODS Consortium welcomes NICS at University of Tennessee as newest member at SC15"
+subtitle: Consortium membership doubles since last Supercomputing Conference
 slug: irods-consortium-welcomes-nics-at-university-of-tennessee-as-newest-member-at-sc15
-spotlight: false
 publishDate: 2015-11-18
 author: 
 featuredImage: null
@@ -19,7 +19,6 @@ tags:
     - data-management
     - open-source
 ---
-_Consortium membership doubles since last Supercomputing Conference._
 
 AUSTIN, Texas, Nov. 18, 2015 - The [National Institute of Computational Sciences](https://www.nics.tennessee.edu/) (NICS) at the University of Tennessee today became the 13<sup>th</sup> member of the iRODS Consortium, the membership-based foundation organized to sustain the integrated Rule-Oriented Data System ([iRODS](x-webdoc://477066E8-AF68-4460-9119-C05A685E0ED2/irods.org)) as free open source data management software.
 
@@ -37,7 +36,7 @@ Thousands of businesses, research centers, and government agencies worldwide use
 
 The iRODS development team, based at the University of North Carolina's Renaissance Computing Institute (RENCI) will present iRODS demonstrations at the RENCI SC15 booth (#181) throughout the remainder of the conference. Other demonstrations using iRODS demonstrations will also be presented in the EMC booth (#499) on Wednesday at 2:30 p.m. and at the DDN booth (#633) on Thursday at 12:30 p.m.
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

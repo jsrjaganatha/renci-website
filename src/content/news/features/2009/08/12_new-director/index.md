@@ -1,7 +1,6 @@
 ---
 title: "Renaissance Computing Institute Names New Director"
 slug: new-director
-spotlight: false
 publishDate: 2009-08-12
 author: ["stephanie-suber"]
 featuredImage: null

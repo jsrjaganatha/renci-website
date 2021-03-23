@@ -1,7 +1,6 @@
 ---
 title: "RENCI, National Weather Service to hold decision support and technology summit"
 slug: renci-national-weather-service-to-hold-decision-support-and-technology-summit
-spotlight: false
 publishDate: 2009-10-09
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Built for interaction"
 slug: built-for-interaction
-spotlight: false
 publishDate: 2014-03-06
 author: ["stephanie-suber"]
 featuredImage: null

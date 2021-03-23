@@ -1,7 +1,6 @@
 ---
 title: "Introducing the Women of RENCI"
 slug: introducing-the-women-of-renci
-spotlight: false
 publishDate: 2016-03-24T13:30:45
 author: ["stephanie-suber"]
 featuredImage: null

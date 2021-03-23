@@ -1,7 +1,6 @@
 ---
 title: "RENCI Presence at Major Metadata Conference in Greece next week"
 slug: renci-presence-at-major-metadata-conference-in-greece-next-week
-spotlight: false
 publishDate: 2013-11-15T18:40:39
 author: ["stephanie-suber"]
 featuredImage: null

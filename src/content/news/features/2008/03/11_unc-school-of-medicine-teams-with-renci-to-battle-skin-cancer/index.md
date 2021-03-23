@@ -1,7 +1,6 @@
 ---
 title: "UNC School of Medicine teams with RENCI to battle skin cancer"
 slug: unc-school-of-medicine-teams-with-renci-to-battle-skin-cancer
-spotlight: false
 publishDate: 2008-03-11
 author: ["stephanie-suber"]
 featuredImage: null

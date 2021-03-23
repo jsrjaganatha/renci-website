@@ -1,7 +1,6 @@
 ---
 title: "Collaborations in coastal resilience"
 slug: collaborations-in-coastal-resilience
-spotlight: false
 publishDate: 2015-05-14T09:22:11
 author: ["stephanie-suber"]
 featuredImage: null

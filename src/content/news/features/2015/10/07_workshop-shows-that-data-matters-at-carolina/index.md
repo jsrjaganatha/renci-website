@@ -1,7 +1,6 @@
 ---
 title: "Workshop shows that data matters at Carolina"
 slug: workshop-shows-that-data-matters-at-carolina
-spotlight: false
 publishDate: 2015-10-07
 author: 
 featuredImage: null
@@ -31,19 +30,20 @@ Technical disciplines (math, statistics, computer science, library and informati
 
 The workshop challenged attendees to begin developing a comprehensive campus-wide big data strategy that addresses educational needs as well as the needs of researchers who want to collect, analyze, share, and store large complex data sets. Ideas presented fell into three general categories.
 
-![pictured: Will Bosley speaking for the UNC Digital Innovation Lab](https://renci.org/wp-content/uploads/2015/10/IMG_4114_small-300x204.jpg)
+![pictured: Will Bosley speaking for the UNC Digital Innovation Lab](https://renci.org/wp-content/uploads/2015/10/IMG_4114_small-300x204.jpg "Will Bosley speaking for the UNC Digital Innovation Lab")
+> Will Bosley speaking for the UNC Digital Innovation Lab
 
 Presenters from across campus spent time sharing the data questions they find most important. (pictured above: Will Bosley speaking for the UNC Digital Innovation Lab)
 
-**Undergraduate education**
+## Undergraduate education
 
-Virtually every career in the 21<sup style="font-style: inherit; font-weight: inherit;">st</sup> century requires data literacy, which means the issue must be addressed in undergraduate education programs. Ideas discussed included a required data science course for all undergrads; a two-year, university-wide theme of data science and data literacy for the campus; and an undergraduate minor related to data. 
+Virtually every career in the 21st century requires data literacy, which means the issue must be addressed in undergraduate education programs. Ideas discussed included a required data science course for all undergrads; a two-year, university-wide theme of data science and data literacy for the campus; and an undergraduate minor related to data. 
 
-**Graduate education**
+## Graduate education
 
 As more disciplines and industry sectors need data specialists, the need for data education beyond the undergraduate level continues to grow. New programs could include a fast-track professional master's degree program aimed at working professionals, certificates aimed at current workers, development of a core data studies curriculum for all graduate students in data-intensive majors, and a revenue model for sustaining such programs.
 
-**Research**
+## Research
 
 The wealth of digital data means that researchers have an unprecedented opportunity to use data to solve problems related to health, the environment, and public policy, and for artists and humanists to use data creatively for understanding and self expression. However, data-intensive research requires technical infrastructure, including access to computational capacity and cloud computing, advanced networking, and the ability to share and store data while keeping it safe. As the data revolution evolves, Carolina must provide resources and incentivize the kind of multidisciplinary team-oriented research efforts needed for data-driven research.
 

@@ -1,7 +1,6 @@
 ---
 title: "Finding common ground in the Social Computing Room"
 slug: finding-common-ground-in-the-social-computing-room
-spotlight: false
 publishDate: 2015-02-16T10:21:49
 author: ["stephanie-suber"]
 featuredImage: null

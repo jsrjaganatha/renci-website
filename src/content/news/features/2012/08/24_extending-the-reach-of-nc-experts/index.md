@@ -1,7 +1,6 @@
 ---
 title: "Extending the REACH of NC experts"
 slug: extending-the-reach-of-nc-experts
-spotlight: false
 publishDate: 2012-08-24
 author: ["stephanie-suber"]
 featuredImage: null

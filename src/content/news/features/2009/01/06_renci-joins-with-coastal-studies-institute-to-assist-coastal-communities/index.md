@@ -1,7 +1,6 @@
 ---
 title: "RENCI joins with Coastal Studies Institute to assist coastal communities"
 slug: renci-joins-with-coastal-studies-institute-to-assist-coastal-communities
-spotlight: false
 publishDate: 2009-01-06
 author: ["stephanie-suber"]
 featuredImage: null

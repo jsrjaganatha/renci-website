@@ -1,7 +1,6 @@
 ---
 title: "South Big Data Hub, NCDS help sponsor Southern Data Science Conference; registration now open"
 slug: south-big-data-hub-ncds-help-sponsor-southern-data-science-conference-registration-now-open
-spotlight: false
 publishDate: 2018-01-17T15:05:45
 author:
     - stephanie-suber

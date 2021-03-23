@@ -1,7 +1,6 @@
 ---
 title: "RTP's Frontier Welcomes REACH NC"
 slug: rtps-frontier-welcomes-reach-nc
-spotlight: false
 publishDate: 2015-07-22
 author: 
 featuredImage: null

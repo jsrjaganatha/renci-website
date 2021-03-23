@@ -1,7 +1,6 @@
 ---
 title: "Grid-enabled virus hunting"
 slug: grid-enabled-virus-hunting
-spotlight: false
 publishDate: 2009-06-16
 author: ["stephanie-suber"]
 featuredImage: null

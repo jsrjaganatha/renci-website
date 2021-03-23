@@ -1,7 +1,6 @@
 ---
 title: "Girl Power in the Programming World"
 slug: girl-power-in-the-programming-world
-spotlight: false
 publishDate: 2014-04-26T21:06:51
 author: ["stephanie-suber"]
 featuredImage: null

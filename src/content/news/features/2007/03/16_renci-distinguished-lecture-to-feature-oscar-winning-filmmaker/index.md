@@ -1,7 +1,6 @@
 ---
 title: "RENCI Distinguished Lecture to feature Oscar-winning filmmaker"
 slug: renci-distinguished-lecture-to-feature-oscar-winning-filmmaker
-spotlight: false
 publishDate: 2007-03-16
 author: ["stephanie-suber"]
 featuredImage: null

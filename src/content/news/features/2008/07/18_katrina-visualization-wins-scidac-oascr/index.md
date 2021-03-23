@@ -1,7 +1,6 @@
 ---
 title: "Katrina Visualization Wins SciDAC \"OASCR\""
 slug: katrina-visualization-wins-scidac-oascr
-spotlight: false
 publishDate: 2008-07-18
 author: ["stephanie-suber"]
 featuredImage: null

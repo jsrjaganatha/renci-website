@@ -1,7 +1,6 @@
 ---
 title: "DataNet presentations lead to invigorating discussion at ESA annual meeting"
 slug: datanet-presentations-lead-to-invigorating-discussion-at-esa-annual-meeting
-spotlight: false
 publishDate: 2015-09-14T10:39:58
 author: ["stephanie-suber"]
 featuredImage: null

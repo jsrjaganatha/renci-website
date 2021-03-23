@@ -1,7 +1,6 @@
 ---
 title: "Cleversafe joins the iRODS Consortium"
 slug: cleversafe-joins-the-irods-consortium
-spotlight: false
 publishDate: 2015-05-12
 author:
 featuredImage: null
@@ -31,10 +30,12 @@ Thousands of businesses, research centers, and government agencies worldwide use
 
 In addition to RENCI, DICE, and Cleversafe, the Consortium includes DataDirect Networks (DDN), EMC Corporation, Seagate, the Wellcome Trust Sanger Institute, IBM, and NASA's Atmospheric Science Data Center. For more information about the iRODS Consortium, please visit [www.irods.org](http://www.irods.org).
 
-**About Cleversafe, Inc.**
+## About Cleversafe, Inc.
+
 Cleversafe, the web-scale storage market share leader, delivers a breakthrough private cloud software platform that solves petabyte-and-beyond storage challenges. Relied upon by the world's largest data repositories, Cleversafe reduces 80 percent or more of storage costs while providing carrier-grade security, 15 nines of reliability and simplified storage management. For more information, please visit [www.cleversafe.com](http://www.cleversafe.com).
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
+
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at irods.org.
 
 The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill.

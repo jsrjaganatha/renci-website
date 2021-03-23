@@ -1,7 +1,6 @@
 ---
 title: "Building better classifiers for reproducible science"
 slug: building-better-classifiers-for-reproducible-science
-spotlight: false
 publishDate: 2014-10-03T14:49:27
 author: ["stephanie-suber"]
 featuredImage: null

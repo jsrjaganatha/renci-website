@@ -1,7 +1,6 @@
 ---
 title: "Healthcare analytics in the spotlight"
 slug: healthcare-analytics-in-the-spotlight
-spotlight: false
 publishDate: 2013-10-31T11:09:21
 author: ["stephanie-suber"]
 featuredImage: null

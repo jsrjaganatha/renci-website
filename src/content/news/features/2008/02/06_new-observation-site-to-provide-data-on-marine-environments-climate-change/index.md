@@ -1,7 +1,6 @@
 ---
 title: "New observation site to provide data on marine environments, climate change"
 slug: new-observation-site-to-provide-data-on-marine-environments-climate-change
-spotlight: false
 publishDate: 2008-02-06
 author: ["stephanie-suber"]
 featuredImage: null

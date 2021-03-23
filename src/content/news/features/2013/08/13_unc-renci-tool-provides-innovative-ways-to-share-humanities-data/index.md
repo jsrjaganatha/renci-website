@@ -1,7 +1,6 @@
 ---
 title: "UNC, RENCI tool provides innovative ways to share humanities data"
 slug: unc-renci-tool-provides-innovative-ways-to-share-humanities-data
-spotlight: false
 publishDate: 2013-08-13
 author: ["stephanie-suber"]
 featuredImage: null

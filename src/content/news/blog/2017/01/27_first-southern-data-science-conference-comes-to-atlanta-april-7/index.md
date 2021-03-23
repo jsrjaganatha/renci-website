@@ -1,7 +1,6 @@
 ---
 title: "First Southern Data Science Conference comes to Atlanta April 7"
 slug: first-southern-data-science-conference-comes-to-atlanta-april-7
-spotlight: false
 publishDate: 2017-01-27T15:19:24
 author: ["stephanie-suber"]
 featuredImage: null

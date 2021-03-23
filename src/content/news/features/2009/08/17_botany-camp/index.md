@@ -1,7 +1,6 @@
 ---
 title: "Botany camp offers non-traditional students Web 2.0 curriculum"
 slug: botany-camp
-spotlight: false
 publishDate: 2009-08-17
 author: ["stephanie-suber"]
 featuredImage: null

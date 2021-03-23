@@ -1,7 +1,6 @@
 ---
 title: "RENCI, NCSA collaboration wins conference award"
 slug: renci-ncsa-collaboration-wins-conference-award
-spotlight: false
 publishDate: 2007-10-19
 author: ["stephanie-suber"]
 featuredImage: null

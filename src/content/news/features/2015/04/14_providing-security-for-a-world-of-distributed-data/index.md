@@ -1,7 +1,6 @@
 ---
 title: "Providing security for a world of distributed data"
 slug: providing-security-for-a-world-of-distributed-data
-spotlight: false
 publishDate: 2015-04-14
 author: 
 featuredImage: null
@@ -27,7 +26,7 @@ Over the years, a number of new companies nurtured by RENCI have been featured a
 
 Developed at RENCI initially to help medical researchers who use sensitive data in their work, a patent for SRS is now pending. That patent will belong to RENCI and its collaborators who helped develop and test the technology: UNC's [School of Information and Library Science](http://sils.unc.edu/), the [NC TraCS Institute](http://tracs.unc.edu/), [Duke University](http://www.duke.edu/), and [UNC Health Care](https://www.unchealthcare.org/site). 
 
-**Fighting back against health care hacks**
+## Fighting back against health care hacks
 
 SRS launched in 2009 as a project to enable the Carolina Data Warehouse for Health (CDW-H), a database of clinical health records for all UNC Hospitals patients, to provide medical researchers and healthcare professionals secure access to patient records. At that time, UNC Health Care—through the new North Carolina Translational and Clinical Science (NC TraCS) Institute—wanted to develop a system that would give researchers access to CDW-H data but minimize the riskof data leakage that could compromise personal privacy and result in noncompliance with federal regulations. 
 
@@ -40,7 +39,7 @@ The need was obvious and has become even more critical over the past six years: 
 
 "Worrying about data breaches keeps CIOs up at night," said Shoffner. "A data breach puts jobs on the line and can cost billions in regulatory penalties and lawsuits, not to mention the pain caused to those whose sensitive data is released. And with data becoming more distributed, the risk, and the potential pain becomes greater."
 
-**Technology to address the pain**
+## Technology to address the pain
 
 Although it was launched in the medical research community, the SRS solution can be applied to any research or business domain that uses sensitive data. First, a virtual environment that mimics the look and feel of a desktop computer is set up as a virtual machine on a server. That virtual workspace contains software tools commonly used in data-intensive research, including Microsoft Office and SAS analytics applications. Unlike a typical desktop, the virtual workspace is a secure, controlled environment designed to prevent data leakage. Shoffner refers to the system as a "roach motel for sensitive data: the data can check in but it can't check out."
 

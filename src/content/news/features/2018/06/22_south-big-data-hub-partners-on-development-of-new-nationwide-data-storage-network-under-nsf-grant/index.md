@@ -1,7 +1,6 @@
 ---
 title: "South Big Data Hub partners on development of new nationwide data storage network under NSF grant"
 slug: south-big-data-hub-partners-on-development-of-new-nationwide-data-storage-network-under-nsf-grant
-spotlight: false
 publishDate: 2018-06-22
 author: ["stephanie-suber"]
 featuredImage: null

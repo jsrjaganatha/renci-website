@@ -1,7 +1,6 @@
 ---
 title: "Bringing technology to bear on critical issues"
 slug: bringing-technology-to-bear-on-critical-issues
-spotlight: false
 publishDate: 2006-06-01
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI networking pros tapped for project to design the future Internet"
 slug: renci-networking-pros-tapped-for-project-to-design-the-future-internet
-spotlight: false
 publishDate: 2011-12-06
 author: ["stephanie-suber"]
 featuredImage: null

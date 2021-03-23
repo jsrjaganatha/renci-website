@@ -1,7 +1,6 @@
 ---
 title: "Mathematicians to tackle climate change issues through new NSF-funded virtual organization"
 slug: mathematicians-climate-change-issues-virtual-organization
-spotlight: false
 publishDate: 2010-09-23
 author: ["stephanie-suber"]
 featuredImage: null

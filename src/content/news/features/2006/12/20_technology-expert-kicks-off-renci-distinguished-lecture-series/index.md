@@ -1,7 +1,6 @@
 ---
 title: "Technology expert kicks off RENCI Distinguished Lecture series"
 slug: technology-expert-kicks-off-renci-distinguished-lecture-series
-spotlight: false
 publishDate: 2006-12-20
 author: ["stephanie-suber"]
 featuredImage: null

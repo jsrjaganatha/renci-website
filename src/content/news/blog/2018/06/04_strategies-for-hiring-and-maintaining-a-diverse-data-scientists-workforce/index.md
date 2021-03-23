@@ -1,7 +1,6 @@
 ---
 title: "Strategies for hiring and maintaining a diverse data scientists workforce"
 slug: strategies-for-hiring-and-maintaining-a-diverse-data-scientists-workforce
-spotlight: false
 publishDate: 2018-06-04T11:35:19
 author: ["stephanie-suber"]
 featuredImage: null

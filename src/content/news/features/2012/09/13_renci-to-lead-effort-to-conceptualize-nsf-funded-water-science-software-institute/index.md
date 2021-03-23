@@ -1,7 +1,6 @@
 ---
 title: "RENCI to lead effort to conceptualize NSF-funded Water Science Software Institute"
 slug: renci-to-lead-effort-to-conceptualize-nsf-funded-water-science-software-institute
-spotlight: false
 publishDate: 2012-09-13
 author: ["stephanie-suber"]
 featuredImage: null

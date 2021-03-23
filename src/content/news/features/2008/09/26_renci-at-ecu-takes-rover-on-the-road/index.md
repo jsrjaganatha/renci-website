@@ -1,7 +1,6 @@
 ---
 title: "RENCI at ECU takes ROVER on the road"
 slug: renci-at-ecu-takes-rover-on-the-road
-spotlight: false
 publishDate: 2008-09-26
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI's Asheville Center Featured in TV Special on Climate, Technology and the Environment"
 slug: rencis-asheville-center-featured-in-tv-special-on-climate-technology-and-the-environment
-spotlight: false
 publishDate: 2009-06-04
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Hurricane Katrina five years later: A humanities focused observance"
 slug: hurricane-katrina-five-years-later-a-humanities-focused-observance
-spotlight: false
 publishDate: 2010-08-23
 author: ["stephanie-suber"]
 featuredImage: null

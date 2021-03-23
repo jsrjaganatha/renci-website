@@ -1,7 +1,6 @@
 ---
 title: "Beyond data: Supporting community during a pandemic"
 slug: beyond-data-supporting-community-during-a-pandemic
-spotlight: false
 publishDate: 2020-05-19T15:42:10
 author: ["jayasree-jaganatha"]
 featuredImage: null

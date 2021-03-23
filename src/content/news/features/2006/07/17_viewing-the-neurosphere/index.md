@@ -1,7 +1,6 @@
 ---
 title: "Viewing the Neurosphere"
 slug: viewing-the-neurosphere
-spotlight: false
 publishDate: 2006-07-17
 author: ["stephanie-suber"]
 featuredImage: null

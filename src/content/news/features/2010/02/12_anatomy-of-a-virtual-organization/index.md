@@ -1,7 +1,6 @@
 ---
 title: "Anatomy of a Virtual Organization"
 slug: anatomy-of-a-virtual-organization
-spotlight: false
 publishDate: 2010-02-12
 author: ["stephanie-suber"]
 featuredImage: null

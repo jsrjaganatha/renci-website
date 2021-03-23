@@ -1,7 +1,6 @@
 ---
 title: "RENCI's Dan Reed named to presidential council of advisors"
 slug: rencis-dan-reed-named-to-presidential-council-of-advisors
-spotlight: false
 publishDate: 2006-02-28
 author: ["stephanie-suber"]
 featuredImage: null

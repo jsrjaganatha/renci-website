@@ -1,7 +1,6 @@
 ---
 title: "Webinar to put the spotlight on metadata"
 slug: webinar-to-put-the-spotlight-on-metadata
-spotlight: false
 publishDate: 2015-05-07T09:53:36
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI Research Architect Presents on O&#8217;Reilly Webcast"
 slug: renci-research-architect-presents-on-oreilly-webcast
-spotlight: false
 publishDate: 2013-11-06T16:43:38
 author: ["stephanie-suber"]
 featuredImage: null

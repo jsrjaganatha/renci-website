@@ -1,7 +1,6 @@
 ---
 title: "Mock trial, virtual world, real learning"
 slug: mock-trial-virtual-world-real-learning
-spotlight: false
 publishDate: 2009-09-25
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI researchers spearhead $20 million project to test a reimagined Internet"
 slug: fabric-award
-spotlight: false
 publishDate: 2019-09-17
 author: ["stephanie-suber"]
 featuredImage: null

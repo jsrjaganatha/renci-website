@@ -1,7 +1,6 @@
 ---
 title: "Analysis of the human genomics landscape a decade after the Human Genome Project"
 slug: the-human-genomics-landscape-a-decade-after-the-human-genome-project
-spotlight: false
 publishDate: 2013-05-08
 author: ["stephanie-suber"]
 featuredImage: null

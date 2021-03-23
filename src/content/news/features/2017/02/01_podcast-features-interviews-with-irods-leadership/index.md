@@ -1,7 +1,6 @@
 ---
 title: "Podcast features interviews with iRODS leadership"
 slug: podcast-features-interviews-with-irods-leadership
-spotlight: false
 publishDate: 2017-02-01
 author: 
 featuredImage: null

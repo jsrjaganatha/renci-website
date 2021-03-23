@@ -2,7 +2,6 @@
 title: "RENCI Named as Collaborating Institution for $3 Million Cyberinfrastructure Center of Excellence Pilot"
 subtitle: "Project will create a model for advising NSF's largest scientific facilities"
 slug: renci-named-as-collaborating-institution-for-3-million-cyberinfrastructure-center-of-excellence-pilot
-spotlight: false
 publishDate: 2018-10-03
 author: 
 featuredImage: null

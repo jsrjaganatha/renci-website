@@ -1,7 +1,6 @@
 ---
 title: "RENCI to host Open Science Grid, Cyberinfrastructure Workshop"
 slug: renci-to-host-open-science-grid-cyberinfrastructure-workshop
-spotlight: false
 publishDate: 2009-04-09
 author: ["stephanie-suber"]
 featuredImage: null

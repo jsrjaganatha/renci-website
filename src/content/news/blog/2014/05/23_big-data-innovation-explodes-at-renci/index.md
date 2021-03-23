@@ -1,7 +1,6 @@
 ---
 title: "Big data innovation explodes at RENCI"
 slug: big-data-innovation-explodes-at-renci
-spotlight: false
 publishDate: 2014-05-23T10:52:33
 author: ["stephanie-suber"]
 featuredImage: null

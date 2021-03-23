@@ -1,7 +1,6 @@
 ---
 title: "Incredible Journey"
 slug: incredible-journey
-spotlight: false
 publishDate: 2009-05-08
 author: ["stephanie-suber"]
 featuredImage: null

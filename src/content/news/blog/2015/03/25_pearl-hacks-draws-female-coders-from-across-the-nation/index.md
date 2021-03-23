@@ -1,7 +1,6 @@
 ---
 title: "Pearl Hacks draws female coders from across the nation"
 slug: pearl-hacks-draws-female-coders-from-across-the-nation
-spotlight: false
 publishDate: 2015-03-25T18:44:33
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Lecture series looks at human beings 2050"
 slug: lecture-series-looks-at-human-beings-2050
-spotlight: false
 publishDate: 2006-07-17
 author: ["stephanie-suber"]
 featuredImage: null

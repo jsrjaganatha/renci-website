@@ -1,7 +1,6 @@
 ---
 title: "UNC students use Social Computing Room for 'illuminating' experience"
 slug: unc-students-use-social-computing-room-for-illuminating-experience
-spotlight: false
 publishDate: 2008-05-19
 author: ["stephanie-suber"]
 featuredImage: null

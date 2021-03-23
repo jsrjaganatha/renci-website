@@ -1,7 +1,6 @@
 ---
 title: "Project ADAMANT wins CENIC's 2013 Innovations in Networking award"
 slug: project-adamant-2013
-spotlight: false
 publishDate: 2013-03-14
 author: ["stephanie-suber"]
 featuredImage: null

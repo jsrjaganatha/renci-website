@@ -1,7 +1,6 @@
 ---
 title: "SUPER Institute to help scientists exploit DOE leadership class computing systems"
 slug: super-institute-to-help-doe-leadership
-spotlight: false
 publishDate: 2011-08-31
 author: ["stephanie-suber"]
 featuredImage: null

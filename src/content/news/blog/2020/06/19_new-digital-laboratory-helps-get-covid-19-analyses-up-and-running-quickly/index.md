@@ -1,7 +1,6 @@
 ---
 title: "New digital laboratory helps get COVID-19 analyses up and running quickly"
 slug: new-digital-laboratory-helps-get-covid-19-analyses-up-and-running-quickly
-spotlight: false
 publishDate: 2020-06-19T12:18:36
 author: ["jayasree-jaganatha"]
 featuredImage: null

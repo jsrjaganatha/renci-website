@@ -1,7 +1,6 @@
 ---
 title: "Reed to present keynote at IBM University Day"
 slug: reed-to-present-keynote-at-ibm-university-day
-spotlight: false
 publishDate: 2006-04-14
 author: ["stephanie-suber"]
 featuredImage: null

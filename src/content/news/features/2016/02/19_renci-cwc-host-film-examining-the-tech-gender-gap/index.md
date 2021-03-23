@@ -1,7 +1,6 @@
 ---
 title: "RENCI, CWC host film examining the tech gender gap"
 slug: renci-cwc-host-film-examining-the-tech-gender-gap
-spotlight: false
 publishDate: 2016-02-19
 author: ["stephanie-suber"]
 featuredImage: null

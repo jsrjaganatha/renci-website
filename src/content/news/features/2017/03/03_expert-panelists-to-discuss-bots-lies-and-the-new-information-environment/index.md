@@ -1,7 +1,6 @@
 ---
 title: "Expert panelists to discuss bots, lies, and the new information environment"
 slug: expert-panelists-to-discuss-bots-lies-and-the-new-information-environment
-spotlight: false
 publishDate: 2017-03-03
 author: 
 featuredImage: null

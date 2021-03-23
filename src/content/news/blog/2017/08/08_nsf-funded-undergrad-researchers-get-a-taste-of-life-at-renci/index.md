@@ -1,7 +1,6 @@
 ---
 title: "NSF-funded undergraduate researchers get a taste of life at RENCI"
 slug: nsf-funded-undergrad-researchers-get-a-taste-of-life-at-renci
-spotlight: false
 publishDate: 2017-08-08T15:46:11
 author: ["stephanie-suber"]
 featuredImage: null

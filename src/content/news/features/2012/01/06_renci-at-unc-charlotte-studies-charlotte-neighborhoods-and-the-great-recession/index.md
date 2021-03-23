@@ -1,7 +1,6 @@
 ---
 title: "RENCI at UNC Charlotte studies Charlotte neighborhoods and the Great Recession"
 slug: renci-at-unc-charlotte-studies-charlotte-neighborhoods-and-the-great-recession
-spotlight: false
 publishDate: 2012-01-06
 author: ["stephanie-suber"]
 featuredImage: null

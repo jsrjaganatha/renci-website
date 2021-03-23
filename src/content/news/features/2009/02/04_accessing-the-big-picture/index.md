@@ -1,7 +1,6 @@
 ---
 title: "Accessing the big picture"
 slug: accessing-the-big-picture
-spotlight: false
 publishDate: 2009-02-04
 author: ["stephanie-suber"]
 featuredImage: null

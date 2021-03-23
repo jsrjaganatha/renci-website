@@ -1,7 +1,6 @@
 ---
 title: "Computing the future: Looking at 2016"
 slug: computing-the-future-looking-at-2016
-spotlight: false
 publishDate: 2006-05-05
 author: ["stephanie-suber"]
 featuredImage: null

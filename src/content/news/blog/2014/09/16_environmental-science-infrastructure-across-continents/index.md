@@ -1,7 +1,6 @@
 ---
 title: "Environmental science infrastructure across continents"
 slug: environmental-science-infrastructure-across-continents
-spotlight: false
 publishDate: 2014-09-16T11:58:32
 author: ["stephanie-suber"]
 featuredImage: null

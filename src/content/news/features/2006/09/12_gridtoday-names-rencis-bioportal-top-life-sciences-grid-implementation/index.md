@@ -1,7 +1,6 @@
 ---
 title: "GRIDtoday names RENCI's Bioportal top life sciences grid implementation"
 slug: gridtoday-names-rencis-bioportal-top-life-sciences-grid-implementation
-spotlight: false
 publishDate: 2006-09-12
 author: ["stephanie-suber"]
 featuredImage: null

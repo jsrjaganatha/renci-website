@@ -1,7 +1,6 @@
 ---
 title: "Presentations at upcoming meeting highlight worldwide uses of iRODS"
 slug: presentations-at-upcoming-meeting-highlight-worldwide-uses-of-irods
-spotlight: false
 publishDate: 2017-06-02
 author: 
 featuredImage: null

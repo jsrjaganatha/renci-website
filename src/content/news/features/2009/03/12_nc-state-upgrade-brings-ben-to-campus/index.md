@@ -1,7 +1,6 @@
 ---
 title: "NC State upgrade brings BEN to campus"
 slug: nc-state-upgrade-brings-ben-to-campus
-spotlight: false
 publishDate: 2009-03-12
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "iRODS team offers free workshop at SC16"
 slug: irods-team-offers-free-workshop-at-sc16
-spotlight: false
 publishDate: 2016-10-10
 author: 
 featuredImage: null

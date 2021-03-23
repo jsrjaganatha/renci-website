@@ -1,7 +1,6 @@
 ---
 title: "Research by touch"
 slug: research-by-touch
-spotlight: false
 publishDate: 2009-12-22
 author: ["stephanie-suber"]
 featuredImage: null

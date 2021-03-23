@@ -1,7 +1,6 @@
 ---
 title: "Double Vision"
 slug: double-vision
-spotlight: false
 publishDate: 2009-02-19
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Exploring the genetics of schizophrenia"
 slug: exploring-the-genetics-of-schizophrenia
-spotlight: false
 publishDate: 2011-12-01
 author: ["stephanie-suber"]
 featuredImage: null

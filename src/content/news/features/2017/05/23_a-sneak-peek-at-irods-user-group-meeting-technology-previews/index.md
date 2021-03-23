@@ -1,7 +1,6 @@
 ---
 title: "A sneak peek at iRODS User Group Meeting technology previews"
 slug: a-sneak-peek-at-irods-user-group-meeting-technology-previews
-spotlight: false
 publishDate: 2017-05-23
 author: 
 featuredImage: null

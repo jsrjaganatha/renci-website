@@ -1,7 +1,6 @@
 ---
 title: "Better storm surge modeling using high performance computing"
 slug: better-storm-surge-modeling-using-high-performance-computing
-spotlight: false
 publishDate: 2014-08-25
 author: ["stephanie-suber"]
 featuredImage: null

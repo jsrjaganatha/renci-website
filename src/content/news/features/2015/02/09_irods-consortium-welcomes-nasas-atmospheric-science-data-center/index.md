@@ -1,7 +1,6 @@
 ---
 title: "iRODS Consortium welcomes NASA's Atmospheric Science Data Center"
 slug: irods-consortium-welcomes-nasas-atmospheric-science-data-center
-spotlight: false
 publishDate: 2015-02-09
 author: 
 featuredImage: null
@@ -30,7 +29,7 @@ The iRODS Consortium was formed in 2013 by RENCI (the Renaissance Computing Inst
 
 "The ASDC faces big data challenges that require a robust data management solution, and iRODS is a perfect match for their needs," said iRODS Consortium Executive Director Brand Fortner, PhD. "The ASDC will provide valuable input to the iRODS development team that will help iRODS meet the data management needs of the entire Earth sciences research community. We enthusiastically welcome them to the Consortium and look forward to many productive collaborations."
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at irods.org.
 

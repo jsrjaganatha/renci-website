@@ -1,7 +1,6 @@
 ---
 title: "Digital Diagnostics"
 slug: digital-diagnostics
-spotlight: false
 publishDate: 2006-08-17
 author: ["stephanie-suber"]
 featuredImage: null

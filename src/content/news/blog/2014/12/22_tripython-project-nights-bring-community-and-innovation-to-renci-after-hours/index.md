@@ -1,7 +1,6 @@
 ---
 title: "TriPython project nights bring community and innovation to RENCI after hours"
 slug: tripython-project-nights-bring-community-and-innovation-to-renci-after-hours
-spotlight: false
 publishDate: 2014-12-22T14:03:40
 author: ["stephanie-suber"]
 featuredImage: null

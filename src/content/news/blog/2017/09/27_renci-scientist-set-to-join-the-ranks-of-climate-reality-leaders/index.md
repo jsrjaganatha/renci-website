@@ -1,7 +1,6 @@
 ---
 title: "RENCI scientist set to join the ranks of Climate Reality Leaders"
 slug: renci-scientist-set-to-join-the-ranks-of-climate-reality-leaders
-spotlight: false
 publishDate: 2017-09-27T14:46:33
 author: ["stephanie-suber"]
 featuredImage: null

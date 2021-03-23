@@ -1,7 +1,6 @@
 ---
 title: "TeraGrid partners map the future of nation's largest grid project"
 slug: teragrid-partners-map-the-future-of-nations-largest-grid-project
-spotlight: false
 publishDate: 2006-03-22
 author: ["stephanie-suber"]
 featuredImage: null

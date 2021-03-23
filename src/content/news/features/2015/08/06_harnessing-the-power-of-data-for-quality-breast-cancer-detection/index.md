@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the power of data for quality breast cancer detection"
+subtitle: RENCI-enhanced software helps reduce false positives and maintain compliance
 slug: harnessing-the-power-of-data-for-quality-breast-cancer-detection
-spotlight: false
 publishDate: 2015-08-06
 author: ["stephanie-suber"]
 featuredImage: null
@@ -18,7 +18,6 @@ collaborations:
 tags:
     - data-analysis
 ---
-_RENCI-enhanced software helps reduce false positives and maintain compliance._ 
 
 Currently, about 12 percent of the female population will develop invasive breast cancer in their lifetimes, and for women in the U.S., breast cancer death rates are higher than those for any other cancer, besides lung cancer, according to the [American Cancer Society](http://www.cancer.org/cancer/breastcancer/detailedguide/breast-cancer-key-statistics). Despite these harsh realities, the death rates from breast cancer have steadily decreased since 1989, a trend often attributed to treatment advances and increased screening. 
 

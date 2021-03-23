@@ -1,7 +1,6 @@
 ---
 title: "Delving into the data from Hurricane Maria"
 slug: delving-into-the-data-from-hurricane-maria
-spotlight: false
 publishDate: 2018-02-21
 author: 
 featuredImage: null

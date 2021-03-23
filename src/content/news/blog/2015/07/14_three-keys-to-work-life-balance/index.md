@@ -1,7 +1,6 @@
 ---
 title: "Three keys to work-life balance"
 slug: three-keys-to-work-life-balance
-spotlight: false
 publishDate: 2015-07-14T12:27:15
 author: ["stephanie-suber"]
 featuredImage: null

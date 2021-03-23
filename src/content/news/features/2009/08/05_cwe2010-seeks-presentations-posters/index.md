@@ -1,7 +1,6 @@
 ---
 title: "CWE2010 seeks presentations, posters"
 slug: cwe2010-seeks-presentations-posters
-spotlight: false
 publishDate: 2009-08-05
 author: ["stephanie-suber"]
 featuredImage: null

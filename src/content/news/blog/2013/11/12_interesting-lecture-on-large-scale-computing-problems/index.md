@@ -1,7 +1,6 @@
 ---
 title: "Interesting Lecture on Large-Scale Computing Problems"
 slug: interesting-lecture-on-large-scale-computing-problems
-spotlight: false
 publishDate: 2013-11-12T21:01:49
 author: ["stephanie-suber"]
 featuredImage: null

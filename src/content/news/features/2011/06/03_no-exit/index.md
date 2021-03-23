@@ -1,7 +1,6 @@
 ---
 title: "No Exit"
 slug: no-exit
-spotlight: false
 publishDate: 2011-06-03
 author: ["stephanie-suber"]
 featuredImage: null

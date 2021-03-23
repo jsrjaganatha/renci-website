@@ -1,7 +1,6 @@
 ---
 title: "iRODS 4.0 release brings popular data management tool to wider audience"
 slug: irods-4-0-release-brings-popular-data-management-tool-to-wider-audience
-spotlight: false
 publishDate: 2014-04-02
 author: ["stephanie-suber"]
 featuredImage: null

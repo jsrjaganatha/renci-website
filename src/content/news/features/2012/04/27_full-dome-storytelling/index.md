@@ -1,7 +1,6 @@
 ---
 title: "Full-dome storytelling"
 slug: full-dome-storytelling
-spotlight: false
 publishDate: 2012-04-27
 author: ["stephanie-suber"]
 featuredImage: null

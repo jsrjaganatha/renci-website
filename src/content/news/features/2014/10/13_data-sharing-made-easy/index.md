@@ -1,7 +1,6 @@
 ---
 title: "Data sharing made easy"
 slug: data-sharing-made-easy
-spotlight: false
 publishDate: 2014-10-13
 author: ["stephanie-suber"]
 featuredImage: null

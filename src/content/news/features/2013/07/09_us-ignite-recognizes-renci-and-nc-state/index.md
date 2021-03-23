@@ -1,7 +1,6 @@
 ---
 title: "US Ignite recognizes RENCI and NC State for innovative app for monitoring power grids"
 slug: us-ignite-recognizes-renci-and-nc-state
-spotlight: false
 publishDate: 2013-07-09
 author: ["stephanie-suber"]
 featuredImage: null

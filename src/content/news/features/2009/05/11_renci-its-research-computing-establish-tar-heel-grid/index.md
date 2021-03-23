@@ -1,7 +1,6 @@
 ---
 title: "RENCI, ITS Research Computing Establish Tar Heel Grid"
 slug: renci-its-research-computing-establish-tar-heel-grid
-spotlight: false
 publishDate: 2009-05-11
 author: ["stephanie-suber"]
 featuredImage: null

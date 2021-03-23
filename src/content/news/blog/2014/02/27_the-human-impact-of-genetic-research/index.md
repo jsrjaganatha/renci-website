@@ -1,7 +1,6 @@
 ---
 title: "The Human Impact of Genetic Research"
 slug: the-human-impact-of-genetic-research
-spotlight: false
 publishDate: 2014-02-27T16:54:16
 author: ["stephanie-suber"]
 featuredImage: null

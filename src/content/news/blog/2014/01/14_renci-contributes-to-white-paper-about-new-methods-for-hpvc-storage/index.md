@@ -1,7 +1,6 @@
 ---
 title: "RENCI contributes to white paper about new methods for HPVC storage"
 slug: renci-contributes-to-white-paper-about-new-methods-for-hpvc-storage
-spotlight: false
 publishDate: 2014-01-14T13:41:32
 author: ["stephanie-suber"]
 featuredImage: null

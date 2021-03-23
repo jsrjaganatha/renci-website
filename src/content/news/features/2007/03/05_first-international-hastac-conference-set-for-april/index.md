@@ -1,7 +1,6 @@
 ---
 title: "First international HASTAC conference set for April"
 slug: first-international-hastac-conference-set-for-april
-spotlight: false
 publishDate: 2007-03-05
 author: ["stephanie-suber"]
 featuredImage: null

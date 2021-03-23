@@ -1,7 +1,6 @@
 ---
 title: "RENCI provides Visual History Archive to assist researchers"
 slug: renci-provides-visual-history-archive-to-assist-researchers
-spotlight: false
 publishDate: 2009-05-29
 author: ["stephanie-suber"]
 featuredImage: null

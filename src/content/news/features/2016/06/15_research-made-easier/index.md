@@ -1,7 +1,6 @@
 ---
 title: "Research made easier"
 slug: research-made-easier
-spotlight: false
 publishDate: 2016-06-15
 author: 
 featuredImage: null

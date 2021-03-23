@@ -1,7 +1,6 @@
 ---
 title: "RENCI hosts open house for new UNC engagement center"
 slug: renci-hosts-open-house-for-new-unc-engagement-center
-spotlight: false
 publishDate: 2008-01-16
 author: ["stephanie-suber"]
 featuredImage: null

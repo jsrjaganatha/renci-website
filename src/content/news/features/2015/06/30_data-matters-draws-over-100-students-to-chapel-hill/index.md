@@ -1,7 +1,7 @@
 ---
 title: "Data Matters draws over 100 students to Chapel Hill"
+subtitle: International group of students sharpen data science skills in short course series
 slug: data-matters-draws-over-100-students-to-chapel-hill
-spotlight: false
 publishDate: 2015-06-30
 author: ["stephanie-suber"]
 featuredImage: null
@@ -18,7 +18,6 @@ collaborations:
 tags:
     - training
 ---
-_International group of students sharpen data science skills in short course series._
 
 A second cohort of students recently wrapped up their summer data science learning at the [Data Matters Short Course Series](http://datamatters.org/). A total of 132 business managers, data analytics specialists, academic researchers, and others who grapple with big data attended the short course series held during the last full week of June at the William and Ida Friday Center for Continuing Education in Chapel Hill.
 
@@ -42,7 +41,7 @@ The National Consortium for Data Science (NCDS), the Odum Institute for Social S
 
 * * *
 
-**About the Sponsors:**
+## About the Sponsors
 
 The National Consortium for Data Science formed in 2013 as a non-profit public-private partnership to advance the field of data science and address the data challenges of the 21st century. For more information, visit [www.data2discovery.org](http://www.data2discovery.org/).
 
@@ -52,7 +51,7 @@ RENCI develops and deploys advanced computing, networking, and data technologies
 
 * * *
 
-**Data Matters 2015 Album**
+## Data Matters 2015 Album
 
 [![NCDS Data Matters Short Course Series | 2015 Album](https://live.staticflickr.com/303/18978949229_50ed579326_z.jpg)](https://www.flickr.com/photos/renci/albums/72157655060989922 "NCDS Data Matters Short Course Series | 2015 Album")
 

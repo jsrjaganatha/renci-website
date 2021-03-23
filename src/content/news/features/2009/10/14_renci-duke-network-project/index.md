@@ -1,7 +1,6 @@
 ---
 title: "RENCI-Duke network project moves forward with new funding"
 slug: renci-duke-network-project
-spotlight: false
 publishDate: 2009-10-14
 author: ["stephanie-suber"]
 featuredImage: null

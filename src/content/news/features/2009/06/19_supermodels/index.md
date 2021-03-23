@@ -1,7 +1,6 @@
 ---
 title: "Supermodels"
 slug: supermodels
-spotlight: false
 publishDate: 2009-06-19
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI taps MIT research scientist to lead infrastructure development efforts"
 slug: renci-taps-mit-research-scientist-to-lead-infrastructure-development-efforts
-spotlight: false
 publishDate: 2007-06-21
 author: ["stephanie-suber"]
 featuredImage: null

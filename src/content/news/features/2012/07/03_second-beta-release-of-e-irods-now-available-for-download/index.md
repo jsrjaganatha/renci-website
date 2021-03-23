@@ -1,7 +1,6 @@
 ---
 title: "Second beta release of E-iRODS now available for download"
 slug: second-beta-release-of-e-irods-now-available-for-download
-spotlight: false
 publishDate: 2012-07-03
 author: ["stephanie-suber"]
 featuredImage: null

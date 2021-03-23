@@ -1,7 +1,7 @@
 ---
 title: "New study suggests hallucinations, alone, do not predict onset of schizophrenia"
+subtitle: An analysis of psychological symptoms aims to refine diagnostic criteria for teens at high risk of developing the brain disorder that affects millions of people worldwide
 slug: hallucinations-alone-do-not-predict-onset-of-schizophrenia
-spotlight: false
 publishDate: 2015-10-09
 author: 
 featuredImage: null
@@ -18,7 +18,6 @@ collaborations:
 tags:
     - team-science
 ---
-_An analysis of psychological symptoms aims to refine diagnostic criteria for teens at high risk of developing the brain disorder that affects millions of people worldwide._
 
 CHAPEL HILL, NC – Despite decades of study, schizophrenia has remained stubbornly difficult to diagnose in its earliest, prodromal stage. A new analysis led by researchers at the UNC School of Medicine and Renaissance Computing Institute identifies illogical thoughts as most predictive of schizophrenia risk. Surprisingly, perceptual disturbances, the forerunners of hallucinations, are not predictive, even though full-blown hallucinations are common features of schizophrenia. The results were published online today in the journal _Schizophrenia Research_.
 

@@ -1,7 +1,6 @@
 ---
 title: "TEDxUNC flies high with new ideas"
 slug: tedxunc-flies-high-with-new-ideas
-spotlight: false
 publishDate: 2014-02-25T12:19:45
 author: ["stephanie-suber"]
 featuredImage: null

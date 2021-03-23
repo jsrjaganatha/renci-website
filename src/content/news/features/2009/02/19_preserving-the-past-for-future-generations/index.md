@@ -1,7 +1,6 @@
 ---
 title: "Preserving the past for future generations"
 slug: preserving-the-past-for-future-generations
-spotlight: false
 publishDate: 2009-02-19
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Faster simulation codes for the world's most powerful particle accelerator"
 slug: faster-simulation-codes
-spotlight: false
 publishDate: 2014-02-11
 author: ["stephanie-suber"]
 featuredImage: null

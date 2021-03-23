@@ -1,7 +1,6 @@
 ---
 title: "Participants from around the world to participate in bicoastal Open Science for Synthesis course"
 slug: participants-from-around-the-world-to-participate-in-bicoastal-open-science-for-synthesis-course
-spotlight: false
 publishDate: 2014-07-10
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "iRODS Consortium welcomes Texas Advanced Computing Center to Partner Program"
 slug: irods-consortium-welcomes-texas-advanced-computing-center-to-partner-program
-spotlight: false
 publishDate: 2016-01-11
 author: 
 featuredImage: null
@@ -32,9 +31,10 @@ TACC joins [Daystrom Technology Group](http://www.daystrom.com/), [Distributed B
 "TACC is an exciting addition to the Partner Program," said Dan Bedard, executive director of the iRODS Consortium. "With years of iRODS experience, they already support a number of important production-level deployments that manage substantial amounts of research data. TACC is a world-class center with a reputation for responsive, effective user support.  Researchers from a broad range of scientific domains can be assured they will have the support and assistance they need by working with our partners at TACC."
 
 The iRODS Partner Program has two levels of participation. Gold partners are Consortium members, and they provide support that leverages training and fallback assistance from Consortium staff. Standard partners, including TACC, have registered with the Consortium as solution and service providers with iRODS experience. To learn more about the iRODS Partner Program or to contact a partner, see [http://irods.org/partners/](http://irods.org/partners/).
+
 ___
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

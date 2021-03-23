@@ -1,7 +1,6 @@
 ---
 title: "Coffee and Viz series brings teaching in a Social Computing Room to life"
 slug: coffee-and-viz-series-brings-teaching-in-a-social-computing-room-to-life
-spotlight: false
 publishDate: 2015-09-16T12:44:53
 author: ["stephanie-suber"]
 featuredImage: null

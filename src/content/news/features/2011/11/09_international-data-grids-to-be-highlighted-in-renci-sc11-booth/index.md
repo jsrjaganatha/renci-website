@@ -1,7 +1,6 @@
 ---
 title: "International data grids to be highlighted in RENCI SC11 booth"
 slug: international-data-grids-to-be-highlighted-in-renci-sc11-booth
-spotlight: false
 publishDate: 2011-11-09
 author: ["stephanie-suber"]
 featuredImage: null

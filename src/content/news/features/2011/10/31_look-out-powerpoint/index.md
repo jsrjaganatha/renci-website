@@ -1,7 +1,6 @@
 ---
 title: "Look out PowerPoint: UNC students use Social Computing Room as a presentation tool"
 slug: look-out-powerpoint
-spotlight: false
 publishDate: 2011-10-31
 author: ["stephanie-suber"]
 featuredImage: null

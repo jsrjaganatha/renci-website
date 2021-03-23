@@ -1,7 +1,6 @@
 ---
 title: "FABRIC and iRODS events shift to virtual venues"
 slug: fabric-and-irods-events-shift-to-virtual-venues
-spotlight: false
 publishDate: 2020-04-14T14:45:52
 author: ["jayasree-jaganatha"]
 featuredImage: null

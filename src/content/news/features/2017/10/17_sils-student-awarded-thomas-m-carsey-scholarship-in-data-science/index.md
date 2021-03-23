@@ -1,7 +1,6 @@
 ---
 title: "SILS student awarded Thomas M. Carsey Scholarship in Data Science"
 slug: sils-student-awarded-thomas-m-carsey-scholarship-in-data-science
-spotlight: false
 publishDate: 2017-10-17
 author: 
 featuredImage: null

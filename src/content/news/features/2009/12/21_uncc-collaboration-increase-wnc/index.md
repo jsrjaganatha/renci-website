@@ -1,7 +1,6 @@
 ---
 title: "UNC Charlotte collaboration shows huge increase in western NC development"
 slug: uncc-collaboration-increase-wnc
-spotlight: false
 publishDate: 2009-12-21
 author: ["stephanie-suber"]
 featuredImage: null

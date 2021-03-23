@@ -1,7 +1,6 @@
 ---
 title: "Rain, snow, sleet or ice"
 slug: rain-snow-sleet-or-ice
-spotlight: false
 publishDate: 2008-02-19
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "LEADing cyberinfrastructure for science and society"
 slug: leading-cyberinfrastructure-for-science-and-society
-spotlight: false
 publishDate: 2008-06-04
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI at ECU gives kids lesson in geography"
 slug: renci-at-ecu-gives-kids-lesson-in-geography
-spotlight: false
 publishDate: 2007-12-03
 author: ["stephanie-suber"]
 featuredImage: null

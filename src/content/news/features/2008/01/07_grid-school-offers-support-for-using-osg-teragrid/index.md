@@ -1,7 +1,6 @@
 ---
 title: "Grid School offers support for using OSG, TeraGrid"
 slug: grid-school-offers-support-for-using-osg-teragrid
-spotlight: false
 publishDate: 2008-01-07
 author: ["stephanie-suber"]
 featuredImage: null

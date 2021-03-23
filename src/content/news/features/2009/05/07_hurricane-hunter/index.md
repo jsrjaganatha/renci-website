@@ -1,7 +1,6 @@
 ---
 title: "Hurricane Hunter"
 slug: hurricane-hunter
-spotlight: false
 publishDate: 2009-05-07
 author: ["stephanie-suber"]
 featuredImage: null

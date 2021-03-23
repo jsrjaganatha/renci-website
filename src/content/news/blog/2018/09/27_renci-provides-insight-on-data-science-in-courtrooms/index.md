@@ -1,7 +1,6 @@
 ---
 title: "RENCI Provides Insight on Data Science in Courtrooms"
 slug: renci-provides-insight-on-data-science-in-courtrooms
-spotlight: false
 publishDate: 2018-09-27T12:12:32
 author: ["sarah-davis"]
 featuredImage: null

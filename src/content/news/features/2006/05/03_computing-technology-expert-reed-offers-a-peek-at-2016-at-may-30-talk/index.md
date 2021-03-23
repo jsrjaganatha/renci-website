@@ -1,7 +1,6 @@
 ---
 title: "Computing, technology expert Reed offers a peek at 2016 at May 30 talk"
 slug: computing-technology-expert-reed-offers-a-peek-at-2016-at-may-30-talk
-spotlight: false
 publishDate: 2006-05-03
 author: ["stephanie-suber"]
 featuredImage: null

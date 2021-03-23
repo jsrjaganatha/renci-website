@@ -1,7 +1,6 @@
 ---
 title: "HydroShare empowers water science research with new capabilities"
 slug: hydroshare-empowers-water-science-research-with-new-capabilities
-spotlight: false
 publishDate: 2016-05-03
 author: 
 featuredImage: null

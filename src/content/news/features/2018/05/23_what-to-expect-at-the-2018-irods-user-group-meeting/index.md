@@ -1,7 +1,6 @@
 ---
 title: "What to expect at the 2018 iRODS User Group Meeting"
 slug: what-to-expect-at-the-2018-irods-user-group-meeting
-spotlight: false
 publishDate: 2018-05-23
 author: 
 featuredImage: null

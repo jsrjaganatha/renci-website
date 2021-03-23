@@ -1,7 +1,6 @@
 ---
 title: "IoT for the Industrial Internet workshop defines key research questions"
 slug: iot-for-the-industrial-internet-workshop-defines-key-research-questions
-spotlight: false
 publishDate: 2015-08-14
 author: 
 featuredImage: null

@@ -2,7 +2,6 @@
 title: "Cloudian Joins the iRODS Consortium"
 subtitle: HyperStore Enterprise Object Storage Validated with iRODS Platform
 slug: cloudian-joins-the-irods-consortium
-spotlight: false
 publishDate: 2018-09-18
 author: 
 featuredImage: null

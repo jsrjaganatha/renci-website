@@ -1,7 +1,6 @@
 ---
 title: "Break this network"
 slug: break-this-network
-spotlight: false
 publishDate: 2009-08-24
 author: ["stephanie-suber"]
 featuredImage: null

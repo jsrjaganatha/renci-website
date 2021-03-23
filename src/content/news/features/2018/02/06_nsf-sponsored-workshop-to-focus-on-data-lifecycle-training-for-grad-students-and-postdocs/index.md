@@ -1,7 +1,6 @@
 ---
 title: "NSF-sponsored workshop to focus on data lifecycle training for grad students and postdocs"
 slug: nsf-sponsored-workshop-to-focus-on-data-lifecycle-training-for-grad-students-and-postdocs
-spotlight: false
 publishDate: 2018-02-06
 author: 
 featuredImage: null

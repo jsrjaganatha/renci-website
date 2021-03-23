@@ -1,7 +1,6 @@
 ---
 title: "iRODS Consortium welcomes OCF as newest member"
 slug: irods-consortium-welcomes-ocf-as-newest-member
-spotlight: false
 publishDate: 2017-07-05
 author: 
 featuredImage: null

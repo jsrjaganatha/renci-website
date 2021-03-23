@@ -1,7 +1,6 @@
 ---
 title: "Social Computing Room brings excitement to finals"
 slug: social-computing-room-brings-excitement-to-finals
-spotlight: false
 publishDate: 2015-01-12
 author: 
 featuredImage: null
@@ -29,7 +28,7 @@ For the past two years, Ward has structured GEO 445 as a project-based course wh
 
 "Presenting one poster per student would take forever, and students would likely check out. Instead, using the SCR closely mimics something you might see at a professional conference, and it lets students relax and have more time with posters they like," said Ward.
 
-[caption id="attachment_14252" align="aligncenter" width="640"][![GEO 445 Poster Session](https://renci.org/wp-content/uploads/2015/01/IMG_62361-1024x273.jpg)](https://renci.org/wp-content/uploads/2015/01/IMG_62361.jpg) Students in GEO 445 present their posters during the final exam session.[/caption]
+![Students in GEO 445 present their posters during the final exam session](https://renci.org/wp-content/uploads/2015/01/IMG_62361-1024x273.jpg)
 
 For the final exam class period, Ward breaks the class of 40 into different sessions (A, B, and C). Students not presenting during session A visit their peers' posters to learn what they discovered and to offer critiques. As an added bonus, the posters are useful to Ward and her students after the semester is completed. Among her current students, one has already had a poster accepted for presentation at a conference in April. Two former students have used their posters as work samples for admission to medical school.
 
@@ -37,4 +36,3 @@ Before the SCR came to campus, the GEO 445 course was lecture-driven with a writ
 
 For more on the SCR, see [Built for Interaction](https://renci.org/news/built-for-interaction/), or to reserve the RENCI SCR, email [scr-help@renci.org](mailto:scr-help@renci.org).
 
-[gallery size="medium" ids="14253,14254,14241"]

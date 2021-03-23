@@ -1,7 +1,7 @@
 ---
 title: "UNC, RENCI joins research network focused on improving healthcare in the Southeast"
+subtitle: RENCI will participate in informatics team for new translational medicine award
 slug: unc-renci-joins-research-network-focused-on-improving-healthcare-in-the-southeast
-spotlight: false
 publishDate: 2015-09-18
 author: 
 featuredImage: null
@@ -18,7 +18,6 @@ collaborations:
 tags:
     - 
 ---
-_RENCI will participate in informatics team for new translational medicine award_
 
 CHAPEL HILL – The University of North Carolina at Chapel Hill is one of multiple new sites to join the Mid-South Clinical Data Research Network (CDRN), a collaborative partnership that is harnessing data from electronic health records to improve outcomes for patients throughout the Southeast. The expansion is funded by a three-year, $8.5 million funding award from the Patient-Centered Outcomes Research Institute (PCORI).
 

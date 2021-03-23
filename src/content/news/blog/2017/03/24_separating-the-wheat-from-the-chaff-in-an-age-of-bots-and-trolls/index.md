@@ -1,7 +1,6 @@
 ---
 title: "Separating the wheat from the chaff in an age of bots and trolls"
 slug: separating-the-wheat-from-the-chaff-in-an-age-of-bots-and-trolls
-spotlight: false
 publishDate: 2017-03-24T09:45:23
 author: ["stephanie-suber"]
 featuredImage: null

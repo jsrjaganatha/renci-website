@@ -1,7 +1,6 @@
 ---
 title: "HydroShare extends the reach of breakthrough National Water Model"
 slug: hydroshare-extends-the-reach-of-breakthrough-national-water-model
-spotlight: false
 publishDate: 2016-09-14
 author: 
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Modeling the Perfect Fluid"
 slug: modeling-the-perfect-fluid
-spotlight: false
 publishDate: 2012-01-04
 author: ["stephanie-suber"]
 featuredImage: null

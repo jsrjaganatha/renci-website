@@ -1,7 +1,6 @@
 ---
 title: "Visual Decision Pathways"
 slug: visual-decision-pathways
-spotlight: false
 publishDate: 2010-08-03
 author: ["stephanie-suber"]
 featuredImage: null

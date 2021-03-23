@@ -1,7 +1,6 @@
 ---
 title: "UNC startup tests e-gaming prototype aimed at promoting youth fitness"
 slug: e-gaming-prototype
-spotlight: false
 publishDate: 2011-07-11
 author: ["stephanie-suber"]
 featuredImage: null

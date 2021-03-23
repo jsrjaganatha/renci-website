@@ -1,7 +1,6 @@
 ---
 title: "IDC recognizes RENCI with two HPC Innovation Excellence Awards"
 slug: idc-recognizes-renci-with-two-hpc-innovation-excellence-awards
-spotlight: false
 publishDate: 2013-06-21
 author: ["stephanie-suber"]
 featuredImage: null

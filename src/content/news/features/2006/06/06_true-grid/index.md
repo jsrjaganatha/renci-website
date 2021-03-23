@@ -1,7 +1,6 @@
 ---
 title: "True Grid"
 slug: true-grid
-spotlight: false
 publishDate: 2006-06-06
 author: ["stephanie-suber"]
 featuredImage: null

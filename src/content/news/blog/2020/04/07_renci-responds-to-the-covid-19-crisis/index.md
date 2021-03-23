@@ -1,7 +1,6 @@
 ---
 title: "From the Director: RENCI responds to the COVID-19 crisis"
 slug: renci-responds-to-the-covid-19-crisis
-spotlight: false
 publishDate: 2020-04-07T15:29:44
 author: ["stephanie-suber"]
 featuredImage: null

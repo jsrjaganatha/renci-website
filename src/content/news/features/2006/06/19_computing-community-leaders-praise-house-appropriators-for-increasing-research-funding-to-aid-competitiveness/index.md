@@ -1,7 +1,6 @@
 ---
 title: "Computing community leaders praise house appropriators for increasing research funding to aid competitiveness"
 slug: computing-community-leaders-praise-house-appropriators-for-increasing-research-funding-to-aid-competitiveness
-spotlight: false
 publishDate: 2006-06-19
 author: ["stephanie-suber"]
 featuredImage: null

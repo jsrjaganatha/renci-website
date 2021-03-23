@@ -1,7 +1,6 @@
 ---
 title: "Chameleon Cloud Computing Project enters new phase with $10M award"
 slug: chameleon-cloud-computing-project-enters-new-phase-with-10m-award
-spotlight: false
 publishDate: 2017-10-18
 author: 
 featuredImage: null

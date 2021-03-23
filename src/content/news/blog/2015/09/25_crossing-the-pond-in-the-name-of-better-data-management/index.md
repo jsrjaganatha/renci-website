@@ -1,7 +1,6 @@
 ---
 title: "Crossing the pond in the name of better data management"
 slug: crossing-the-pond-in-the-name-of-better-data-management
-spotlight: false
 publishDate: 2015-09-25T10:59:37
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Clues to an astrophysical mystery"
 slug: clues-to-an-astrophysical-mystery
-spotlight: false
 publishDate: 2009-07-14
 author: ["stephanie-suber"]
 featuredImage: null

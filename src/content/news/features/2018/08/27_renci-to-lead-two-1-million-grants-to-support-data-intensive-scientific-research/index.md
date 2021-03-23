@@ -1,7 +1,6 @@
 ---
 title: "RENCI to Lead Two $1 Million Grants to Support Data-Intensive Scientific Research"
 slug: renci-to-lead-two-1-million-grants-to-support-data-intensive-scientific-research
-spotlight: false
 publishDate: 2018-08-27
 author: 
 featuredImage: null

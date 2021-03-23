@@ -1,7 +1,6 @@
 ---
 title: "Codefest to focus on collaboration and results"
 slug: codefest-to-focus-on-collaboration-and-results
-spotlight: false
 publishDate: 2014-08-27T15:44:20
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "National consortium to lead North Carolina in big data innovation"
 slug: national-consortium-to-lead-north-carolina-in-big-data-innovation
-spotlight: false
 publishDate: 2013-04-17
 author: ["stephanie-suber"]
 featuredImage: null

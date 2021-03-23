@@ -2,7 +2,6 @@
 title: "A Radical New Tack: True Collaboration"
 subtitle: "Data Commons Pilot Phase teams plan how a rising tide of data and tools can float all research boats"
 slug: a-radical-new-tack-true-collaboration
-spotlight: false
 publishDate: 2018-10-17T15:56:44
 author: ["stephanie-suber"]
 featuredImage: null

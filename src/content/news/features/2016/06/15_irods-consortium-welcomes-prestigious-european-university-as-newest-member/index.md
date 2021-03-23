@@ -1,7 +1,6 @@
 ---
 title: "iRODS Consortium welcomes prestigious European university as newest member"
 slug: irods-consortium-welcomes-prestigious-european-university-as-newest-member
-spotlight: false
 publishDate: 2016-06-15
 author: 
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI, Odum Institute team up to create virtual research institute"
 slug: virtual-institute-for-social-research
-spotlight: false
 publishDate: 2014-03-28
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Symposium brings global computational wind engineering community to Chapel Hill"
 slug: wind-engineering-symposium-chapel-hill
-spotlight: false
 publishDate: 2010-05-17
 author: ["stephanie-suber"]
 featuredImage: null

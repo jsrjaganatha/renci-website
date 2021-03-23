@@ -1,7 +1,6 @@
 ---
 title: "RENCI gives Carolina community access to USC Shoah Foundation Institute's Visual History Archive"
 slug: renci-gives-carolina-community-access-to-usc-shoah-foundation-institutes-visual-history-archive
-spotlight: false
 publishDate: 2006-11-20
 author: ["stephanie-suber"]
 featuredImage: null

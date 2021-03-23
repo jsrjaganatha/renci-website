@@ -1,7 +1,6 @@
 ---
 title: "Experts testify on HPC and competitiveness"
 slug: experts-testify-on-hpc-and-competitiveness
-spotlight: false
 publishDate: 2006-08-01
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "Open house to introduce NCSU campus community to RENCI"
 slug: open-house-to-introduce-ncsu-campus-community-to-renci
-spotlight: false
 publishDate: 2007-03-05
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI, NC State astrophysicist create 'explosive' visualization"
 slug: renci-nc-state-astrophysicist-create-explosive-visualization
-spotlight: false
 publishDate: 2008-10-21
 author: ["stephanie-suber"]
 featuredImage: null

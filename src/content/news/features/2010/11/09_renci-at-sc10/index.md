@@ -1,7 +1,6 @@
 ---
 title: "RENCI and North Carolina partners to exhibit at SC10"
 slug: renci-at-sc10
-spotlight: false
 publishDate: 2010-11-09
 author: ["stephanie-suber"]
 featuredImage: null

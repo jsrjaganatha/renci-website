@@ -1,7 +1,6 @@
 ---
 title: "RENCI to host computational science summer courses"
 slug: renci-to-host-computational-science-summer-courses
-spotlight: false
 publishDate: 2010-04-30
 author: ["stephanie-suber"]
 featuredImage: null

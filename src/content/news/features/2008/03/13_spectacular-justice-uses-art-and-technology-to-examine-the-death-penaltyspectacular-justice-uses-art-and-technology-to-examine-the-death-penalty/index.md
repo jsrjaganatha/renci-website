@@ -1,7 +1,6 @@
 ---
 title: "'Spectacular Justice' uses art and technology to examine the death penalty"
 slug: spectacular-justice-uses-art-and-technology-to-examine-the-death-penaltyspectacular-justice-uses-art-and-technology-to-examine-the-death-penalty
-spotlight: false
 publishDate: 2008-03-13
 author: ["stephanie-suber"]
 featuredImage: null

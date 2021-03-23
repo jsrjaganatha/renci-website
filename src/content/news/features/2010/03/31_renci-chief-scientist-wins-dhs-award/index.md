@@ -1,7 +1,6 @@
 ---
 title: "RENCI chief scientist wins DHS award"
 slug: renci-chief-scientist-wins-dhs-award
-spotlight: false
 publishDate: 2010-03-31
 author: ["stephanie-suber"]
 featuredImage: null

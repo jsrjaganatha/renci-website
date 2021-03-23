@@ -1,7 +1,6 @@
 ---
 title: "RENCI issues call for NC State visualization projects"
 slug: renci-issues-call-for-nc-state-visualization-projects
-spotlight: false
 publishDate: 2010-09-16
 author: ["stephanie-suber"]
 featuredImage: null

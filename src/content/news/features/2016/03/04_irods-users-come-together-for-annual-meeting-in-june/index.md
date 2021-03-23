@@ -1,7 +1,6 @@
 ---
 title: "iRODS users come together for annual meeting in June"
 slug: irods-users-come-together-for-annual-meeting-in-june
-spotlight: false
 publishDate: 2016-03-04
 author: 
 featuredImage: null
@@ -40,7 +39,7 @@ Thousands of businesses, research centers, and government agencies located in th
 
 ___
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

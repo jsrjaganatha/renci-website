@@ -1,7 +1,6 @@
 ---
 title: "Open Science for Synthesis Workshop targets early career scientists"
 slug: open-science-for-synthesis-workshop
-spotlight: false
 publishDate: 2014-03-18
 author: ["stephanie-suber"]
 featuredImage: null

@@ -1,7 +1,6 @@
 ---
 title: "RENCI Researchers and Partners Help Plan Big Data Conference"
 slug: renci-researchers-and-partners-help-plan-big-data-conference
-spotlight: false
 publishDate: 2014-01-08T11:43:18
 author: ["stephanie-suber"]
 featuredImage: null
