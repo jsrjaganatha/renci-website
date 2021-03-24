@@ -326,8 +326,8 @@ exports.createPages = async ({ actions, graphql }) => {
           component: newsArticleTemplate,
           context: { // additional data passed via context
             slug: node.frontmatter.slug,
-            prevArticle: index === 0 ? null : newsArticles[index - 1].node,
-            nextArticle: index === newsArticles.length - 1 ? null : newsArticles[index + 1].node,
+            prevArticle: index === newsArticles.length - 1 ? null : newsArticles[index + 1].node,
+            nextArticle: index === 0 ? null : newsArticles[index - 1].node,
           },
         })
       }
@@ -348,8 +348,8 @@ exports.createPages = async ({ actions, graphql }) => {
           component: newsArticleTemplate,
           context: { // additional data passed via context
             slug: node.frontmatter.slug,
-            prevArticle: index === 0 ? null : blogArticles[index - 1].node,
-            nextArticle: index === blogArticles.length - 1 ? null : blogArticles[index + 1].node,
+            prevArticle: index === blogArticles.length - 1 ? null : blogArticles[index + 1].node,
+            nextArticle: index === 0 ? null : blogArticles[index - 1].node,
           },
         })
       }
