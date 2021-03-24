@@ -8,6 +8,7 @@ groups:
     - nrig
 projects:
     - chameleon-cloud
+    - exogeni
 people:
     - paul-ruth
 teams: 
@@ -16,15 +17,19 @@ collaborations:
     - 
 organizations:
     - tacc
+    - university-of-chicago
+    - renci
 tags:
     - testbed
+    - networking
+    - cyberinfrastructure
 ---
 
 Cloud computing lies behind many of today's most popular technologies, from streaming video and music to email and chat services to storing and sharing family photos. Since 2015, the [Chameleon](https://www.chameleoncloud.org/) testbed has helped researchers push the potential of cloud computing even further, finding novel scientific applications and improving security and privacy.
 
-![](https://renci.org/wp-content/uploads/2017/10/Chameleon-hardware-1.jpg)
+![Photo: Chameleon data storage hardware](https://renci.org/wp-content/uploads/2017/10/Chameleon-hardware-1.jpg)
 
-A new grant from the National Science Foundation will extend Chameleon's mission for another three years, allowing the project led by University of Chicago with partners at the [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC), Renaissance Computing Institute (RENCI), and Northwestern University to enter its next phase of cloud computing innovation. Upgrades to hardware and services as well as new features will help scientists rigorously test new cloud computing platforms and networking protocols. 
+A new grant from the National Science Foundation will extend Chameleon's mission for another three years, allowing the project led by University of Chicago with partners at the [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC), Renaissance Computing Institute (RENCI), and Northwestern University to enter its next phase of cloud computing innovation. Upgrades to hardware and services as well as new features will help scientists rigorously test new cloud computing platforms and networking protocols.
 
 The $10 million renewal was officially announced at the inaugural [Chameleon User Meeting](https://press3.mcs.anl.gov/ccusers2017/), held Sept. 13-14 at Argonne National Laboratory.
 

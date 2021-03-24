@@ -8,7 +8,9 @@ previewImage: preview.png
 groups:
     - earth-data-science
 projects:
-    - adcirc
+    - adcirc-lite-nc
+    - adcirc-viz
+    - coastal-hazards-and-risks
 people:
     - brian-blanton
     - rick-luettich
@@ -17,7 +19,9 @@ teams:
 collaborations:
     - 
 tags:
-    - hpc
+    - high-performance-computing
+    - data-analysis
+    - visualization
 ---
 
 
@@ -37,7 +41,7 @@ The model output available on the web for Matthew can resolve the detail of coas
 
 In the meantime, Matthew could leave many North Carolinians and people up and down the East Coast in high water. To follow the storm's progress and its potential storm surge, visit the [Coastal Emergency Risks Assessment](http://nc-cera.renci.org/) website.
 
-### Related links
+**Related links**
 
 - [ADCIRC website](http://adcirc.org/)
 - [Coastal Resilience Center Website](http://coastalresiliencecenter.unc.edu/)

@@ -18,7 +18,7 @@ tags:
     - data-management
     - open-source
 ---
-CHAPEL HILL, NC – Medical Science and Computing, LLC (<a href="http://www.mscweb.com/#science-technology-1">MSC</a>), a company that provides scientific information technology and research services to the federal health and life sciences community, has joined the growing membership of the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
+CHAPEL HILL, NC – Medical Science and Computing, LLC ([MSC](http://www.mscweb.com/#science-technology-1)), a company that provides scientific information technology and research services to the federal health and life sciences community, has joined the growing membership of the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
 
 MSC provides IT solutions and biomedical research services to federal agencies involved in health and life sciences research, including the National Institutes of Health and the U.S. Food and Drug Administration. MSC's services are integrated into some of the federal government's largest biomedical and clinical research and big data management initiatives. The company provides highly specialized support to mission-critical programs that use cutting-edge technologies and applications to accelerate scientific discovery.
 
@@ -30,12 +30,12 @@ As members of the iRODS Consortium, MSC will incorporate iRODS into the innovati
 
 In addition to MSC, current iRODS Consortium include Bayer, Dell/EMC, DDN, HGST, IBM, Intel, the National Institute for Computational Science at the University of Tennessee, Panasas, RENCI, Seagate, University College London, Utrecht University, and the Wellcome Trust Sanger Institute.
 
-<strong>Mark your calendars for the iRODS User Group Meeting</strong>
+**Mark your calendars for the iRODS User Group Meeting**
 
-Consortium members, partners, iRODS users, and those interested in learning more about iRODS should plan to attend the 2017 iRODS User Group Meeting June 14 and 15 in Utrecht, the Netherlands. The meeting will feature use case presentations, live demonstrations, and open discussions about requested iRODS features. Participants representing academic, government, and commercial institutions worldwide are expected to attend. A one-day iRODS workshop will take place on June 13. To receive updates on the User Group Meeting and other iRODS events, click <a href="http://eepurl.com/bStUCr">here</a>. To learn more about iRODS, visit the <a href="http://www.irods.org/">iRODS website</a>.
+Consortium members, partners, iRODS users, and those interested in learning more about iRODS should plan to attend the 2017 iRODS User Group Meeting June 14 and 15 in Utrecht, the Netherlands. The meeting will feature use case presentations, live demonstrations, and open discussions about requested iRODS features. Participants representing academic, government, and commercial institutions worldwide are expected to attend. A one-day iRODS workshop will take place on June 13. To receive updates on the User Group Meeting and other iRODS events, click [here](http://eepurl.com/bStUCr). To learn more about iRODS, visit the [iRODS website](http://www.irods.org/).
 
-<strong>About the iRODS Consortium</strong>
+**About the iRODS Consortium**
 
-The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/">irods.org.</a>
+The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [renci.org](https://www.renci.org).

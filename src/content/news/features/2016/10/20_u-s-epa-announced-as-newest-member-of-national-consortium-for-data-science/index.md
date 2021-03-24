@@ -18,7 +18,8 @@ tags:
     - 
 ---
 
-<a href="https://renci.org/wp-content/uploads/2016/10/EPA-frontpage.png"><img class="alignright size-medium wp-image-15716" src="https://renci.org/wp-content/uploads/2016/10/EPA-frontpage-300x300.png" alt="EPA-frontpage" width="300" height="300" /></a>CHAPEL HILL, NC - The United States Environmental Protection Agency is the latest organization to join the National Consortium for Data Science (NCDS), a public-private partnership to capitalize on the opportunities of big data and advance data science.
+![EPA logo](https://renci.org/wp-content/uploads/2016/10/EPA-frontpage-300x300.png)  
+CHAPEL HILL, NC - The United States Environmental Protection Agency is the latest organization to join the National Consortium for Data Science (NCDS), a public-private partnership to capitalize on the opportunities of big data and advance data science.
 
 The U.S. EPA, which works with massive amounts of environmental data in its efforts to protect human health and the environment, joins Deloitte, Drexel University, EMC, GE, IBM, MCNC, North Carolina State University, RENCI, RTI International, UNC Charlotte, UNC-Chapel Hill, UNC Greensboro, and UNC General Administration as NCDS members. As a member, EPA representatives will be able to participate in NCDS events, workshops, and working groups and will collaborate with other consortium members to develop strategies for utilizing big data and advancing data science education.  
 
@@ -30,6 +31,6 @@ Flagship NCDS programs include a Data Fellows program aimed at early career facu
 
 "The U.S. EPA brings yet another perspective to our efforts to strategically address data science challenges in the business, research and government sectors," said David Knowles, who leads NCDS initiatives through his role as director of economic development at RENCI. "The EPA has massive amounts of data in many different formats and unlocking its potential will be the key to solving problems related to air and water quality, human health, ecosystem sustainability, climate change, and more. We are privileged to have them as a partner as we work together to glean knowledge from data."
 
-For more information on the U.S. EPA, see <a href="https://www3.epa.gov/">https://www3.epa.gov/</a>
+For more information on the U.S. EPA, see [https://www3.epa.gov/](https://www3.epa.gov/).
 
-To read more about EPA big data research projects, click <a href="https://blog.epa.gov/blog/2016/10/filling-the-gaps-in-environmental-science-with-big-data/">here</a>.
+To read more about EPA big data research projects, click [here](https://blog.epa.gov/blog/2016/10/filling-the-gaps-in-environmental-science-with-big-data/).

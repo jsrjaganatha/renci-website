@@ -5,7 +5,7 @@ publishDate: 2017-11-06
 author: 
 featuredImage: null
 groups:
-    - analytics
+    - data-science-and-analytics
 projects:
     - 
 people:
@@ -20,12 +20,13 @@ organizations:
     - unc
     - virginia-tech
 tags:
-    - 
+    - data-analysis
+    - team-science
 ---
 
 CHAPEL HILL, NC - Researchers at the University of North Carolina at Chapel Hill will play key roles in a new project that applies semantic technologies developed by computer and information scientists to the field of evolutionary biology.
 
-![](https://renci.org/wp-content/uploads/2017/11/bio-team-1024x768.jpg)
+![Photo: project team group photo](https://renci.org/wp-content/uploads/2017/11/bio-team-1024x768.jpg)
 
 _Project team from left to right: Todd Vision, UNC-Chapel Hill; Jim Balhoff, RENCI; Wasila Dahdul, University of South Dakota; Josef Uyeda, Virginia Tech; and Hilmar Lapp, Duke University._
 
@@ -37,7 +38,9 @@ Todd Vision, PhD, associate professor in the department of biology and principal
 
  Co-PI James Balhoff, PhD, a senior research scientist at RENCI who is an evolutionary biologist by training, will develop software and the database platform to be used by the project.
 
- "Semantic technologies such as ontologies already play a major role in standardizing data descriptions in biomedical applications," said Balhoff. "By making it possible to readily incorporate this shared knowledge into new analytic tools, we can make adoption of these standards even more powerful."<span style="font-size: 11pt;">The two principal investigators have been part of a long-standing collaboration called [Phenoscape](http://phenoscape.org/)<span style="font-size: 11pt;">, which has pioneered the application of ontologies to biological phenotypes. Ontologies are data models that capture expert knowledge in such a way that computers can apply logical reasoning to that knowledge. They have proven to be particularly valuable for data integration applications. For instance, ontologies link databases describing the functions of genes in distantly related organisms such as yeast, fruit flies, and humans. The new project will leverage ontologies for more challenging reasoning tasks.
+ "Semantic technologies such as ontologies already play a major role in standardizing data descriptions in biomedical applications," said Balhoff. "By making it possible to readily incorporate this shared knowledge into new analytic tools, we can make adoption of these standards even more powerful."
+ 
+ The two principal investigators have been part of a long-standing collaboration called [Phenoscape](http://phenoscape.org/), which has pioneered the application of ontologies to biological phenotypes. Ontologies are data models that capture expert knowledge in such a way that computers can apply logical reasoning to that knowledge. They have proven to be particularly valuable for data integration applications. For instance, ontologies link databases describing the functions of genes in distantly related organisms such as yeast, fruit flies, and humans. The new project will leverage ontologies for more challenging reasoning tasks.
 
  The research team includes collaborators at the University of South Dakota, Duke University, and Virginia Tech. UNC-Chapel Hill will receive more than $800,000 from the NSF for the three-year effort.
 

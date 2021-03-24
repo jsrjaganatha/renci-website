@@ -17,14 +17,19 @@ collaborations:
 tags:
     - networking
     - cyberinfrastructure
+    - data-analysis
+    - data-management
+    - team-science
 ---
-<a href="https://renci.org/wp-content/uploads/2016/09/IT-data-security-1.jpg"><img class="alignright size-medium wp-image-15597" src="https://renci.org/wp-content/uploads/2016/09/IT-data-security-1-300x188.jpg" alt="IT-data-security-1" width="300" height="188" /></a>CHAPEL HILL, NC - RENCI will work with Indiana University and the Information Sciences Institute (ISI) at the University of Southern California on a new project to strengthen the integrity of data, giving researchers added assurance and trust in computational science.
+![](https://renci.org/wp-content/uploads/2016/09/IT-data-security-1-300x188.jpg)
+
+CHAPEL HILL, NC - RENCI will work with Indiana University and the Information Sciences Institute (ISI) at the University of Southern California on a new project to strengthen the integrity of data, giving researchers added assurance and trust in computational science.
 
 The three-year project, Scientific Workflow Integrity with Pegasus, is funded by a $1 million grant from the National Science Foundation (NSF) as part of its Cybersecurity Innovation for Cyberinfrastructure (CICI) program. Von Welch, director of IU's Center for Applied Cybersecurity Research (CACR), is the project's principal investigator.
 
 RENCI will receive $230,000 to support efforts that add information to data provenance—the term used to describe the tracking of location and ownership of data using metadata. That new information will describe the infrastructure used for data processing and describe all pieces of infrastructure that the data has touched. This additional information can then be used for a variety of purposes, such as tracing problems with the data back to faulty hardware, performing forensic analysis on compromised data, and more. Additionally, RENCI will help implement an improved process of selecting the best infrastructure for performing workflow analyses based on data location, data ownership and other attributes.
 
-IU, the lead institution on the NSF grant, will receive $479,855 to increase cybersecurity within the <a href="https://pegasus.isi.edu/">Pegasus Workflow Management System</a>. Pegasus is popular among the research community for its ability to easily structure and execute large-scale data analyses. The application benefits a wide range of scientific applications including LIGO (the Laser Interferometer Gravitational-Wave Observatory), which announced the first direct detection of gravitational waves earlier this year—proving that Einstein's theory was right.
+IU, the lead institution on the NSF grant, will receive $479,855 to increase cybersecurity within the [Pegasus Workflow Management System](https://pegasus.isi.edu/). Pegasus is popular among the research community for its ability to easily structure and execute large-scale data analyses. The application benefits a wide range of scientific applications including LIGO (the Laser Interferometer Gravitational-Wave Observatory), which announced the first direct detection of gravitational waves earlier this year—proving that Einstein's theory was right.
 
 By digitally signing the data that is run through Pegasus, these improvements will strengthen consistency in results from multiple workflows. They'll also allow users to see whether their data has changed since the last time a workflow was completed.
 
@@ -40,10 +45,7 @@ One of the challenges of the new project will be to make sure that the cryptogra
 
 The award began Sept. 1.
 
-<strong>Related  links:</strong>
-
-<a href="https://cacr.iu.edu/">IU Center for Applied Cybersecurity Research
-</a><a href="http://www.isi.edu/home">USC Information Sciences Institute
-</a><a href="http://nrig.renci.org/">RENCI Network Research and Infrastructure Group</a>
-
-&nbsp;
+**Related  links:**  
+[IU Center for Applied Cybersecurity Research](https://cacr.iu.edu/)  
+[USC Information Sciences Institute](http://www.isi.edu/home)  
+[RENCI Network Research and Infrastructure Group](http://nrig.renci.org/)

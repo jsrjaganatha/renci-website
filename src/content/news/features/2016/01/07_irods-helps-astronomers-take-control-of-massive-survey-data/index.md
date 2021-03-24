@@ -34,7 +34,7 @@ The new RESOLVE and ECO databases premiered this week at the [2016 American Astr
 
 For more information on RESOLVE and ECO, see [http://resolve.astro.unc.edu/.](http://resolve.astro.unc.edu/)
 
-## About the iRODS Consortium
+**About the iRODS Consortium**
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source data management software for data discovery, workflow automation, secure collaboration, and storage virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS support and professional integration services. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org).
 

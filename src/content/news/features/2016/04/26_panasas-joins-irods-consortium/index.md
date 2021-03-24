@@ -31,7 +31,7 @@ Panasas drives industry and research innovation by accelerating workflows and si
 
 For more information on how Panasas storage solutions drive business innovation, visit [www.panasas.com/solutions](http://www.panasas.com/solutions). For more information on the iRODS Consortium, visit [www.irods.org](http://www.irods.org).
 
-## About Panasas
+**About Panasas**
 
 Panasas is the performance scale-out NAS leader for unstructured data, driving industry and research innovation by accelerating workflows and simplifying data management. Panasas ActiveStor<sup>®</sup> appliances leverage the patented PanFS<sup>®</sup> storage operating system and DirectFlow<sup>®</sup> protocol to deliver performance and reliability at scale from an appliance that is as easy to manage as it is fast to deploy. Panasas storage is optimized for the most demanding workloads in life sciences, manufacturing, media and entertainment, energy, government as well as education environments, and has been deployed in more than 50 countries worldwide. For more information, visit [www.panasas.com](http://www.panasas.com).
 

@@ -18,14 +18,16 @@ collaborations:
 tags:
     - data-management
     - open-source
+    - training
 ---
-[caption id="attachment_15583" align="aligncenter" width="461"]<a href="https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg"><img class="wp-image-15583 size-full" src="https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg" alt="SC attendees will have the chance to attend a free workshop on using iRODS." width="461" height="272" /></a> SC16 attendees will have the chance to attend a free workshop on using iRODS.[/caption]
+![Pic; SC attendees attend a free workshop on using iRODS.](https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg)  
+_SC16 attendees will have the chance to attend a free workshop on using iRODS._
 
-<em>IRODS: From Prototype to Production will be sponsored by DDN</em>
+_IRODS: From Prototype to Production_ will be sponsored by DDN
 
-SALT LAKE CITY, Utah – Attendees of SC16 who are interested in federated data management will have the chance to learn about <a href="http://www.irods.org">iRODS</a> and the <a href="http://irods.org/consortium/">iRODS Consortium</a> at a free workshop sponsored by consortium member <a href="http://www.ddn.com/products/">DDN</a>.
+SALT LAKE CITY, Utah – Attendees of SC16 who are interested in federated data management will have the chance to learn about [iRODS](http://www.irods.org) and the [iRODS Consortium](http://irods.org/consortium/) at a free workshop sponsored by consortium member [DDN](http://www.ddn.com/products/).
 
-The workshop will take place from 9 a.m. – 11 a.m., Monday, Nov. 14, in the Wasatch Room on the second floor of the Radisson Hotel Salt Lake City Downtown, 215 S. Temple. To reserve a seat at the workshop and view more information, click <a href="http://irods.org/sc16/">here</a>.
+The workshop will take place from 9 a.m. – 11 a.m., Monday, Nov. 14, in the Wasatch Room on the second floor of the Radisson Hotel Salt Lake City Downtown, 215 S. Temple. To reserve a seat at the workshop and view more information, click [here](http://irods.org/sc16/).
 
 iRODS—the integrated Rule-Oriented Data System—is free open source software for managing large, complex data that is often distributed at multiple locations. iRODS is developed and sustained by the iRODS Consortium, a worldwide group of iRODS users representing industry, academia, and government. At the Nov. 14 workshop, Jason Coposky, iRODS chief technologist and interim director of the iRODS Consortium, and Terrell Russell, iRODS senior data scientist, will present an overview of the consortium and its roadmap for continued iRODS development before delving into the nuts and bolts of working with iRODS.
 
@@ -39,8 +41,8 @@ iRODS Consortium membership now stands at 15, including the Renaissance Computin
 
 The iRODS development team will also offer ongoing presentations and demonstrations in the RENCI booth (#3628) at SC16. Stop by the booth to talk to the development team, hear about use cases, and earn the chance to win an iRODS Consortium t-shirt.
 
-<strong>About the iRODS Consortium</strong>
+**About the iRODS Consortium**
 
-The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/">irods.org.</a>
+The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="https://www.renci.org">www.renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [renci.org](https://www.renci.org).

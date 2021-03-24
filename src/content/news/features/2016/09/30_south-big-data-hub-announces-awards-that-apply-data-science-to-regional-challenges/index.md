@@ -15,19 +15,19 @@ teams:
 collaborations:
     - sbdh
 tags:
-    - 
+    - team-science
+    - cyberinfrastructure
 ---
-[caption id="attachment_15617" align="alignright" width="300"]<a href="https://renci.org/wp-content/uploads/2016/09/Ashok.jpg"><img class="size-medium wp-image-15617" src="https://renci.org/wp-content/uploads/2016/09/Ashok-300x200.jpg" alt="Ashok Goel's class, Knowledge-Based Artificial Intelligence (CS 4635/7637); Architecture East Room 123 Reinsch-Pierce Family Auditorium" width="300" height="200" /></a> Ashok Goel of Georgia Tech leads one of the three research teams that received awards through the South Big Data Hub Spokes program.[/caption]
+![Ashok Goel's class, Knowledge-Based Artificial Intelligence (CS 4635/7637); Architecture East Room 123 Reinsch-Pierce Family Auditorium](https://renci.org/wp-content/uploads/2016/09/Ashok-300x200.jpg)  
+_Ashok Goel of Georgia Tech leads one of the three research teams that received awards through the South Big Data Hub Spokes program._
 
-<em>Awards part of $11 million in National Science Foundation Big Data Hub "Spoke" awards</em>
+_Awards part of $11 million in National Science Foundation Big Data Hub "Spoke" awards_
 
-Three research teams in the Southern U.S. will receive funding for projects designed to use data science and data analytics to address challenges related to healthcare, environmental sustainability, and updating and improving power grids. The funding will be awarded through the "Big Data Spokes" program of the National Science Foundation's (NSF) <a href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=136784" target="_blank">Big Data Regional Innovation Hub</a> initiative.
-
-
+Three research teams in the Southern U.S. will receive funding for projects designed to use data science and data analytics to address challenges related to healthcare, environmental sustainability, and updating and improving power grids. The funding will be awarded through the "Big Data Spokes" program of the National Science Foundation's (NSF) [Big Data Regional Innovation Hub](http://www.nsf.gov/news/news_summ.jsp?cntn_id=136784) initiative.
 
 The NSF today announced a total of $11 million in awards that includes 10 Big Data Spokes in four regions. The spoke awards will initiate research in specific areas identified, supported, and organized by the Big Data Hubs in the South, Northeast, Midwest, and West. The spokes reflect the unique priorities and capabilities of the four disparate U.S. geographic regions serviced by the Big Data Hubs.
 
-"The Big Data Spokes advance the goals and regional priorities of each Big Data Hub, fusing the strengths of a range of institutions and investigators and applying them to problems that affect the communities and populations within their regions," said Jim Kurose, assistant director of NSF for Computer and Information Science and Engineering. "We are pleased to be making this substantial investment today to accelerate the nation's big data R&amp;D innovation ecosystem."
+"The Big Data Spokes advance the goals and regional priorities of each Big Data Hub, fusing the strengths of a range of institutions and investigators and applying them to problems that affect the communities and populations within their regions," said Jim Kurose, assistant director of NSF for Computer and Information Science and Engineering. "We are pleased to be making this substantial investment today to accelerate the nation's big data R&D innovation ecosystem."
 
 The Big Data Hubs program was announced in 2015 by the NSF, which provided funding to launch the four regional Hubs. The South Big Data Hub is led jointly by the Renaissance Computing Institute (RENCI) at the University of North Carolina at Chapel Hill, and the Georgia Institute of Technology. Each Hub works to foster multisector collaborations among academia, industry, and government that use data science and big data expertise to solve regional challenges.
 
@@ -37,36 +37,33 @@ The Big Data Hubs program was announced in 2015 by the NSF, which provided fundi
 
 The recipients of the South Big Data Hub Spoke awards are:
 
-<strong>Title:</strong> <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636933&amp;HistoricalAwards=false" target="_blank">Large Scale Medical Informatics for Patient Care Coordination and Engagement
-</a><strong>Principal Investigator</strong>: Gari Clifford, interim chair, biomedical informatics, Emory University
-<strong>Co-PIs: </strong>Christopher Rozell, Georgia Tech; Herman Taylor, Morehouse School of Medicine; Indranil Bardhan, University of Texas at Dallas; Donald Adjeroh, West Virginia University; Ahmed Abbasi, University of Virginia; Nitin Agarwal, University of Arkansas
-<strong>Amount: </strong>$1 million over three years
+* **Title**: [Large Scale Medical Informatics for Patient Care Coordination and Engagement](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636933&HistoricalAwards=false)
+  * **Principal Investigator**: Gari Clifford, interim chair, biomedical informatics, Emory University
+  * **Co-PIs:** Christopher Rozell, Georgia Tech; Herman Taylor, Morehouse School of Medicine; Indranil Bardhan, University of Texas at Dallas; Donald Adjeroh, West Virginia University; Ahmed Abbasi, University of Virginia; Nitin Agarwal, University of Arkansas
+  * **Amount:** $1 million over three years
 
 This project brings together six universities to design and construct a patient-focused and personalized health system that addresses the fractured nature of healthcare information and the lack of engagement of individuals in their own healthcare. By taking advantage of the enormous amount of information generated by real-time, mobile and wearable devices and the availability of rich social media data on patient behavior, the team will create a comprehensive picture of patient health and a tool to help manage patients' engagement with their healthcare providers. As its pilot project, the researchers will focus on African Americans and Hispanics/Latinos diagnosed with cardiovascular disease.
 
-<strong>Title:</strong> <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636848&amp;HistoricalAwards=false" target="_blank">Using Big Data for Environmental Sustainability: Big Data + AI Technology = Accessible, Usable, Useful Knowledge</a><a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636848&amp;HistoricalAwards=false">
-</a><strong>Principal Investigator:</strong> Ashok K. Goel, professor of computer science and cognitive science, Georgia Institute of Technology
-<strong>Co PI:</strong> Jennifer Hammock, Smithsonian Institute, in partnership with IBM
-<strong>Amount:</strong> $1 million over three years
+* **Title:** [Using Big Data for Environmental Sustainability: Big Data + AI Technology = Accessible, Usable, Useful Knowledge](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636848&HistoricalAwards=false)
+  * **Principal Investigator:** Ashok K. Goel, professor of computer science and cognitive science, Georgia Institute of Technology
+  * **Co PI:** Jennifer Hammock, Smithsonian Institute, in partnership with IBM
+  * **Amount:** $1 million over three years
 
 As the effects of environmental degradation and climate change grow, the need for research and education in biological diversity, ecological modeling and environmental sustainability becomes critical. This project brings together scientists from a dozen institutions in academia, government, and industry to translate big data into meaningful knowledge that supports research and education in environmental sustainability. The project will focus on the Encyclopedia of Life (EOL), the world's largest database of biological species, and other biodiversity data sources. Its goals are to make this data more accessible and usable by integrating artificial intelligence tools, modeling, and simulation.
 
-<strong>Title:</strong> <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636772&amp;HistoricalAwards=false" target="_blank">Smart Grids Big Data
-</a><strong>Principal Investigator:</strong> Mladen Kezunovic, Eugene E. Webb Distinguished Professor of Electrical and Computer Engineering, Texas A &amp; M University
-<strong>Co-PIs:</strong> Santiago C. Grijalva, Georgia Institute of Technology; Zoran Obradovic, Temple University
-<strong>Amount:</strong> $1 million over three years
+* **Title:** [Smart Grids Big Data](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1636772&HistoricalAwards=false)
+  * **Principal Investigator:** Mladen Kezunovic, Eugene E. Webb Distinguished Professor of Electrical and Computer Engineering, Texas A &amp; M University
+  * **Co-PIs:** Santiago C. Grijalva, Georgia Institute of Technology; Zoran Obradovic, Temple University
+  * **Amount:** $1 million over three years
 
 The introduction of new technologies for monitoring electrical power grids has led to an abundance of data that can be used to improve power generation and transmission and to enhance customer service. However, this data is still vastly underutilized. This project aims to increase our understanding of the merged data collected from physical systems in order to better understand how energy flows through grids, how to prevent emergencies such as blackouts and brownouts, and how to improve asset management and increase energy efficiency.
 
-<strong>About the South Big Data Hub
-</strong>The South Hub is one of four regional Big Data Hubs that work to accelerate partnerships among people in business, academia, and government who apply data science and analytics to help solve regional and national challenges. The South Hub also facilitates data sharing, shared cyberinfrastructure and services, and data science education and workforce development. The Renaissance Computing Institute (RENCI) at University of North Carolina at Chapel Hill and Georgia Institute of Technology co-lead the South Hub, which is funded in part by the National Science Foundation. The South Hub serves 16 states and the District of Columbia—from Texas to Delaware—with more than 500 members from universities, corporations, foundations, and cities committing their support.  For more information, please see <a href="http://southbigdatahub.org/" target="_blank">http://SouthBigDataHub.org</a>
+**About the South Big Data Hub**  
+The South Hub is one of four regional Big Data Hubs that work to accelerate partnerships among people in business, academia, and government who apply data science and analytics to help solve regional and national challenges. The South Hub also facilitates data sharing, shared cyberinfrastructure and services, and data science education and workforce development. The Renaissance Computing Institute (RENCI) at University of North Carolina at Chapel Hill and Georgia Institute of Technology co-lead the South Hub, which is funded in part by the National Science Foundation. The South Hub serves 16 states and the District of Columbia—from Texas to Delaware—with more than 500 members from universities, corporations, foundations, and cities committing their support.  For more information, please see [SouthBigDataHub.org](http://southbigdatahub.org/)
 
-<strong>Related Links:</strong>
-
-<a href="http://www.news.gatech.edu/2016/09/28/addressing-environmental-challenges-big-data-and-artificial-intelligence" target="_blank">Georgia Tech News Release
-</a><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=189864" target="_blank">National Science Foundation News Release
-</a><a href="http://midwestbigdatahub.org/">Midwest Big Data Hub
-</a><a href="http://nebigdatahub.org/" target="_blank">Northeast Big Data Hub
-</a><a href="http://midwestbigdatahub.org/" target="_blank">West Big Data Hub</a>
-
-&nbsp;
+**Related Links:**  
+[Georgia Tech News Release](http://www.news.gatech.edu/2016/09/28/addressing-environmental-challenges-big-data-and-artificial-intelligence)  
+[National Science Foundation News Release](https://www.nsf.gov/news/news_summ.jsp?cntn_id=189864)  
+[Midwest Big Data Hub](http://midwestbigdatahub.org/)  
+[Northeast Big Data Hub](http://nebigdatahub.org/)  
+[West Big Data Hub](http://midwestbigdatahub.org/)

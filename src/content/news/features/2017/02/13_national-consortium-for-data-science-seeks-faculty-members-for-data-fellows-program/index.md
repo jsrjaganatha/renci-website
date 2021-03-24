@@ -25,6 +25,6 @@ In an effort to promote research initiatives that align with the mission and goa
 
 Data Fellows proposals must be submitted by 5 p.m. Friday, April 7, 2017. All who submit proposals will be notified of their status by April 21, 2017. The one-year fellowships will begin on approximately July 3, 2017. Proposals should be no more than four (4) pages, should be understandable to readers from outside the field of study, and must clearly spell out the expected benefits of collaborating with the NCDS.
 
-For the complete Data Fellows Call for Proposals, which includes a link to the submission form, click <a href="http://datascienceconsortium.org/data-fellows/">here</a>.
+For the complete Data Fellows Call for Proposals, which includes a link to the submission form, click [here](http://datascienceconsortium.org/data-fellows/).
 
-For general information about the Data Fellows program, including information about current and past Fellows, visit <a href="http://datascienceconsortium.org/data-fellow-awards/">http://datascienceconsortium.org/data-fellow-awards/</a>
+For general information about the Data Fellows program, including information about current and past Fellows, visit [http://datascienceconsortium.org/data-fellow-awards/](http://datascienceconsortium.org/data-fellow-awards/)

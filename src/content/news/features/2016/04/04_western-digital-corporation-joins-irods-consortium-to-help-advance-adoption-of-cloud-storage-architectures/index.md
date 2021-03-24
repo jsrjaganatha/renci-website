@@ -19,6 +19,7 @@ tags:
     - data-management
     - open-source
 ---
+_WDC to provide targeted technology enhancements to expand data movement options for life science and other data intensive workflows_
 
 SAN JOSE, Calif., April 4, 2016 _PRNewswire_ -- Helping the world harness the power of data, Western Digital Corporation (NASDAQ: [WDC](http://studio-5.financialcontent.com/prnews?Page=Quote&Ticker=WDC "WDC")) today announced that it is now an active contributor to iRODS, a membership-based consortium that develops and supports the integrated Rule-Oriented Data System ([iRODS](http://irods.org/)), an open source software platform for storing, searching, and sharing large files and datasets. Thousands of organizations around the world use iRODS for flexible, policy-based management of files and metadata that span across diverse storage devices and locations. Western Digital Corporation will initially contribute advanced HGST S3 connector technology to the iRODS architecture to enhance cloud connectivity.
 
@@ -28,7 +29,7 @@ Western Digital Corporation is an industry-leading developer and manufacturer of
 
 "iRODS is a key component in our strategy to provide the highest quality, innovative, active archiving solution available," said Barbara Murphy, vice president of marketing at WDC. "As members of iRODS, we look forward to working closely with development teams to help enhance S3 connectivity to enable smarter data movement within life sciences research and related data-intensive applications."
 
-## HGST Platinum Sponsor at BioIT World
+**HGST Platinum Sponsor at BioIT World**
 Representatives from HGST and iRODS will be on hand in Boston to discuss the benefits of iRODS consortium membership. WDC will showcase the HGST Active Archive System.
 
 **What:** BioIT World Conference and Expo
@@ -39,17 +40,17 @@ Representatives from HGST and iRODS will be on hand in Boston to discuss the ben
 
 Follow HGST on LinkedIn, [Twitter](https://twitter.com/HGSTStorage), [Facebook](https://www.facebook.com/HGSTStorage), and [#HGSTStorage](https://twitter.com/search?q=%23HGSTStorage), [#LongLiveData](https://twitter.com/hashtag/longlivedata)
 
-## About the iRODS Consortium
+**About the iRODS Consortium**
 
 **The iRODS Consortium** is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org.](http://irods.org/)
 
 The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [www.renci.org](https://www.renci.org/).
 
-## About Western Digital Corporation
+**About Western Digital Corporation**
 
 **Western Digital Corporation** (NASDAQ: [WDC](http://studio-5.financialcontent.com/prnews?Page=Quote&Ticker=WDC "WDC")) is an industry-leading developer and manufacturer of storage solutions that enable people to create, leverage, experience and preserve data. The company addresses ever-changing market needs by providing a full portfolio of compelling, high-quality storage solutions with effective technology deployment, high efficiency, flexibility and speed. Our products are marketed under the HGST and WD brands to OEMs, distributors, resellers, cloud infrastructure providers and consumers. For more information, please visit [www.hgst.com](http://www.hgst.com/) and [www.wd.com](http://www.wd.com/).
 
-## About HGST
+**About HGST**
 
 **HGST** ([@HGSTStorage](https://twitter.com/HGSTStorage)) branded storage solutions power the markets and companies that shape our lives—enabling possibilities for the cloud, enterprise and sophisticated infrastructures everywhere. For more information, please visit [www.hgst.com](http://www.hgst.com/).
 
