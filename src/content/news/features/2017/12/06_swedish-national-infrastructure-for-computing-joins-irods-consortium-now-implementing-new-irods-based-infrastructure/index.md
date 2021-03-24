@@ -1,5 +1,6 @@
 ---
 title: "Swedish National Infrastructure for Computing joins iRODS Consortium"
+subtitle: Organization is now implementing new iRODS-based infrastructure
 slug: swedish-national-infrastructure-for-computing-joins-irods-consortium-now-implementing-new-irods-based-infrastructure
 publishDate: 2017-12-06
 author: 
@@ -23,8 +24,6 @@ tags:
     - high-performance-computing
 ---
 ![SNIC logo](https://renci.org/wp-content/uploads/2017/12/snic-newlogo-300x74.png)
-
-_Organization is now implementing new iRODS-based infrastructure_
 
 CHAPEL HILL, NC - The [Swedish National Infrastructure for Computing](http://www.snic.vr.se/) (SNIC), a national research infrastructure hosted at universities across Sweden, is the newest member of the [iRODS Consortium](http://www.irods.org), the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
 

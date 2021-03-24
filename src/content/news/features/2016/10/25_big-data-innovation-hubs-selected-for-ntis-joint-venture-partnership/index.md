@@ -1,5 +1,6 @@
 ---
 title: "Big Data Innovation Hubs selected for NTIS joint venture partnership"
+subtitle: Partnerships called "a major milestone for the data economy."
 slug: big-data-innovation-hubs-selected-for-ntis-joint-venture-partnership
 publishDate: 2016-10-25
 author: 
@@ -20,8 +21,6 @@ tags:
     - data-analysis
 ---
 ![](https://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg)
-
-_Partnerships called "a major milestone for the data economy."_
 
 The four Big Data Regional Innovation Hubs have been selected by the [National Technical Information Service](http://www.ntis.gov) (NTIS) of the U.S. Department of Commerce to enter into a Joint Venture Partnership. Once finalized, this partnership will provide opportunities for collaborations between the Big Data Hubs and NTIS to deliver groundbreaking data projects across federal agencies.
 
@@ -44,6 +43,6 @@ Another South Big Data Hub partner, [data.world](https://data.world/), will have
 
 The Big Data Hubs were chosen following a rigorous merit review of proposals received in response to the [Opportunity to Enter into a Joint Venture with the National Technical Information Service for Data Innovation Support](https://www.gpo.gov/fdsys/pkg/FR-2016-06-15/pdf/2016-14175.pdf), published in the _Federal Register_. An additional 34 NTIS JV partners were selected, including leaders in information technology and services such as IBM, HP, Deloitte Consulting, and SRI International.
 
-**About the South Big Data Innovation Hub**
+## About the South Big Data Innovation Hub
 
 The South Big Data Hub accelerates partnerships among people in business, academia, and government who apply data science and analytics to help solve regional and national challenges. The South Big Data Hub is part of a network of four regional Big Data Hubs launched by the National Science Foundation and funded in part by host universities and other partners. The South Hub serves 16 states and the District of Columbia—from Texas to Delaware—with more than 500 members from universities, corporations, foundations, and cities committing their support.

@@ -1,5 +1,6 @@
 ---
 title: "New report recommends actions to position North Carolina as a leader in the new data economy"
+subtitle: State must support education and entrepreneurs to be a data leader
 slug: new-report-recommends-actions-to-position-north-carolina-as-a-leader-in-the-new-data-economy
 publishDate: 2017-02-22
 author: 
@@ -17,7 +18,6 @@ collaborations:
 tags:
     - 
 ---
-_State must support education and entrepreneurs to be a data leader_
 
 CHAPEL HILL, NC - North Carolina has the brain power, the educational system, and the technology business sector that can propel it to the top in the emerging data economy, says a report published recently by the [North Carolina Board of Science, Technology & Innovation](https://www.nccommerce.com/sti/board-of-science-technology-innovation). However, those assets must be nurtured through a focus on data education and literacy, support for data-focused startups, and a coordinated effort to present the state as a data leader. 
 

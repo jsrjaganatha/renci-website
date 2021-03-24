@@ -1,5 +1,6 @@
 ---
 title: "South Big Data Hub announces awards that apply data science to regional challenges"
+subtitle: Awards part of $11 million in National Science Foundation Big Data Hub "Spoke" awards
 slug: south-big-data-hub-announces-awards-that-apply-data-science-to-regional-challenges
 publishDate: 2016-09-30
 author: 
@@ -20,8 +21,6 @@ tags:
 ---
 ![Ashok Goel's class, Knowledge-Based Artificial Intelligence (CS 4635/7637); Architecture East Room 123 Reinsch-Pierce Family Auditorium](https://renci.org/wp-content/uploads/2016/09/Ashok-300x200.jpg)  
 _Ashok Goel of Georgia Tech leads one of the three research teams that received awards through the South Big Data Hub Spokes program._
-
-_Awards part of $11 million in National Science Foundation Big Data Hub "Spoke" awards_
 
 Three research teams in the Southern U.S. will receive funding for projects designed to use data science and data analytics to address challenges related to healthcare, environmental sustainability, and updating and improving power grids. The funding will be awarded through the "Big Data Spokes" program of the National Science Foundation's (NSF) [Big Data Regional Innovation Hub](http://www.nsf.gov/news/news_summ.jsp?cntn_id=136784) initiative.
 

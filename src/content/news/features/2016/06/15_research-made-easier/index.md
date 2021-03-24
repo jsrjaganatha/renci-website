@@ -1,5 +1,6 @@
 ---
 title: "Research made easier"
+subtitle: The CyVerse discovery environment handles the technology of collaborative research so researchers can focus on the science
 slug: research-made-easier
 publishDate: 2016-06-15
 author: 
@@ -18,7 +19,6 @@ tags:
     - data-management
     - open-source
 ---
-_The CyVerse discovery environment handles the technology of collaborative research so researchers can focus on the science._
 
 ![Nirav Merchant, the principal investigator for the CyVerse project at the University of Arizona, talks about the CyVerse Discovery Environment at the iRODS User Group meeting, held June 8 and 9 in Chapel Hill, NC.](https://renci.org/wp-content/uploads/2016/06/Nirav1.jpeg)  
 _Nirav Merchant, the principal investigator for the CyVerse project at the University of Arizona, talks about the CyVerse Discovery Environment at the iRODS User Group meeting, held June 8 and 9 in Chapel Hill, NC._
@@ -35,7 +35,7 @@ CyVerse powered by iRODS allows researchers to form collections whose properties
 
 "The result is a discovery environment that is oriented to actual researchers doing actual science," said Mike Conway, a data scientist and software developer with the DICE center. "What's also important is that the discovery environment was developed over several years with scientists in the loop from the start, so it has developed in a way that gives scientists what they need."
 
-**A mechanism for getting stuff done**
+## A mechanism for getting stuff done
 
 Using the CyVerse Discovery Environment, scientists can access data at different locations, select applications to manipulate and analyze their data, connect to computing resources at remote locations, run analyses, and manage their results. An iRODS data grid—essentially connected data resources running iRODS—manages all the data, keeps it secure, tracks provenance, and provides metadata tagging to make the data easier to find for future researchers.
 

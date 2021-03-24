@@ -1,5 +1,6 @@
 ---
 title: "Profile of a Data Science Pioneer, Dr. Reagan Moore"
+subtitle: As he approaches retirement, Reagan Moore reflects on SRB, iRODS, and the ongoing challenge of helping scientists manage their data
 slug: profile-of-a-data-science-pioneer-dr-reagan-moore
 publishDate: 2016-07-07
 author: 
@@ -19,7 +20,6 @@ tags:
     - data-management
     - open-source
 ---
-_As he approaches retirement, Reagan Moore reflects on SRB, iRODS, and the ongoing challenge of helping scientists manage their data._
 
 In 1994, Reagan Moore managed the production computing systems at the San Diego Supercomputer Center (SDSC), a job that entailed running and maintaining huge Cray computing systems as well as networking, archival storage, security, job scheduling, and visualization systems.
 
@@ -34,7 +34,7 @@ _Reagan Moore addresses attendees at the iRODS User Group Meeting, held June 8 a
 
 Moore saw the technical challenges as an opportunity for research in distributed data management. He secured funding from the Defense Advanced Research Projects Agency (DARPA), and with a team of talented visionaries and software developers created the Storage Resource Broker (SRB).
 
-**From SRB to iRODS**
+## From SRB to iRODS
 
 Over time, SRB evolved into iRODS, the integrated Rule Oriented Data System, and Moore, now a professor in the School of Information and Library Science (SILS) at the University of North Carolina at Chapel Hill and a data scientist at UNC's Renaissance Computing Institute (RENCI), stands on the brink of retirement. iRODS, the middleware platform that started as the SRB, now boasts more than 20,000 end users spanning six continents and manages more than 100 petabytes of data. The iRODS Consortium, established in 2014 to sustain the continued development of iRODS, now includes 17 members as well as four partner organizations that help with iRODS deployments and support services.
 
@@ -49,7 +49,7 @@ Rajasekar, also a professor in UNC's SILS and a RENCI data scientist, was a key 
 
 "The way we approached the problem was through a very large number of collaborations instead of one large project," Moore remembers. "The research communities provided the requirements; we took their requirements and translated them into generic data management infrastructure."
 
-**Toward rule-oriented data management**
+## Toward rule-oriented data management
 
 Moore gives credit to Rajasekar for inventing the idea of rule-oriented data management. iRODS developed because SRB users wanted to enforce different constraints for different data collections while using a common infrastructure. Moore remembers working with the data group of the UK's e-Science Program and learning they needed to guarantee files could not be deleted from one data collection. For another collection, they wanted the system administrator to be able to delete and replace bad data, and for a third, they required the collection owner to be able to delete and add data at will.
 
@@ -61,7 +61,7 @@ Tenacity and dedication to his craft are traits that Moore's longtime colleagues
 
 "We used to say that he loved his work and travel so much that he used his airline mileage credits for even more business travel," said Baru. "He was also the master of stretching the travel dollar. He introduced me to that specific parking lot down Pacific Coast Highway in San Diego that had the cheapest daily rate. To this day, I think of that as 'Reagan's lot.'"
 
-**The Future: Virtualized Data Flows and SDN**
+## The Future: Virtualized Data Flows and SDN
 
 With retirement just around the corner, Moore, always humble and soft spoken, acknowledges his role in changing research from a cottage industry into an endeavor focused on distributed, often large-scale collaborative projects.
 

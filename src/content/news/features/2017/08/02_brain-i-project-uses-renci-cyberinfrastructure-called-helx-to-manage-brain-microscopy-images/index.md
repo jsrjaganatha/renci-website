@@ -1,5 +1,6 @@
 ---
 title: "BRAIN-I project uses RENCI cyberinfrastructure called HeLx to manage brain microscopy images"
+subtitle: Sharing massive image files just became easier
 slug: brain-i-project-uses-renci-cyberinfrastructure-called-helx-to-manage-brain-microscopy-images
 publishDate: 2017-08-02
 author: ["stephanie-suber"]
@@ -24,8 +25,6 @@ tags:
     - cyberinfrastructure
 ---
 **_Updated: May 10, 2019_**
-
-_Sharing massive image files just became easier._
 
 Today's advanced microscopes have revolutionized biology by giving scientists the ability to view 3D biological structures at the cellular and molecular level. However, that ability has created another problem: How to share and manage massive image files that can each be as large as 1 terabyte (TB), with possibly more than 50 TBs of data for the entire research project. (A terabyte equals 1 trillion bytes of data, or about 150 hours of HD quality recording).
 

@@ -1,5 +1,6 @@
 ---
 title: "RENCI teams with Duke on networking research to make science more productive"
+subtitle: NSF grant will address security issues of Network Infrastructure as a Service (NIaaS)
 slug: renci-teams-with-duke-on-networking-research-to-make-science-more-productive
 publishDate: 2016-10-24
 author: ["stephanie-suber"]
@@ -20,7 +21,6 @@ tags:
     - networking
     - cyberinfrastructure
 ---
-_NSF grant will address security issues of Network Infrastructure as a Service (NIaaS)_
 
 ![](https://renci.org/wp-content/uploads/2016/10/NetworkSecurity_large.jpg)
 

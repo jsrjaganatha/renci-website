@@ -30,13 +30,13 @@ Launched in 2014, the iRODS Consortium leads development and support of iRODS as
 
 "Utrecht is a powerhouse research university with scientists working to find solutions to important problems, including climate change, infectious diseases, and the challenges related to an aging population," said Jason Coposky, Interim Executive Director of the iRODS Consortium. "Their research IT experts have turned to iRODS as a data management and sharing solution and we look forward to working with them through the consortium to make sure iRODS addresses all their data needs."
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 
 The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [renci.org](https://www.renci.org).
 
-**Media Contacts**:
+## Media Contacts
 
 iRODS Consortium:
 Karen Green, [kgreen@renci.org](mailto:kgreen@renci.org), 919-445-9648

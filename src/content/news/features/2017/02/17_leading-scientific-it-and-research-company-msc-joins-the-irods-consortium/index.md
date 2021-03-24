@@ -30,11 +30,11 @@ As members of the iRODS Consortium, MSC will incorporate iRODS into the innovati
 
 In addition to MSC, current iRODS Consortium include Bayer, Dell/EMC, DDN, HGST, IBM, Intel, the National Institute for Computational Science at the University of Tennessee, Panasas, RENCI, Seagate, University College London, Utrecht University, and the Wellcome Trust Sanger Institute.
 
-**Mark your calendars for the iRODS User Group Meeting**
+## Mark your calendars for the iRODS User Group Meeting
 
 Consortium members, partners, iRODS users, and those interested in learning more about iRODS should plan to attend the 2017 iRODS User Group Meeting June 14 and 15 in Utrecht, the Netherlands. The meeting will feature use case presentations, live demonstrations, and open discussions about requested iRODS features. Participants representing academic, government, and commercial institutions worldwide are expected to attend. A one-day iRODS workshop will take place on June 13. To receive updates on the User Group Meeting and other iRODS events, click [here](http://eepurl.com/bStUCr). To learn more about iRODS, visit the [iRODS website](http://www.irods.org/).
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

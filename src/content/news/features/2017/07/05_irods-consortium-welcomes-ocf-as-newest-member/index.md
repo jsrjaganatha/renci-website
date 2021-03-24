@@ -1,5 +1,6 @@
 ---
 title: "iRODS Consortium welcomes OCF as newest member"
+subtitle: UK-based technical support provider will now have a role in future iRODS development
 slug: irods-consortium-welcomes-ocf-as-newest-member
 publishDate: 2017-07-05
 author: 
@@ -19,7 +20,6 @@ tags:
     - open-source
     - cyberinfrastructure
 ---
-_UK-based technical support provider will now have a role in future iRODS development._
 
 CHAPEL HILL, NC – OCF, an organization that specializes in supporting the data challenges of private and public organizations in the UK, is the latest organization to join the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System ([iRODS](https://irods.org/)).
 

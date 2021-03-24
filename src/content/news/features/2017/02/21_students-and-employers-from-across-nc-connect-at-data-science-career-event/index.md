@@ -54,10 +54,10 @@ Rebecca Christiansen, associate director for employer development at UNC-Wilming
 
 To stay in touch with the NCDS; collaborate on a data science career event; or find out when our next data science networking event will be, visit [datascienceconsortium.org](http://datascienceconsortium.org/) or [subscribe to our newsletter](http://data2discovery.us3.list-manage.com/subscribe?u=c8914f488de27003a4fd3f676&id=296a1a65e6).
 
-**Related articles:**
+## Related articles:
 
-[Industry experts offer advice to students at data science career event](http://datascienceconsortium.org/2016/11/industry-experts-offer-advice-to-students-at-data-science-career-event/)
+- [Industry experts offer advice to students at data science career event](http://datascienceconsortium.org/2016/11/industry-experts-offer-advice-to-students-at-data-science-career-event/)
 
-[NCDS teams with Kenan-Flagler Business School for career networking event](http://datascienceconsortium.org/2016/02/ncds-teams-with-kenan-flagler-business-school-for-career-networking-event/)
+- [NCDS teams with Kenan-Flagler Business School for career networking event](http://datascienceconsortium.org/2016/02/ncds-teams-with-kenan-flagler-business-school-for-career-networking-event/)
 
-[Big data means big career opportunities, UNC students learn at NCDS career event](http://datascienceconsortium.org/2014/04/big-data-means-big-career-opportunities-unc-students-learn-at-ncds-career-event/)
+- [Big data means big career opportunities, UNC students learn at NCDS career event](http://datascienceconsortium.org/2014/04/big-data-means-big-career-opportunities-unc-students-learn-at-ncds-career-event/)

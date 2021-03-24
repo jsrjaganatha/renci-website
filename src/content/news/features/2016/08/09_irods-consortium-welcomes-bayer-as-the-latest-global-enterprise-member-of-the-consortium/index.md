@@ -32,7 +32,7 @@ The iRODS Consortium membership has doubled in the last year and now stands at 1
 
 "Bayer's membership in the iRODS Consortium means we will be better able to address the data challenges of life sciences enterprises," said Jason Coposky, Interim Executive Director of the consortium. "We look forward to ongoing collaboration with Bayer and know they will be great contributors to our growing open source community."
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org.](http://irods.org/)
 

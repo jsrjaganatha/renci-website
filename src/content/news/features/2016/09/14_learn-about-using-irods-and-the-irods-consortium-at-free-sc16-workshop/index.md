@@ -41,7 +41,7 @@ iRODS Consortium membership now stands at 15, including the Renaissance Computin
 
 The iRODS development team will also offer ongoing presentations and demonstrations in the RENCI booth (#3628) at SC16. Stop by the booth to talk to the development team, hear about use cases, and earn the chance to win an iRODS Consortium t-shirt.
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

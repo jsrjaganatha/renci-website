@@ -23,7 +23,7 @@ tags:
 _New plugins to be highlighted_; register now at [irods.org](https://irods.org/)
 
 ![Photo: Terrell Russel speaks at last's year's meeting](https://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o-1024x681.jpg)  
-_Above: Terrell Russell speaks at last year's iRODS User Group Meeting._
+> Above: Terrell Russell speaks at last year's iRODS User Group Meeting.
 
 The worldwide iRODS community will gather June 13 – 15 for the first User Group Meeting to be held at Utrecht University in The Netherlands.
 
@@ -45,7 +45,7 @@ Technical previews will introduce a number of new capabilities that will soon be
 
 **Metadata templates.** Good data management requires good metadata, and the iRODS development team has developed technology that allows users to create metadata templates that specify their organizations' naming conventions and vocabulary for metadata and follow other metadata best practices. Providing users with a way to apply consistent metadata naming and enforce a controlled vocabulary will in turn make searches more productive and help users and automated tools find the data they need. Organizations with strict naming conventions will be able to guarantee that high quality, flexible metadata is being entered as well as monitor for compliance after the fact.
 
-**Register now for the UGM and iRODS training**
+## Register now for the UGM and iRODS training
 
 Registration for the iRODS UGM is still open and seats are filling fast. In addition to the meeting on June 14 and 15, a full-day of iRODS training (beginner and advanced) will be offered on June 13. Participants can register for a training session, the UGM, or both by going to [https://irods.org/ugm2017/](https://irods.org/ugm2017/). The training agenda, pricing, and abstracts for all accepted talks are also available at this site.
 

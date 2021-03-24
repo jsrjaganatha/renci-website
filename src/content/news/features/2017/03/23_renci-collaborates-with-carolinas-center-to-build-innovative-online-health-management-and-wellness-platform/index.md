@@ -35,10 +35,10 @@ Overseeing the development team at RENCI will be Ray Idaszak, director of DevOps
 
 The grant was awarded to The Carolinas Center late last year and the initial version of the platform is expected to be available by the end of 2017.
 
-**About the Carolinas Center**
+## About the Carolinas Center
 
 The Carolinas Center (TCC) is a nonprofit association serving an extensive network of hospices and palliative care organizations across North and South Carolina. TCC provides visionary leadership, education, technical assistance, advocacy, and resources to ensure that all people with advanced illness will have access to high quality palliative, hospice, and end of life care. For more information, visit [http://cchospice.org/](http://cchospice.org/).
 
-**About the Duke Endowment**
+## About the Duke Endowment
 
 Based in Charlotte and established in 1924 by industrialist and philanthropist James B. Duke, the Duke Endowment is a private foundation that strengthens communities in North and South Carolina by nurturing children, promitiung health, educating minds, and enriching spirits. Since its founding, the Endowment has distributed more than $3 billion in grants. For more information, visit [http://dukeendowment.org/](http://dukeendowment.org/).

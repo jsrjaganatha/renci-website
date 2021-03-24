@@ -30,12 +30,12 @@ Scalable Lustre file systems can be part of multiple computer clusters with tens
 
 Other members of the iRODS Consortium are Bayer, Dell/EMC, DDN, HGST, IBM, MSC, the National Institute for Computational Science at the University of Tennessee, Panasas, RENCI, Seagate, University College London, Utrecht University, and the Wellcome Trust Sanger Institute.
 
-**Mark your calendars for the iRODS User Group Meeting**
+## Mark your calendars for the iRODS User Group Meeting
 
 Consortium members, partners, iRODS users, and those interested in learning more about iRODS should plan to attend the 2017 iRODS User Group Meeting June 14 and 15 in Utrecht, the Netherlands. The meeting will feature use case presentations, live demonstrations, and open discussions about requested iRODS features. Participants representing academic, government, and commercial institutions worldwide are expected to attend. A one-day iRODS training will take place on June 13. To learn more about the UGM, click [here](https://irods.org/ugm2017/). To learn more about iRODS, visit the [iRODS website](http://www.irods.org/).
  
 
-**About the iRODS Consortium**
+## About the iRODS Consortium
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/).
 

@@ -33,7 +33,7 @@ The NWM simulates the water cycle by modeling a host of different complex proces
 
 If you look under the hood, the work of RENCI and its [HydroShare](https://www.hydroshare.org/) collaborators have played an important role in disseminating the NWM forecasts and their underlying data to the experts who need it most. 
 
-**Sharing with a broad community of scientists** 
+## Sharing with a broad community of scientists
 
 To help make the NWM forecasts more accessible to scientists and the public, NWM data is ingested and stored daily on a secure server at RENCI. RENCI mirrors the NWM output in NOAA's [National Operational Model Archive and Distributed System](http://nomads.ncdc.noaa.gov/) (NOMADS) and shares the data with the broad water science community through HydroShare. Launched in 2012, HydroShare is an open source water science research and discovery environment that allows scientists and the public to access, visualize, and manipulate a broad set of hydrologic data types and models, and connect with data and models published by others.
 

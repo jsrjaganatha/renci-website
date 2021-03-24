@@ -45,7 +45,8 @@ One of the challenges of the new project will be to make sure that the cryptogra
 
 The award began Sept. 1.
 
-**Related  links:**  
-[IU Center for Applied Cybersecurity Research](https://cacr.iu.edu/)  
-[USC Information Sciences Institute](http://www.isi.edu/home)  
-[RENCI Network Research and Infrastructure Group](http://nrig.renci.org/)
+## Related links
+
+- [IU Center for Applied Cybersecurity Research](https://cacr.iu.edu/)  
+- [USC Information Sciences Institute](http://www.isi.edu/home)  
+- [RENCI Network Research and Infrastructure Group](http://nrig.renci.org/)

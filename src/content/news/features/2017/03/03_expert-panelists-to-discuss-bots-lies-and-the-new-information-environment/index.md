@@ -1,5 +1,6 @@
 ---
 title: "Expert panelists to discuss bots, lies, and the new information environment"
+subtitle: The March 9 webcast is free and open to all
 slug: expert-panelists-to-discuss-bots-lies-and-the-new-information-environment
 publishDate: 2017-03-03
 author: 
@@ -17,7 +18,6 @@ collaborations:
 tags:
     - 
 ---
-_The March 9 webcast is free and open to all._
 
 The explosion of social media, blogs, and websites purporting to be news sources, along with a 24-hour news cycle and ubiquitous assess to the internet from cell phones and other devices, means a new information environment. That environment is radically different from the days when we depended on the New York Times and local newspapers for information, and it is rewriting the norms of social interaction, conversation, public discourse, and news reporting.
 
@@ -25,7 +25,7 @@ The South Big Data Innovation Hub will bring together four experts for a roundta
 
 The roundtable discussion Anti-Social Computing: Bots, Lies, and the New Information Environment will be webcast from noon – 1:15 p.m. Thursday, March 9. The webcast is free and open to all. The public can also attend the roundtable in person at Carnegie Mellon University in Pittsburgh. For details or to register for the webinar, click <a href="https://southbdhub.wordpress.com/programs/virtual-roundtables/" target="_blank">here</a>.
 
-**About the panelists:**
+## About the panelists
 
 _Nitin Agarwal, PhD, University of Arkansas at Little Rock_   
 Agarwal is the Jerry L. Maulden-Entergy Endowed Chair and Distinguished Professor in the Donaghey College of Engineering and Information Technology at UALR. He is also director of the Collaboratorium of Social Media and Online Behavioral Studies and a Fellow of the International Academy, Research and Industry Association.
@@ -39,7 +39,7 @@ Liu is a professor of computer science and engineering in the ASU School of Comp
 _Rand Waltzman, PhD, Rand Corporation_  
 Waltzman, is a senior information scientist at the RAND Corporation . Prior to joining RAND, he was the acting chief technology officer of the Software Engineering Institute (Washington, DC) of Carnegie Mellon University. He was also a program manager in the Information Innovation Office of DARPA where he created and managed the Social Media in Strategic Communications (SMISC) program and the Anomaly Detection at Multiple Scales (ADAMS) insider threat detection program.
 
-**About the moderator:**
+## About the moderator
 
 _Lea Shanley, PhD, South Big Data Hub_  
 Shanley is the co-Executive Director of the South Big Data Hub. She was the founding director of the Washington-based Wilson Center's Commons Lab, guiding strategic research in social media, social computing, and big data for disaster response and humanitarian assistance.
