@@ -5,7 +5,7 @@ publishDate: 2016-12-09
 author: 
 featuredImage: null
 groups:
-    - biomedical-data-science
+    - clinical-informatics
 projects:
     - data-translator
 people:

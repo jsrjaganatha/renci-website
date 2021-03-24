@@ -6,7 +6,7 @@ publishDate: 2015-10-09
 author: 
 featuredImage: null
 groups:
-    - biomedical-data-science
+    - clinical-informatics
 projects:
     - 
 people:
