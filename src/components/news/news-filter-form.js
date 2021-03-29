@@ -86,7 +86,7 @@ export const NewsFilterForm = () => {
     setTopicOptions(tags.map(tag => ({ value: tag.id, label: tag.name })).sort((t, s) => t.label.toLowerCase() < s.label.toLowerCase() ? -1 : 1))
   }, [])
 
-  // when filters.group change,
+  // when filters.group changes,
   useEffect(() => {
     // update the project options accordingly.
     const index = groupsAndCollaborations.findIndex(group => group.id === filters.group)
@@ -94,7 +94,7 @@ export const NewsFilterForm = () => {
     setProjectOptions(filteredProjects.map(project => ({ value: project.id, label: project.name })))
   }, [filters.group])
 
-  // what to do when a project is selected?
+  // what to do when filters.project is changed?
   // useEffect(() => {
   // }, [filters.project])
 
