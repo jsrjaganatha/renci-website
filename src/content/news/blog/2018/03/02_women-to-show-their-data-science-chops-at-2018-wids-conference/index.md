@@ -35,4 +35,3 @@ The Datathon seeks to encourage female data scientists to engage in social impac
 For more information, go to [widsconference.org](<http://widsconference.org>).
 
 *\-Karen Green*
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->
