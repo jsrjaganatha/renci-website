@@ -2,6 +2,7 @@ id: nc-pfas
 name: NC PFAS Testing Network Data Science Team
 description: >
   RENCI co-leads the data science team for the North Carolina Per and Polyfluoroalkyl Substances Testing (PFAST) Network. The NC PFAST Network is an effort to establish a baseline assessment of PFOA contamination of public drinking water supplies in North Carolina, to better understand the environmental and health effects of these contaminants, and to evaluate PFOA remediation technologies. The data science team is charged with developing the means to manage and make publicly available project data.
+featuredImage: nc-pfas.jpg
 renciRole: !markdown |
   Per and polyfluoroalkyl (PFOAs) substances are chemicals with applications such as the production of non-stick surfaces and fire suppression foams. After these chemicals were found in North Carolina’s Cape Fear River, the NC General Assembly allocated funds to create a research network focused on identifying PFAS in air and water across the state, understanding its potential health impacts, and informing remediation and risk communication. 
 

@@ -2,6 +2,7 @@ id: galapagos-science-center
 name: Galapagos Science Center
 description: >
   The Galapagos Science Center, a state-of-the-art research facility in the Galapagos Islands, was established in 2008 by the University of North Carolina at Chapel Hill and Ecuador’s Universidad San Francisco de Quito (USFQ) to promote science and education to protect the island’s unique ecosystems.
+featuredImage: galapagos-science-center.jpg
 renciRole: !markdown |
   RENCI develops and maintains cyberinfrastructure for the Galapagos Science Center (GSC). GSC’s 11,000-square-foot facility houses four enterprise servers and 12 terabytes of storage, a high-speed wired and wireless network within the building, satellite uplink, video surveillance, visualization displays, and computer workstations for the GIS lab. 
 
