@@ -2,18 +2,20 @@ id: irods
 name: iRODS
 archived: false
 description: >
-  iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS 
+  The Integrated Rule-Oriented Data System (iRODS) is open-source data management software that enables research and commercial organizations, government agencies, and mission critical environments worldwide to test, document, control, and protect their data. 
 featuredImage: irods.jpg
 renciRole: !markdown |
-  iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS 
+  [iRODS](https://irods.org) is developed and maintained by the iRODS Consortium which is housed at RENCI, its primary founding organization.
 members:
   - id: jason-coposky
-  - id: terrell-russell
+    role: Lead
+  - id: laura-capps
+  - id: kory-draughn
+  - id: dave-fellinger
+  - id: justin-james
   - id: alan-king
   - id: daniel-moore
-  - id: jgill
-  - id: kory-draughn
-  - id: justin-james
+  - id: terrell-russell
 partners:
 funding:
 www:

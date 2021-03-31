@@ -16,29 +16,10 @@ members:
   - id: david-borland
   - id: jim-balhoff
 projects:
-  - aragorn
-  - cell-cycle
-  - cellfie
-  - ccdh
-  - chemotext2
-  - ctmd
-  - data-analysis-for-entrepreneurial-ecosystem
-  - data-commons
-  - data-translator
-  - data-translator-aragorn
-  - data-translator-icees
   - data-translator-robokop
-  - data-translator-standards-and-reference-implementations
-  - dot-roadway-safety
-  - evry-scope
-  - family-planning-national-training-center
-  - hydroshare
-  - inca
-  - man-to-molecule-to-man
   - obesity-hub
-  - percept
-  - phyloreferencing
+  - ccdh
   - platform-for-analyzing-whole-brain-images
-  - precision-dosing
   - scate
   - semantic-infrastructure-for-noctua-and-gene-ontology
+

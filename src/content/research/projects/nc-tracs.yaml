@@ -5,7 +5,7 @@ description: >
   The North Carolina Translational and Clinical Sciences (NC TraCS) Institute supports, funds, and connects the translational research community to improve the way biomedical research is conducted in North Carolina and across the country. 
 renciRole: !markdown |
   RENCI supports the Informatics and Data Science component of NC TraCS: 
-  - Ashok Krishnamurthy and Stan Ahalt are Faculty Director and Associate Director of the Informatics and Data Science component.
+  - [Ashok Krishnamurthy](/people/ashok-krishnamurthy) and [Stan Ahalt](/people/stan-ahalt) are Faculty Director and Associate Director of the Informatics and Data Science component.
   - RENCI collaborates with NC TraCS in several projects, including Data Translator and ICEES+ COVID-19, 4CE and N3C.
 members:
   - id: stan-ahalt

@@ -1,0 +1,25 @@
+id: biodata-catalyst
+name: BioData Catalyst
+featuredImage: bdc.jpg
+description: >
+  NHLBI BioData Catalyst is a cloud-based ecosystem providing tools, applications, and workflows in secure workspaces. By increasing access to NHLBI datasets and data analysis capabilities, BioData Catalyst accelerates biomedical research that drives discovery, leading to novel diagnostic tools, therapeutics and prevention strategies for heart, lung, blood, and sleep disorders. 
+renciRole: !markdown |
+  RENCI’s technical role in the BioData Catalyst ecosystem is to develop tools and apps for machine learning; deep learning models; semantic search; and visualizing, annotating and analyzing biomedical images. 
+members:
+  - id: ashok-krishnamurthy
+    role: Lead
+  - id: kira-bradford
+  - id: steve-cox
+  - id: isma-gilani
+  - id: hannah-hiles
+  - id: howard-lander
+  - id: matt-satusky
+  - id: paul-linebaugh
+partners:
+  - rti-international
+  - brigham-and-womens-hospital
+  - national-jewish-health
+funding:
+  - nhlbi
+www:
+  - https://biodatacatalyst.nhlbi.nih.gov/

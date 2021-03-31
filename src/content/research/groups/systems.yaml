@@ -15,6 +15,7 @@ members:
   - id: hao-xu
 projects:
   - brain-i
+  - biodata-catalyst
   - helx
   - evry-scope
   - scidas

@@ -1,0 +1,23 @@
+id: dot-safety-assessment-project
+name: DOT Safety Assessment Project
+featuredImage: dot-safety-assessment-project.jpg
+description: >
+  Severe and fatal injuries on rural roads are dispersed across many miles of roadway, leading to a labor intensive process for assessing roadside hazards.  RENCI, along with the North Carolina Department of Transportation, and UNC’s Highway Safety Research Center are developing an Artificial Intelligence tool to extract roadside safety-related features from NCDOT’s previously collected rural videolog data. 
+renciRole: !markdown |
+  For this one-year effort, the planned AI tool will allow data analysts and safety researchers to semi-automatically annotate video logs with features of relevance to roadside safety, such as guard rails, poles, signs, trees, and embankments.   It will then employ deep learning methods to identify these features in unlabeled video.  An active learning feedback loop will rapidly direct human annotators and experts to the most valuable segments of video for labeling, greatly speeding the annotation process.  The feedback loop will continue until the AI tool is able to reliably identify the features automatically.
+
+  Data extracted from the video will then be integrated into a visualization system allowing users to browse and correct safety related annotations.  With the data collected in this way, researchers will be able to study the relationships between identified roadway features and NCDOT’s crash data, eventually determining which roadside features are predictive of safety.
+
+  RENCI leads the technical portion of this project, developing the data management, user-based tools, and the artificial intelligence models.   
+members:
+  - id: ashok-krishnamurthy
+    role: Lead
+  - id: chris-bizon
+  - id: david-borland
+  - id: matt-watson
+  - id: hong-yi
+partners:
+  - nc-dot
+  - unc-hsrc
+funding:
+  - us-dot

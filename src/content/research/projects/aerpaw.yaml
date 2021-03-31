@@ -2,4 +2,26 @@ id: aerpaw
 name: AERPAW
 featuredImage: aerpaw.jpg
 description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  The Aerial Experimentation Research Platform for Advanced Wireless (AERPAW) is a specialized wireless network designed to help researchers develop transformative wireless technologies for aerial systems. 
+renciRole: !markdown |
+  [AERPAW](https://aerpaw.org/) aims to integrate drones with 5G technologies to expand wireless coverage, speed, and capacity while also advancing the safe and efficient use of drones for package delivery, smart agriculture, and more.
+
+  RENCI is responsible for developing the control framework software for the AERPAW testbed. The project is led by North Carolina State University and includes many other academic, industry, and municipal partners. 
+members:
+  - id: yufeng-xin
+    role: Lead
+  - id: mert-cevik
+  - id: yaxue-guo
+  - id: erik-scott
+  - id: michael-stealey
+partners:
+  - nc-state-university
+  - wireless-research-center-of-nc
+  - mississippi-state-university
+  - town-of-cary
+  - city-of-raleigh
+  - nc-dot
+  - purdue
+  - university-of-south-carolina
+funding:
+  - nsf

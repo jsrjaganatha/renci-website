@@ -8,7 +8,6 @@ renciRole: !markdown |
 
   South Hub focus areas are: data science education and workforce; data sharing and cyberinfrastructure; health and health disparities; materials and advanced manufacturing; smart communities; and social cybersecurity.
 projects:
-  - open-storage-network
 members:
   - id: stan-ahalt
     role: Lead

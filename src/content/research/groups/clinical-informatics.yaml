@@ -10,19 +10,5 @@ members:
   - id: jason-reilly
   - id: phil-owen
 projects:
-  - data-translator
-  - data-translator-aragorn
-  - data-translator-icees
-  - data-translator-robokop
-  - data-translator-standards-and-reference-implementations
-  - cell-cycle
-  - gene-screen
-  - nc-genes
-  - nc-nexus
   - nc-tracs
-  - obesity-hub
-  - platform-for-analyzing-whole-brain-images
-  - scate
-  - semantic-infrastructure-for-noctua-and-gene-ontology
-  - surgical-critical-care-initiative
-  - unc-superfund-research-program
+  - sc2i

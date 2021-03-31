@@ -2,4 +2,24 @@ id: hydroshare
 name: Hydroshare
 featuredImage: hydroshare.jpg
 description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  HydroShare is a web based collaboration environment used by thousands of researchers to enable more rapid advances in hydrologic understanding through collaborative data sharing, analysis, and modeling. 
+renciRole: !markdown |
+  [HydroShare](https://www.hydroshare.org/) enhances researchers’ ability to share products resulting from their research—not just the scientific publication summarizing a study, but also the data, models, and workflow scripts used to create the scientific publication and reproduce the results. Scientists use HydroShare to discover and access hydrologic data and models, retrieve them to their desktop, or perform analyses in a distributed computing environment that may include grid, cloud, or high performance computing.
+members:
+  - id: hong-yi
+    role: Lead
+  - id: chris-calloway
+  - id: chris-lenhardt
+partners:
+  - brigham-young-university
+  - cuashi
+  - cybergis-center
+  - purdue
+  - tufts-university
+  - university-of-illinois-cybergis-center
+  - uva
+  - utah-state-university
+funding:
+  - cuashi
+  - nsf
+  - william-penn-foundation

@@ -13,6 +13,12 @@
 - name: Bibliothèque et Archives nationales du Québec
   id: banq
   url: https://banq.qc.ca/
+- name: Brigham & Women's Hospital
+  id: brigham-and-womens-hospital
+  url: https://www.brighamandwomens.org/womens-health-center-of-excellence
+- name: Brigham Young University
+  id: brigham-young-university
+  url: https://www.byu.edu/
 - name: Broad Institute
   id: broad-institute
   url: https://www.broadinstitute.org/
@@ -31,6 +37,9 @@
 - name: CINES
   id: cines
   url: https://www.cines.fr/en/
+- name: City of Raleigh
+  id: city-of-raleigh
+  url: https://raleighnc.gov/
 - name: Clemson University
   id: clemson-university
   url: https://www.clemson.edu/
@@ -43,9 +52,15 @@
 - name: Columbia University
   id: columbia-university
   url: http://www.columbia.edu/
+- name: Consortium of Universities for the Advancement of Hydrologic Science, Inc.
+  id: cuashi
+  url: https://www.cuahsi.org/
 - name: Cornell University
   id: cornell-university
   url: https://www.cornell.edu/
+- name: CyberGIS Center for Advanced Digital and Spatial Studies 
+  id: cybergis-center
+  url: https://cybergis.illinois.edu/
 - name: DataWorks NC
   id: dataworks-nc
   url: https://dataworks-nc.org/
@@ -145,6 +160,9 @@
 - name: Michigan Imputation Server
   id: michigan-imputation-server
   url: https://imputationserver.sph.umich.edu/index.html#!pages/home
+- name: Mississippi State University
+  id: mississippi-state-university
+  url: https://www.msstate.edu/
 - name: National Center for Advancing Translational Sciences
   id: ncats
   url: https://ncats.nih.gov/
@@ -156,7 +174,10 @@
   url: https://www.nih.gov/
 - name: NIH Clinical and Translational Science Awards Program
   id: nih-ctsa
-  ulr: https://ncats.nih.gov/ctsa
+  url: https://ncats.nih.gov/ctsa
+- name: National Jewish Health
+  id: national-jewish-health
+  url: https://www.nationaljewish.org/
 - name: National Oceanic and Atmospheric Administration
   id: noaa
   url: https://www.noaa.gov/
@@ -202,6 +223,9 @@
 - name: NOAA Coast Survey Development Lab
   id: noaa-csdl
   url: https://tidesandcurrents.noaa.gov/csdl.html
+- name: North Carolina Department of Transportation
+  id: nc-dot
+  url: https://www.ncdot.gov/
 - name: North Carolina State University
   id: nc-state-university
   url: https://www.ncsu.edu/
@@ -232,6 +256,9 @@
 - name: Program for Precision Medicine in Health Care, UNC School of Medicine
   id: unc-ppmh
   url: https://www.med.unc.edu/ppmh/
+- name: Purdue University
+  id: purdue
+  url: https://www.purdue.edu/
 - name: RENCI
   id: renci
   url: https://www.renci.org/
@@ -283,21 +310,30 @@
 - name: TOPMed Data Coordinating Center
   id: topmed
   url: https://www.nhlbiwgs.org/group/dcc
+- name: Town of Cary
+  id: town-of-cary
+  url: https://www.townofcary.org/
 - name: Trial Innovation Network
   id: trial-innovation-network
   url: https://trialinnovationnetwork.org/
+- name: Tufts University
+  id: tufts-university
+  url: https://www.tufts.edu/
 - name: U.S. Department of Defense
   id: us-dod
   url: https://dod.defense.gov/
 - name: U.S. Department of Energy
   id: us-doe
   url: https://www.energy.gov/
-- name: Department of Homeland Security
+- name: U.S. Department of Homeland Security
   id: us-dhs
   url: https://www.dhs.gov/
 - name: U.S. Department of Health and Human Services
   id: us-dhhs
   url: https://www.hhs.gov/
+- name: U.S. Department of Transportation
+  id: us-dot
+  url: https://www.transportation.gov/
 - name: U.S. Army Corps of Engineers
   id: us-ace
   path: https://www.usace.army.mil/
@@ -376,6 +412,9 @@
 - name: University of North Carolina at Chapel Hill Gillings School of Global Public Health
   id: unc-sph
   url: https://sph.unc.edu/
+- name: University of North Carolina at Chapel Hill Highway Safety Research Center
+  id: unc-hsrc
+  url: https://www.hsrc.unc.edu/
 - name: University of North Carolina at Chapel Hill Nutrition Research Institute
   id: unc-nri
   url: https://uncnri.org/
@@ -430,6 +469,9 @@
 - name: University of Southern California
   id: university-of-southern-california
   url: https://www.usc.edu/
+- name: University of South Carolina
+  id: university-of-south-carolina
+  url: https://sc.edu/
 - name: University of Southern California Information Sciences Institute
   id: usc-isi
   url: https://www.isi.edu/
@@ -454,6 +496,9 @@
 - name: US Ignite
   id: us-ignite
   url: https://www.us-ignite.org/
+- name: Utah State University
+  id: utah-state-university
+  url: https://www.usu.edu/
 - name: Utrecht University
   id: utrecht-university
   url: https://www.uu.nl/en/
@@ -472,3 +517,9 @@
 - name: Western Digital
   id: western-digital
   url: https://www.westerndigital.com/
+- name: William Penn Foundation
+  id: william-penn-foundation
+  url: https://williampennfoundation.org/
+- name: Wireless Research Center of North Carolina
+  id: wireless-research-center-of-nc
+  url: https://wrc-nc.org/
