@@ -21,7 +21,6 @@ renciRole: !markdown |
   ### Deployments
 
   UNC adopted the SRS as a central offering of its security plan following a comprehensive assessment of the technology and the system is deployed for data management in three large, data-intensive research projects: NCGENES (North Carolina Clinical Genomic Evaluation by NextGen Exome Sequencing) in the department of genetics; SAS Healthcare Analytics and the UNC’s Lineberger Comprehensive Cancer Center and SAS; and the Integrated Cancer Information and Surveillance System at the Lineberger Comprehensive Cancer Center.
-
 members:
   - id: michael-shoffner
     role: Lead
