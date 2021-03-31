@@ -22,7 +22,7 @@ const Wrapper = styled.div(({ theme }) => `
   }
 `)
 
-export const CollaborationsNetwork = ({ height = 500, width = 1000 }) => {
+export const CollaborationsNetwork = ({ height = 800, width = 800 }) => {
   const theme = useTheme()
   const data = useStaticQuery(collaborationsQuery)
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] })
