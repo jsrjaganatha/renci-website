@@ -32,42 +32,50 @@ const VizWrapper = styled.div`
   justify-content: center;
   backgroundColor: transparent;
   position: relative;
+  height: 300px;
+  @media (min-width: 992px) {
+    height: 600px;
+  }
   &:hover ${ LearnMoreLink } {
     filter: opacity(0.75);
+  }
+  & img.header-viz {
+    margin-bottom: -12rem;
+    min-width: 900px;
+    @media (min-width: 992px) {
+      margin-bottom: -12rem;
+      width: 100%;
+      max-width: 992px;
+    }
   }
 `
 
 const Overlay = styled.div`
-  // border: 1px dashed #f99;
   position: absolute;
   left: 0;
   right: 0;
-  bottom: -12rem;
-  height: 160px;
+  top: 100%;
+  height: 250px;
   background-color: #ffffffaa;
 `
 
 const Tagline = styled.div`
   position: absolute;
-  left: 0;
+  left: 1rem;
   right: 0;
-  top: 15%;
+  top: 5rem;
   font-size: 300%;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: 100;
   color: #222;
-  max-width: 1000px;
+  max-width: 1220px;
   margin: auto;
 `
 
 const Visualization = () => {
   return (
     <VizWrapper>
-      <img
-        src={ HomeGraphic }
-        style={{ marginBottom: '-12rem', maxWidth: '1000px' }}
-        alt=""
-      />
+      <img className="header-viz" src={ HomeGraphic } alt="" />
       <Overlay />
       <LearnMoreLink to="/home-viz"><Icon icon="question" size={ 16 } /> <span>Explore this graphic</span></LearnMoreLink>
       <Tagline>

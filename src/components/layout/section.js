@@ -13,9 +13,9 @@ const DynamicHeading = styled(Heading)(({ theme }) => `
 const Wrapper = styled.section(({ theme, fullWidth }) => `
   width: 100%;
   margin: 1rem auto;
-  padding: ${ theme.spacing.medium } ${ theme.spacing.small };
-  @media (min-width: 992px) {
-    padding: ${ theme.spacing.large };
+  padding: ${ theme.spacing.medium };
+  @media (min-width: 1240px) {
+    padding: ${ theme.spacing.large } 0;
   }
   display: flex;
   flex-direction: column;
