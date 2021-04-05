@@ -6,7 +6,7 @@ import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNews } from '../hooks'
 import { NewsList } from '../components/news'
-import HomeGraphic from '../images/home-graphic.png'
+import HomeGraphic from '../images/home-graphic.svg'
 import { Icon } from '../components/icon'
 
 const LearnMoreLink = styled(Link)(({ theme }) => `
@@ -38,12 +38,13 @@ const VizWrapper = styled.div`
 `
 
 const Overlay = styled.div`
+  // border: 1px dashed #f99;
   position: absolute;
   left: 0;
   right: 0;
-  top: calc(100% - 8rem);
-  bottom: -8rem;
-  background: linear-gradient(to bottom, transparent, white);
+  bottom: -12rem;
+  height: 160px;
+  background-color: #ffffffaa;
 `
 
 const Tagline = styled.div`
