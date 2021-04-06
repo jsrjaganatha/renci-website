@@ -6,9 +6,11 @@ import { IconLink } from '../link'
 import { Icon } from '../icon'
 
 const Wrapper = styled.div(({ theme }) => `
+  ${ theme.debug }
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
+  margin: ${ theme.spacing.medium } 0;
   & > * { margin: 0 0.25rem; }
   svg {
     fill: ${ theme.color.darkgrey };
