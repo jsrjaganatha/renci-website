@@ -6,7 +6,6 @@ import { IconLink } from '../link'
 import { Icon } from '../icon'
 
 const Wrapper = styled.div(({ theme }) => `
-  ${ theme.debug }
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
