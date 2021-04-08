@@ -27,7 +27,7 @@ const LearnMoreLink = styled(Link)(({ theme }) => `
   text-decoration: none;
 `)
 
-const VizWrapper = styled.div`
+const VizWrapper = styled.div(({ theme }) => `
   display: flex;
   justify-content: center;
   backgroundColor: transparent;
@@ -40,15 +40,16 @@ const VizWrapper = styled.div`
     filter: opacity(0.75);
   }
   & img.header-viz {
-    margin-bottom: -12rem;
-    min-width: 900px;
+    margin-left: 5rem;
+    margin-bottom: -10rem;
+    height: 400px;
     @media (min-width: 992px) {
-      margin-bottom: -12rem;
-      width: 100%;
-      max-width: 992px;
+      height: 750px;
+      margin-left: 15rem;
+      margin-bottom: -10rem;
     }
   }
-`
+`)
 
 const Overlay = styled.div`
   position: absolute;
