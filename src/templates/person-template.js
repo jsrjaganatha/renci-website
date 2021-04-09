@@ -44,11 +44,13 @@ export default ({ data, pageContext }) => {
         { contributions && <List items={ contributions.map(contribution => <ArrowLink key={ contribution.id } to={ contribution.fields.path } text={ contribution.name } />) } /> }
       </Section>
 
-      <Section title="About">
-        <Paragraph>
-          { bio }
-        </Paragraph>
-      </Section>
+      {
+        bio && (
+          <Section title="About">
+            <Paragraph dangerouslySetInnerHTML={{ __html: bio }} />
+          </Section>
+        )
+      }
 
     </Container>
   )
