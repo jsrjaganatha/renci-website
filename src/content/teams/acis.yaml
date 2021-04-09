@@ -1,13 +1,16 @@
 id: acis
 name: Advanced Cyberinfrastructure Support
-description: Advanced Cyberinfrastructure Support
+description: >
+  The Advanced Cyberinfrastructure Support (ACIS) Team provides a wide range of IT services and support across all groups at RENCI, and is responsible for managing infrastructure in the cloud and on premise in the RENCI datacenter. The team oversees services ranging from high performance computing, enterprise storage, and virtualization to desktop and audio/video conference room support.
 featuredImage: null
 members:
-  - marcin-sliwowski
   - cole-dickens
   - robert-jones
   - lance-leathers
+  - paul-linebaugh
+  - kevin-otte
   - chris-rutledge
+  - marcin-sliwowski
 projects:
 online_presence:
   url: https://wiki.renci.org/

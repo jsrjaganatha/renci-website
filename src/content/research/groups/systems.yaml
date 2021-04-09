@@ -1,7 +1,8 @@
 id: systems
 name: Software Systems Architecture
-description: systems systems systems systems systems 
-featuredImage: null
+description: >
+  The Software Systems Architecture Group develops cloud computing data science platforms and environments. These include the HeLx platform used in neuroscience, plant genomics, and clinical research projects. The Systems Group also designs scalable knowledge management methods including full text search systems augmented with knowledge graph and machine learning models. 
+featuredImage: systems.jpg
 members:
   - id: steve-cox
     role: Lead
@@ -10,8 +11,8 @@ members:
   - id: fan-jiang
   - id: oleg-kapeljushnik
   - id: murali-kothapalli
-  - id: matt-watson
   - id: michael-shoffner
+  - id: matt-watson
   - id: hao-xu
 projects:
   - brain-i
