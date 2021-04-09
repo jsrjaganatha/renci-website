@@ -43,7 +43,9 @@ const VizWrapper = styled.div(({ theme }) => `
     margin-left: 5rem;
     margin-bottom: -10rem;
     height: 400px;
+    transform: scale(1.2);
     @media (min-width: 992px) {
+      transform-origin: 0% 50%;
       height: 750px;
       margin-left: 15rem;
       margin-bottom: -10rem;
