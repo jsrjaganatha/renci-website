@@ -5,7 +5,7 @@ import { Title, Paragraph } from '../components/typography'
 import { List } from '../components/list'
 import { ArrowLink } from '../components/link'
 import { useOrganizations } from '../hooks'
-import { CollaborationsNetwork } from '../components/viz'
+import { CollaborationsNetwork, StaffNetwork } from '../components/viz'
 
 const AboutPage = () => {
   const organizations = useOrganizations()
@@ -38,6 +38,13 @@ const AboutPage = () => {
             The force-directed graph below illustrates how research groups and projects are linked by their collaborating and funding organizations.
           </Paragraph>
           <CollaborationsNetwork />
+        </Article>
+
+        <Article title={ `Teamwork` }>
+          <Paragraph>
+            RENCI teamwork
+          </Paragraph>
+          <StaffNetwork />
         </Article>
       </Section>
 
