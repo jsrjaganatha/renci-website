@@ -11,7 +11,9 @@ projects:
 members:
   - id: stan-ahalt
     role: Lead
+  - id: jay-aikat
   - id: jayasree-jaganatha
+  - id: shannon-mckeen
   - id: stephanie-suber
   - id: jeremy-zollars
 partners:
