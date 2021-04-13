@@ -40,7 +40,7 @@ const VizWrapper = styled.div(({ theme }) => `
     filter: opacity(0.75);
   }
   & img.header-viz {
-    margin-left: 5rem;
+    margin-left: 12rem;
     margin-bottom: -10rem;
     height: 400px;
     transform: scale(1.2);
