@@ -20,14 +20,15 @@ tags:
     - open-source
     - training
 ---
-![Pic; SC attendees attend a free workshop on using iRODS.](https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg)  
-_SC16 attendees will have the chance to attend a free workshop on using iRODS._
+## SC16 attendees will have the chance to attend a free workshop on using iRODS
 
-_IRODS: From Prototype to Production_ will be sponsored by DDN
+## IRODS: From Prototype to Production_ will be sponsored by DDN
 
 SALT LAKE CITY, Utah – Attendees of SC16 who are interested in federated data management will have the chance to learn about [iRODS](http://www.irods.org) and the [iRODS Consortium](http://irods.org/consortium/) at a free workshop sponsored by consortium member [DDN](http://www.ddn.com/products/).
 
 The workshop will take place from 9 a.m. – 11 a.m., Monday, Nov. 14, in the Wasatch Room on the second floor of the Radisson Hotel Salt Lake City Downtown, 215 S. Temple. To reserve a seat at the workshop and view more information, click [here](http://irods.org/sc16/).
+
+![SC attendees listen to iinstructor at a workshop on using iRODS.](https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg)  
 
 iRODS—the integrated Rule-Oriented Data System—is free open source software for managing large, complex data that is often distributed at multiple locations. iRODS is developed and sustained by the iRODS Consortium, a worldwide group of iRODS users representing industry, academia, and government. At the Nov. 14 workshop, Jason Coposky, iRODS chief technologist and interim director of the iRODS Consortium, and Terrell Russell, iRODS senior data scientist, will present an overview of the consortium and its roadmap for continued iRODS development before delving into the nuts and bolts of working with iRODS.
 

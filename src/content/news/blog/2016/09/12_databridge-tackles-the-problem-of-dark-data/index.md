@@ -2,7 +2,7 @@
 title: "DataBridge tackles the problem of dark data'"
 slug: databridge-tackles-the-problem-of-dark-data
 publishDate: 2016-09-12T16:45:22
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -17,9 +17,10 @@ collaborations:
 tags:
     - data-management
 ---
-[![DataBridge-Logo-Final copy](https://renci.org/wp-content/uploads/2016/09/DataBridge-Logo-Final-copy-300x94.jpg)]
 
 DataBridge, a National Science Foundation-funded project to make research data more discoverable and usable by a wide community of scientists, has the green light to expand its work into the neuroscience community, thanks to a new NSF [EAGER](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1649397&HistoricalAwards=false) award.
+
+![DataBridge-Logo-Final copy](https://renci.org/wp-content/uploads/2016/09/DataBridge-Logo-Final-copy.jpg)
 
 The award itself is relatively small (less than $100,000) and will allow the researchers to consult with neuroscientists, develop a prototype DataBridge for Neuroscience (DBfN), and a community workshop. However, the impact could be significant for a hot scientific field that is making breakthrough discoveries about the human brain.
 
@@ -38,11 +39,12 @@ DataBridge gathers metadata about data sets, including the scientific field of t
 
 In its first iteration, also funded by the NSF, DataBridge focused on data sets in the social sciences. As the project expands into new communities, we wish them continued success in making data from the "long tail of science" more accessible and usable.
 
-**Learn more:**
+## Learn more:
 
-DataBridge [white paper](https://renci.org/wp-content/uploads/2015/07/RCI-RENCI-White-Paper-No5.FINAL_.pdf)
+- DataBridge [white paper](https://renci.org/wp-content/uploads/2015/07/RCI-RENCI-White-Paper-No5.FINAL_.pdf)
 
-DataBridge [website](http://databridge.web.unc.edu/)
+- DataBridge [website](http://databridge.web.unc.edu/)
 
-_-Karen Green_
+<!-- _-Karen Green_ -->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

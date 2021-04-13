@@ -2,7 +2,7 @@
 title: "IBM exec offers tips for thriving in the digital data storm"
 slug: ibm-exec-offers-tips-for-thriving-in-the-digital-data-storm
 publishDate: 2017-01-04T13:54:10
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - 
@@ -17,6 +17,7 @@ collaborations:
 tags:
     - data-management
 ---
+
 Cognitive thinking is the key to surviving and thriving in the perfect storm of modern technology, according to IBM's Mac Devine, who presented a National Consortium for Data Science (NCDS) DataBytes Webinar in December.
 
 Devine, vice president and CTO of emerging technology and advanced innovation, IBM Cloud Division, said that our interconnected world composed of big data, the Internet of Things and the cloud, has created a tidal wave of data that is too large to handle using traditional methods of managing information. Cognitive thinking, or using high-level technology to comb through large sets of data with a human mindset, is one strategy for coping with what he termed a "perfect digital storm."
@@ -33,5 +34,6 @@ Moving forward, applying cognitive thinking techniques and decentralization will
 
 The DataBytes Webinar series is presented monthly by the NCDS, a public-private consortium to advance data science. To view Devine's webinar, click [here](http://datascienceconsortium.org/event/surthrival-guide-to-the-perfect-digital-storm/). To view other DataBytes webinars, click [here](http://datascienceconsortium.org/databytes-webinars/). To learn more about the NCDS, visit [www.datascienceconsortium.org](http://www.datascienceconsortium.org).
 
-_–Carolina Chao, RENCI and NCDS communications intern_
+<!-- _–Carolina Chao, RENCI and NCDS communications intern_ -->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

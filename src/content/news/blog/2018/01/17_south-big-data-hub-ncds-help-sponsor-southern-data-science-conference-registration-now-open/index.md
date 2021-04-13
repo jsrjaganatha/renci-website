@@ -2,8 +2,7 @@
 title: "South Big Data Hub, NCDS help sponsor Southern Data Science Conference; registration now open"
 slug: south-big-data-hub-ncds-help-sponsor-southern-data-science-conference-registration-now-open
 publishDate: 2018-01-17T15:05:45
-author:
-    - stephanie-suber
+author: 
 featuredImage: null
 groups:
     - 
@@ -20,7 +19,6 @@ tags:
     - 
 ---
 
-
 The 2018 Southern Data Science Conference (SDSC 18) will bring experts and researchers from top companies and research institutes to Atlanta on April 13 and 14 for two days of sharing best practices and discussing the latest issues, challenges, and trends in data science.
 
 ![](https://renci.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-17-at-2.56.51-PM-1024x404.png)
@@ -35,4 +33,4 @@ Keynote addresses will be presented by Kirk Borne, principal data scientist at B
 
 Registration is now open and early-bird discounts are available through Feb. 28\. Discounts are also available for students. To learn more or to register, visit the [Southern Data Science Conference website](https://www.southerndatascience.com/).
 
-_-Karen Green_
+<!-- _-Karen Green_ -->

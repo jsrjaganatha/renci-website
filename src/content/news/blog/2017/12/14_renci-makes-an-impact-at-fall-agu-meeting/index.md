@@ -2,7 +2,7 @@
 title: "RENCI makes an impact at fall AGU meeting"
 slug: renci-makes-an-impact-at-fall-agu-meeting
 publishDate: 2017-12-14T15:13:45
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - earth-data-sciences
@@ -29,7 +29,7 @@ Why was New Orleans inundated with scientists during the week of December 11, 15
 
 ![](https://renci.org/wp-content/uploads/2017/12/20171212_142716-1024x768.jpg)
 
-_Chris Lenhardt (left), and Howard Lander with their poster at the AGU fall meeting._
+> _Chris Lenhardt (left), and Howard Lander with their poster at the AGU fall meeting._
 
 As researchers in the Earth and geosciences incorporate more data from sensors and other sources into their work, RENCI's expertise in cyberinfrastructure to manage data throughout its lifecycle takes on more importance in this community. As a result, RENCI was well represented at the AGU meeting in several poster sessions held throughout the week.
 
@@ -47,4 +47,4 @@ Lenhardt and Lander also participate in the AGU's Earth and Space Sciences Infor
 
 For more on the AGU Fall Meeting, visit the [meeting website](https://fallmeeting.agu.org/2017/).
 
-_-Karen Green_
+<!-- _-Karen Green_ -->

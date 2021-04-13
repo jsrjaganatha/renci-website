@@ -1,5 +1,6 @@
 ---
 title: "Registration now open for June iRODS User Group Meeting"
+subtitle: Discounts through April 1; visit irods.org
 slug: registration-now-open-for-june-irods-user-group-meeting-2
 publishDate: 2018-03-06
 author: 
@@ -19,8 +20,8 @@ tags:
     - open-source
     - training
 ---
-_[![](https://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png)
-*Registration discounts through April 1; visit_ _[irods.org](https://irods.org/)_* 
+![iRODS UGM 2018 logo](https://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png)
+
 
 DURHAM, NC - Users of the integrated Rule Oriented Data System (iRODS) will come to Durham, NC from points around the globe to attend the 2018 iRODS User Group Meeting (UGM) June 5 – 7.
 
@@ -41,4 +42,4 @@ Registration is now open and early bird discounts are available until April 1. S
 
 **About the iRODS Consortium** 
 
-The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/). The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [www.renci.org](https://www.renci.org/).
+The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at [irods.org](http://irods.org/). The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit [renci.org](https://www.renci.org/).

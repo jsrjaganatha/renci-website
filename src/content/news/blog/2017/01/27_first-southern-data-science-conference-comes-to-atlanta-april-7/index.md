@@ -17,7 +17,7 @@ collaborations:
 tags:
     - 
 ---
-[![](https://renci.org/wp-content/uploads/2017/01/Atlanta.png)]
+![Atlanta skyling at dusk](https://renci.org/wp-content/uploads/2017/01/Atlanta.png)
 
 _Register now at [www.southerndatascience.com](http://www.southerndatascience.com)_
 
@@ -32,4 +32,5 @@ Registering early will translate into money saved. The conference offers a $75 e
 Conference sponsors include [Career Builder](http://www.careerbuilder.com/), [LexisNexis](http://www.lexisnexis.com/en-us/gateway.page), [Datacamp.com](https://www.datacamp.com/), the [Becoming a Data Scientist](http://www.becomingadatascientist.com/) podcast and blog (podcast sponsor), [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/), [Applied Data Science Atlanta](https://www.meetup.com/Applied-Data-Science-of-Atlanta/), and the [Institute for Data Engineering and Science](http://bigdata.gatech.edu/) at Georgia Tech. Sponsorship opportunities are still available. Interested sponsors should contact Khalifeh AlJadda at [khalifefh@southerndatascience.com](mailto:khalifefh@southerndatascience.com).
 
 To learn more about the conference or to register, please visit the conference [website](http://www.southerndatascience.com./).
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

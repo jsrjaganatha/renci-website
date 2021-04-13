@@ -1,5 +1,6 @@
 ---
 title: "iRODS team offers free workshop at SC16"
+subtitle: "\"IRODS: From Prototype to Production\" will be sponsored by DDN"
 slug: irods-team-offers-free-workshop-at-sc16
 publishDate: 2016-10-10
 author: 
@@ -20,7 +21,6 @@ tags:
     - open-source
     - training
 ---
-_IRODS: From Prototype to Production_ will be sponsored by DDN
 
 SALT LAKE CITY, Utah – Attendees of SC16 who are interested in federated data management will have the chance to learn about [iRODS](http://www.irods.org/) and the [iRODS Consortium](http://irods.org/consortium/) at a free workshop sponsored by consortium member [DDN](http://www.ddn.com/products/).
 

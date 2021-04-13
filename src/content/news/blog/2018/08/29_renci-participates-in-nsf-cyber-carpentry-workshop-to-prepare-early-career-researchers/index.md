@@ -49,4 +49,4 @@ Jocelyn Colella, a PhD candidate in evolutionary genomics at the University of N
 
 "Coming from a smaller lab, it has been incredibly expensive to build the computing resources and data archival infrastructure necessary to deal with terabytes of genomic data," she said. "Learning about the free computational and storage resources available through NSF-funded projects has revolutionized how I conceptualize my own workflows and will alter how I apply for grants going into the future."
 
-_This workshop was funded by the [NSF Cyber Training program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505342). Look for information about the 2019 summer workshop at [cybercarpentry.web.unc.edu](http://cybercarpentry.web.unc.edu/)
+_This workshop was funded by the [NSF Cyber Training program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505342). Look for information about the 2019 summer workshop at [https://cybercarpentry.web.unc.edu](http://cybercarpentry.web.unc.edu/)

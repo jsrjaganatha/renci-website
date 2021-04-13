@@ -25,7 +25,7 @@ tags:
 ---
 ![SNIC logo](https://renci.org/wp-content/uploads/2017/12/snic-newlogo-300x74.png)
 
-CHAPEL HILL, NC - The [Swedish National Infrastructure for Computing](http://www.snic.vr.se/) (SNIC), a national research infrastructure hosted at universities across Sweden, is the newest member of the [iRODS Consortium](http://www.irods.org), the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
+CHAPEL HILL, NC - The [Swedish National Infrastructure for Computing](https://www.snic.se/) (SNIC), a national research infrastructure hosted at universities across Sweden, is the newest member of the [iRODS Consortium](http://www.irods.org), the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
 
 SNIC provides balanced and cost-effective resources and user support for large-scale computation and data storage to researchers in all scientific disciplines nationwide. The resources are made available through open application procedures such that the best Swedish research is supported.
 

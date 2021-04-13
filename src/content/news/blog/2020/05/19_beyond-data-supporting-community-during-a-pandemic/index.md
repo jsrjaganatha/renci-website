@@ -57,7 +57,7 @@ Hiles has also donated her time to the state and national chapters of [Mask Warr
 
 Davis and Hiles have also worked to assist food banks in their areas.
 
-"I volunteered at the [Food Bank](https://foodbankcenc.org/) [for](https://foodbankcenc.org/) [Central & Eastern NC](https://foodbankcenc.org/) for an afternoon but quickly realized what they needed was monetary donations much more than my time," said Davis.
+"I volunteered at the [Food Bank for Central & Eastern NC](https://foodbankcenc.org/) for an afternoon but quickly realized what they needed was monetary donations much more than my time," said Davis.
 
 Hiles' story is a little different. Her family "adopted" the milk shelf of their neighborhood food bank a few months ago. Their responsibility as milk sponsors is to keep the shelf full of Ultra-High Temperature (UHT) milk.
 
@@ -85,4 +85,4 @@ Amanda Miller, project and events coordinator, is encouraging those who are able
 
 Together We Rise recently created an [emergency response fund](https://www.togetherwerise.org/help-displaced-students/) for displaced foster youth and built a platform to connect them with available housing. In addition to accepting cash donations, Together We Rise offers an extensive list of team building activities that unite employees around creating materials to support foster youth. The website identifies activities based on group size and the duration of the activity to help determine which might suit your group's capacity. Learn more at [https://www.togetherwerise.org/teambuilding-for-good/](https://www.togetherwerise.org/teambuilding-for-good/).  
 
-_By Jayasree Jaganatha, Social Media Specialist, RENCI_
+<!-- _By Jayasree Jaganatha, Social Media Specialist, RENCI_ -->

@@ -1,5 +1,6 @@
 ---
 title: "Delving into the data from Hurricane Maria"
+subtitle: Data and water scientists aim to learn from an unparalleled natural disaster
 slug: delving-into-the-data-from-hurricane-maria
 publishDate: 2018-02-21
 author: 
@@ -19,12 +20,11 @@ tags:
     - team-science
     - data-analysis
 ---
-_Data and water scientists aim to learn from an unparalleled natural disaster._ 
-
 Among the many problems faced by residents of Puerto Rico in the aftermath of Hurricane Maria is a lack of clean drinking water; this poses health risks for people who have already endured unprecedented hardship. 
 
-[![](https://renci.org/wp-content/uploads/2018/02/FEMA-31-300x191.jpg)](https://renci.org/wp-content/uploads/2018/02/FEMA-31.jpg)
-*National Guard members deliver FEMA's emergency food and water to survivors in San Juan, Puerto Rico after Hurricane Maria. The Category 4 storm compromised many drinking water systems on the island. Photo: Yuisa Rios/FEMA*
+![National Guard members delivering FEMA food and water to survivors in Puerto Rico](https://renci.org/wp-content/uploads/2018/02/FEMA-31.jpg)
+
+> _National Guard members deliver FEMA's emergency food and water to survivors in San Juan, Puerto Rico after Hurricane Maria. The Category 4 storm compromised many drinking water systems on the island. Photo: Yuisa Rios/FEMA_
 
 The storm and its aftermath also provided a distinctive occasion for an interdisciplinary research team, including RENCI experts, to collect data to understand how the storm impaired the island's water resources. Through a grant from the National Science Foundation (NSF), the team is developing a software system to archive and share information about drinking water quality in some of the most devastated areas of Puerto Rico, and assessing how disruption in services affects water quality and relates to disease outbreaks.
 
@@ -46,5 +46,5 @@ Making the Hurricane Maria water quality and related storm and environmental dat
 
 For more information on this project: 
 
-University of Washington: [RAPID grant awarded for Puerto Rico research](http://escience.washington.edu/rapid-grant-awarded-for-puerto-rico-research/) 
-GitHub: [Puerto Rico Water Studies Wiki](https://github.com/hydroshare/PuertoRicoWaterStudies/wiki)
+- University of Washington: [RAPID grant awarded for Puerto Rico research](http://escience.washington.edu/rapid-grant-awarded-for-puerto-rico-research/) 
+- GitHub: [Puerto Rico Water Studies Wiki](https://github.com/hydroshare/PuertoRicoWaterStudies/wiki)

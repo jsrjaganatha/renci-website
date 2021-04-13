@@ -2,7 +2,7 @@
 title: "Fourth annual Data Matters Short Court Series offers a wide range of topics for 2017"
 slug: fourth-annual-data-matters-short-court-series-offers-a-wide-range-of-topics-for-2017
 publishDate: 2017-04-26T17:19:42
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -22,7 +22,7 @@ tags:
 
 Calling all researchers who manage, share, analyze and archive large or complicated data sets, business professionals struggling to stay afloat in the data deluge, data analysts looking to sharpen their skills, and students interested in the hot field of data science. The five-day Data Matters Short Course series is here to help and give you the knowledge you need to thrive in our data rich world.
 
-Now in its fourth year, Data Matters is sponsored by the [National Consortium for Data Science](http://datascienceconsortium.org/) (NCDS) the [Data Science Initiative](https://research.ncsu.edu/dsi/) at NC State University, the [Odum Institute](http://odum.unc.edu/) for Research in Social Science at UNC Chapel Hill, and [RENCI](https://renci.org/).
+Now in its fourth year, Data Matters is sponsored by the [National Consortium for Data Science](http://datascienceconsortium.org/) (NCDS) the [Data Science Initiative](https://research.ncsu.edu/dsi/) at NC State University, the [Odum Institute](https://odum.unc.edu/) for Research in Social Science at UNC Chapel Hill, and [RENCI](https://renci.org/).
 
 This year's Data Matters will be held August 7-11 at the James B. Hunt Jr. Library on NC State's Centennial Campus.
 
@@ -34,11 +34,12 @@ Sponsors:
 
 The National Consortium for Data Science formed in 2013 as a public-private partnership to advance the field of data science and address the data challenges of the 21st century. For more information, visit [www.datascienceconsortium.org](http://www.datascienceconsortium.org/).
 
-The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit [www.odum.unc.edu](http://www.odum.unc.edu/).
+The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit [www.odum.unc.edu](https://www.odum.unc.edu/).
 
 RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit [www.renci.org](https://www.renci.org/).
 
 The Data Science Initiative (DSI) is sponsored by the Office of Research, Innovation and Economic Development at NC State University to create a nationally recognized hub of excellence in data science and analytics. DSI seeks to enhance internal capabilities and better enable faculty, students and researchers to use and further data science methods and applications to help ideas become solutions. For more information, visit [https://research.ncsu.edu/dsi/](https://research.ncsu.edu/dsi/).
 
-_By Carolina Chao, RENCI communications intern_
+<!--_By Carolina Chao, RENCI communications intern_-->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

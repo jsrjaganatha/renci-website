@@ -2,7 +2,7 @@
 title: "Leading the charge in biomedical visualization"
 slug: leading-the-charge-in-biomedical-visualization
 publishDate: 2016-08-27T17:55:27
-author: ["stephanie-suber"]
+author:
 featuredImage: null
 groups:
     - 
@@ -17,9 +17,10 @@ collaborations:
 tags:
     - visualization
 ---
-[![amia-logo-nobg](https://renci.org/wp-content/uploads/2016/08/amia-logo-nobg.jpg)]
 
 Biomedical informatics is one of the hottest data science research fields, with scientists publishing hundreds of research papers every year that could impact how patients and doctors access and interact with medical information and the effectiveness of medical treatments.
+
+![amia-logo-nobg](https://renci.org/wp-content/uploads/2016/08/amia-logo-nobg.jpg)
 
 The field is relatively new and maturing, and to highlight accomplishments and shine a light on emerging trends the [American Medical Informatics Association](https://www.amia.org/) (AMIA) publishes the annual [AMIA Year-in-Review](http://jamia.oxfordjournals.org/content/early/2016/07/29/jamia.ocw103) in clinical and consumer informatics. The latest version of the review (2015) referenced 54 published research papers chosen from 724 articles published between Nov. 1, 2014 and Oct. 31, 2015 on the themes of information retrieval, natural language processing, usability and human-computer interaction, and visualization.
 
@@ -33,5 +34,6 @@ Congratulations to our RENCI-Duke team for their recognition by the AMIA and for
 
 Want to know more about cutting edge visualization work and the science and art of visualization? Plan to attend the Triangle Visualization Group kick-off event Tuesday, Sept. 6 beginning at 6 p.m. The group will meet at the [American Tobacco Campus'](https://americantobaccocampus.com/) American Underground Classroom in Durham beginning at 6 p.m. Food and drinks, a panel discussion by visualization experts, and informal networking will all be featured as part of the free event.
 
-_-Karen Green_
+<!-- _-Karen Green_ -->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

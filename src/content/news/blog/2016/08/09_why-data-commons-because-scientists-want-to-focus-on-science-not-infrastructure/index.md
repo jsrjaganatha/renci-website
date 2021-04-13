@@ -2,7 +2,7 @@
 title: "Why Data Commons? Because scientists want to focus on science, not infrastructure"
 slug: why-data-commons-because-scientists-want-to-focus-on-science-not-infrastructure
 publishDate: 2016-08-09T10:54:52
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - earth-data-science
@@ -22,11 +22,12 @@ tags:
     - data-management
     - cyberinfrastructure
 ---
-[![ESIP](https://renci.org/wp-content/uploads/2016/08/ESIP-300x214.jpg)](https://renci.org/wp-content/uploads/2016/08/ESIP.jpg)
 
 ESIP meeting participants discuss the challenges of a Data Commons at their recent summer meeting in Durham, NC.
 
 After more than 25 years as a science communicator, I've come to recognize the things that all scientists, regardless of their disciplines, yearn for. It's not an endless stream of funding or appreciation from the public for their work (although both would be nice).
+
+![participants discuss while sitting at tables](https://renci.org/wp-content/uploads/2016/08/ESIP.jpg)
 
 Most scientists simply want to be able to concentrate on their science, rather than the tools, technologies, and resources that make modern-day collaborative science possible. Just like a Formula 1 driver, who wants to drive a car really fast without worrying about what's going on under the hood, scientists want to do their work while computing, data management, security, etc., happens under the hood. That allows them to focus on solving problems rather than the infrastructure that supports problem solving.
 
@@ -48,5 +49,6 @@ Should the geosciences develop their own Data Commons? ESIP participants say yes
 
 Whatever happens, the need for scientific cyberinfrastructure continues to grow and scientists continue to wish for that under-the-hood solution that will finally free them from the multiple roles of domain scientist, data scientist, computer scientist, and network scientist. Let geologist be geologists, meteorologist be meteorologists, physicists be physicists — you get the picture.
 
-_-Karen Green_
+<!-- _-Karen Green_ -->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

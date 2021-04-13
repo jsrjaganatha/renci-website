@@ -2,7 +2,7 @@
 title: "RENCI scientist set to join the ranks of Climate Reality Leaders"
 slug: renci-scientist-set-to-join-the-ranks-of-climate-reality-leaders
 publishDate: 2017-09-27T14:46:33
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - 
@@ -26,7 +26,7 @@ RENCI's Chris Lenhardt, an environmental data science and systems expert, will j
 
 ![](https://renci.org/wp-content/uploads/2017/09/ChrisLenhardt-copy-2.png)
 
-_Chris Lenhardt_
+> _Chris Lenhardt_
 
 The project works to ensure an accelerated global shift from using fossil fuels that contribute to climate change to renewables that will reduce carbon emissions. The goal is to develop strategies and take actions that allow people and economies to flourish without negatively affecting the planet. The Climate Reality Leadership Corps, one of the many initiatives of the Climate Reality Project, aims to develop exceptional leaders by providing training in organizing, communications, and climate science in order to tell the story of climate change and inspire communities everywhere to take action.
 
@@ -38,4 +38,4 @@ Chris's professional career has focused largely on science data cyberinfrastruct
 
 Congratulations Chris—we look forward to learning more about this critical issue when you return from your leadership training.
 
-_-Karen Green_
+<!-- _-Karen Green_ -->

@@ -2,7 +2,7 @@
 title: "NSF-funded undergraduate researchers get a taste of life at RENCI"
 slug: nsf-funded-undergrad-researchers-get-a-taste-of-life-at-renci
 publishDate: 2017-08-08T15:46:11
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -25,9 +25,9 @@ tags:
     - team-science
 ---
 
-![.] (<https://renci.org/wp-content/uploads/2017/08/REU-12-Panel-1.jpg>)
+![.](https://renci.org/wp-content/uploads/2017/08/REU-12-Panel-1.jpg)
 
-*A panel of RENCI employees talks to NSF REU students during a recent visit.*
+> _A panel of RENCI employees sitting around tables, talking to NSF REU students__
 
 On July 21, RENCI hosted 11 students and two professors from the National Science Foundation's Research Experience for Undergraduates (REU) program. The program allows undergraduates to actively participate in research in any of the areas of research funded by the NSF. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. As a part of their REU experience at North Carolina A & T State University, a group of undergraduate students from diverse backgrounds and several universities came to RENCI for an educational tour.
 
@@ -41,7 +41,7 @@ After the panel discussion, every student had the opportunity to present their s
 
 The visit was arranged by Bala Ram, a professor and associate dean for academic affairs in the NC A&T State College of Engineering. Ram leads an REU site at NC A&T State focused on engineering modeling and computational research. The students who participated in the RENCI visit came from seven different colleges and universities, including four from NC A&T State.
 
-For more information on the NSF REU program, click [here](<https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517>).
+For more information on the NSF REU program, click [here](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517).
 
-*\-Deepti Kumra, student intern, project management *
+<!-- *\-Deepti Kumra, student intern, project management * -->
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

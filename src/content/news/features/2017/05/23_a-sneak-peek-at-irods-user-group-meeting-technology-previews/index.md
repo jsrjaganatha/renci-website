@@ -1,5 +1,6 @@
 ---
 title: "A sneak peek at iRODS User Group Meeting technology previews"
+subtitle: New plugins to be highlighted; register now at irods.org
 slug: a-sneak-peek-at-irods-user-group-meeting-technology-previews
 publishDate: 2017-05-23
 author: 
@@ -20,10 +21,10 @@ tags:
     - open-source
     - training
 ---
-_New plugins to be highlighted_; register now at [irods.org](https://irods.org/)
 
 ![Photo: Terrell Russel speaks at last's year's meeting](https://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o-1024x681.jpg)  
-> Above: Terrell Russell speaks at last year's iRODS User Group Meeting.
+
+> _Above: Terrell Russell speaks at last year's iRODS User Group Meeting._
 
 The worldwide iRODS community will gather June 13 – 15 for the first User Group Meeting to be held at Utrecht University in The Netherlands.
 

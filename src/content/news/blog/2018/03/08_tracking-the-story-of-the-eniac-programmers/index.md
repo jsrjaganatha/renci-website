@@ -4,7 +4,6 @@ subtitle: "Six women who changed computing finally get their day in the spotligh
 slug: tracking-the-story-of-the-eniac-programmers
 publishDate: 2018-03-08T13:10:48
 author:
-    - stephanie-suber
 featuredImage: null
 groups:
     - 
@@ -20,9 +19,9 @@ tags:
     - high-performance-computing
 ---
 
-More than 70 years ago, six brilliant mathematicians came to Philadelphia to take part in a secret U.S. Army project designed to help the Allies win World War II. These young pioneers of the computing age learned to program using only logical diagrams and their considerable talents—no programming languages or tools existed to help them.\u00a0
+More than 70 years ago, six brilliant mathematicians came to Philadelphia to take part in a secret U.S. Army project designed to help the Allies win World War II. These young pioneers of the computing age learned to program using only logical diagrams and their considerable talents—no programming languages or tools existed to help them.
 
-![](https://renci.org/wp-content/uploads/2018/03/ENIAC.jpg)
+![black-and-white photgraph from 1946 of women standing with ENIAC, the world’s first all-electonic computer](https://renci.org/wp-content/uploads/2018/03/ENIAC.jpg)
 
 _Jean Jennings Bartik (left), and Frances Bilas Smith in 1946 with ENIAC, the world’s first all-electonic computer. Photo credit: Computer History Museum_
 
@@ -30,12 +29,11 @@ The result of their efforts was ENIAC (Electronic Numerical Integrator And Compu
 
 They were the first modern-day programmers, but they were also women and expected to stay in the background. In photos from the ENIAC public debut, they are pictured but not identified, functioning as "refrigerator models" as one computer historian termed it, a reference to 1950s TV commercials for home appliances, in which smiling female models in high heels would open refrigerator doors.
 
-Kathy Kleiman, a computer programmer, historian, and telecommunications lawyer,
-
 ![](https://renci.org/wp-content/uploads/2018/03/IMG_0725-300x225.jpg)
 
 _Kathy Kleiman (center), with RENCI Communications Director Karen Green (right), and iRODS Automation Engineer Jaspreet Gill, who was inspired to pursue a career in computer science by the story of the ENIAC programmers._
 
+Kathy Kleiman, a computer programmer, historian, and telecommunications lawyer,
 learned about the ENIAC project as a student and has devoted much of the last 20 years to telling the story of the ENIAC programmers and to ensuring they receive credit for their pivotal role in computing history. Kleiman launched the ENIAC Programmers Project, and in 2008 she talked about her efforts at an event sponsored by RENCI and Duke University.
 
 This February, she was back at Duke, introducing the documentary _The Computers_, the award-winning film she spearheaded that premiered at the 2014 Seattle International Film Festival. The film explains the daunting tasks the ENIAC team faced and delves into the backgrounds of the women of ENIAC: Kathleen Mauchly Antonelli, Frances Bilas Spence, Frances "Betty" Snyder Holberton, Jean Jennings Bartik, Marlyn Wescoff Meltzer, and Ruth Lichterman Teitelbaum. Over the years, Kleiman interviewed and became close friends with four of the women (Antonelli, Bartik, Holberman, and Meltzer). Their frank comments and remembrances are sprinkled throughout the film and help recreate a time when sexism was temporarily put on hold in order to win the war.
@@ -52,4 +50,4 @@ For more information, visit the [ENIAC Programmers Project website](http://eniac
 To listen to a recording of Kathy Kleiman's remarks at Duke University, click [here](https://sites.duke.edu/training/2018/03/05/shaking_up_computer_history_followup/).  
 To rent a copy of _The Computers_ from Vimeo, click [here](https://vimeo.com/ondemand/eniac6).
 
-_-Karen Green_
+<!-- _-Karen Green_ -->

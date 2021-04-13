@@ -21,11 +21,11 @@ tags:
 
 ![](AltanticWave-SDX-01-1024x512.png)
 
-Sharing big data requires big networks. Systems like [AtlanticWave-SDX](\"https://www.atlanticwave-sdx.net/\"), which connects networks in the U.S., Chile, Brazil, and South Africa, provide specialized infrastructure needed to send vast amounts of scientific data across long distances, helping scientists make the most of powerful data collections.
+Sharing big data requires big networks. Systems like [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/), which connects networks in the U.S., Chile, Brazil, and South Africa, provide specialized infrastructure needed to send vast amounts of scientific data across long distances, helping scientists make the most of powerful data collections.
 
 RENCI scientists contributed to the development of AtlanticWave-SDX, a distributed experimental software-defined exchange (SDX) that uses cutting-edge network technology to facilitate the exchange of data between research and education networks in the U.S. with networks on other continents.
 
-Now, RENCI will play a leading role in software development and testing for AtlanticWave-SDX 2.0\. The five-year project, supported by a recent $6.5-million award from the U.S. National Science Foundation (NSF), is led by [Florida International University](\"https://www.fiu.edu/\") and also includes the [University of Southern California](\"https://www.usc.edu/\").
+Now, RENCI will play a leading role in software development and testing for AtlanticWave-SDX 2.0\. The five-year project, supported by a recent $6.5-million award from the U.S. National Science Foundation (NSF), is led by [Florida International University](https://www.fiu.edu/) and also includes the [University of Southern California](https://www.usc.edu/).
 
 ### Why are open exchange points needed?
 
@@ -49,7 +49,7 @@ The P4-enabled SDX software systems that will be developed are extremely complex
 
 Once complete, the new version of AtlanticWave-SDX will leverage the very latest networking technology and advanced functions to support even more complex data transfer for scientific endeavors around the world.
 
-More information about the project is available at [https://www.atlanticwave-sdx.net/](\"https://www.atlanticwave-sdx.net/\").
+More information about the project is available at [https://www.atlanticwave-sdx.net/](https://www.atlanticwave-sdx.net/).
 
-_By Nancy Lamontagne, Senior Science Writer, Creative Science Writing_
+<!-- _By Nancy Lamontagne, Senior Science Writer, Creative Science Writing_ -->
 

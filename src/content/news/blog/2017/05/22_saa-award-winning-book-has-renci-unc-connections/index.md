@@ -21,7 +21,7 @@ tags:
     - cyberinfrastructure
     - data management
 ---
-[!](https://renci.org/wp-content/uploads/2017/05/Screen-Shot-2017-05-22-at-4.01.49-PM-192x300.png)
+![](https://renci.org/wp-content/uploads/2017/05/Screen-Shot-2017-05-22-at-4.01.49-PM.png)
 
 The Waldo Gifford Leland Award is presented annually by the [Society of American Archivists](http://www2.archivists.org/) (SAA) to an author or authors in recognition of "writing of superior excellence and usefulness in the field of archival history, theory, or practice."
 

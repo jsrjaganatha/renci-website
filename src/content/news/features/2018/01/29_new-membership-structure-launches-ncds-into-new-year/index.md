@@ -1,5 +1,6 @@
 ---
 title: "New membership structure launches NCDS into new year"
+subtitle: Five years after its founding at RENCI, consortium has sharper focus and more pathways to membership
 slug: new-membership-structure-launches-ncds-into-new-year
 publishDate: 2018-01-29
 author: 
@@ -18,11 +19,9 @@ tags:
     - training
     - data-management
 ---
-[![](https://renci.org/wp-content/uploads/2018/01/data-general-1024x587.jpg) 
+![](https://renci.org/wp-content/uploads/2018/01/data-general-1024x587.jpg) 
 
-*The NCDS brings together students and companies for career events such as this one at The Frontier in RTP.* 
-
-_Five years after its founding at RENCI, consortium has sharper focus and more pathways to membership._ 
+> _The NCDS brings together students and companies for career events such as this one at The Frontier in RTP._
 
 The National Consortium for Data Science (NCDS), a public-private consortium formed to address the challenges and opportunities of big data, has updated its membership structure, making it easier for businesses, government agencies, educational institutions, and nonprofits to join the NCDS community.  
 
@@ -38,10 +37,10 @@ Among the accomplishments of the NCDS since its launch in April 2013 are:
 
 *   Establishing the Data Matters™ Short Course series, a week of one-and two-day courses on data science topics aimed at students and working professionals. Data Matters 2018 will be held August 13 – 17 at North Carolina State University. More information is available at the [Data Matters website](http://www.datamatters.org/).
 *   Convening networking events that bring together students from diverse disciplines with companies looking for data science talent. The next career event will be held Feb. 13 at The Frontier in Research Triangle Park. Companies can still register at [https://ncdscareers.eventbrite.com](https://ncdscareers.eventbrite.com).
-*   Working with the North Carolina Board of Science, Technology and Innovation to produce the report [_NC in the Next Tech Tsunami: Navigating the Data Economy_](http://www.nccommerce.com/Portals/6/Documents/Resources/NC%20Big%20Data%20Report.pdf)_._ The report's recommendations led North Carolina Governor Roy Cooper to begin forming the North Carolina Opportunities in the Data Economy Working Group, which will initiate its work in the coming months.
+*   Working with the North Carolina Board of Science, Technology and Innovation to produce the report [NC in the Next Tech Tsunami: Navigating the Data Economy](http://www.nccommerce.com/Portals/6/Documents/Resources/NC%20Big%20Data%20Report.pdf). The report's recommendations led North Carolina Governor Roy Cooper to begin forming the North Carolina Opportunities in the Data Economy Working Group, which will initiate its work in the coming months.
 *   Supporting a wide range of data-focused conferences and events, including Analytics Forward, PyData Carolinas, and Pearl Hacks.
 *   Providing scholarships to students to attend the Grace Hopper Celebration of Women in Computing Conference.
 *   Leading discussions on important data science topics by hosting the monthly [DataBytes Webinar Series.](http://datascienceconsortium.org/databytes-webinars/)
 *   Advancing data science research at member institutions through the recently concluded [Data Fellows Program](http://datascienceconsortium.org/data-fellow-awards/).
 
-For more on the NCDS, please visit [www.datascienceconsortium.org](http://www.datascienceconsortium.org).
+For more on the NCDS, please visit [datascienceconsortium.org](http://www.datascienceconsortium.org).

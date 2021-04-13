@@ -26,8 +26,9 @@ tags:
 
 CHAPEL HILL, NC - Researchers at the University of North Carolina at Chapel Hill will play key roles in a new project that applies semantic technologies developed by computer and information scientists to the field of evolutionary biology.
 
-![Photo: project team group photo](https://renci.org/wp-content/uploads/2017/11/bio-team-1024x768.jpg)
->Project team from left to right: Todd Vision, UNC-Chapel Hill; Jim Balhoff, RENCI; Wasila Dahdul, University of South Dakota; Josef Uyeda, Virginia Tech; and Hilmar Lapp, Duke University.
+![Project team group standing in front of lake with fountain](https://renci.org/wp-content/uploads/2017/11/bio-team-1024x768.jpg)
+
+> _Project team from left to right: Todd Vision, UNC-Chapel Hill; Jim Balhoff, RENCI; Wasila Dahdul, University of South Dakota; Josef Uyeda, Virginia Tech; and Hilmar Lapp, Duke University.__
 
 Unlike DNA and protein sequence information, which can be combined and compared from different organisms using universal computational methods, phenotype information has no such universal code or set of tools. Highly specialized expertise is needed to compare anatomical or physiological knowledge about different sets of organisms. The new project, funded by the National Science Foundation (NSF), aims to make this kind of expertise accessible to computers in a way that will open up new avenues for studying how phenotypes evolve along the tree of life.
 

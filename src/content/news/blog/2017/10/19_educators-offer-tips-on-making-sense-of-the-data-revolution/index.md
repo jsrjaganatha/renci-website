@@ -2,7 +2,7 @@
 title: "Educators offer tips on making sense of the data revolution"
 slug: educators-offer-tips-on-making-sense-of-the-data-revolution
 publishDate: 2017-10-19T12:56:58
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - 
@@ -41,4 +41,4 @@ Closing the panel was Hayslett, who described incidents of data research conduct
 
 After the panel, audience members were able to engage the speakers in a question and answer session.
 
-–_Carolina Chao, RENCI Communications Intern_
+<!-- –_Carolina Chao, RENCI Communications Intern_ -->

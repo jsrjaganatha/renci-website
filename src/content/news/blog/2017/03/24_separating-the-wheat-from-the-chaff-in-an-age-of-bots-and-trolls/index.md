@@ -2,7 +2,7 @@
 title: "Separating the wheat from the chaff in an age of bots and trolls"
 slug: separating-the-wheat-from-the-chaff-in-an-age-of-bots-and-trolls
 publishDate: 2017-03-24T09:45:23
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -17,9 +17,10 @@ collaborations:
 tags:
     - data-analysis
 ---
-[!](https://renci.org/wp-content/uploads/2017/03/bots-and-trolls2-640x378.jpg) 
 
 In the age of ubiquitous connectivity and social media, information is at our fingertips. Unfortunately, so is misinformation and often it is hard to tell one from the other.
+
+![](https://renci.org/wp-content/uploads/2017/03/bots-and-trolls2.jpg)
 
 A recent roundtable discussion sponsored by the [South Big Data Hub](https://wordpress.com/stats/day/southbdhub.wordpress.com) examined the rapidly changing landscape for building online communities, sharing information, and creating what often appears to be a groundswell of support for particular points of view.
 
@@ -45,7 +46,7 @@ Data science related to social media must account for misinformation by detectin
 
 "Big data alone is not enough," said Liu. "We need to enable user-controlled information filters and checkers. We need to promote and build diverse collective intelligence."
 
-**Manipulating the narrative**
+## Manipulating the narrative
 
 According to panelist Rand Waltzman, PhD, of Rand Corporation fake news is an old idea that's been given new life through social media and the internet. It's an example of "active measures," a term coined by the KGB, he said.
 
@@ -63,5 +64,6 @@ To listen to the entire roundtable discussion, click [here](https://www.youtube.
 
 To learn about upcoming South Big Data Hub roundtables and other events, please see the South Hub [calendar of events](http://southbigdatahub.org/resources/events).
 
-*-Karen Green*
+<!-- *-Karen Green* -->
+
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->
