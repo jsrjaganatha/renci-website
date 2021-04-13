@@ -38,32 +38,20 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
 
   const nodeStyles = {
     person: {
-      val: 10,
-      color: {
-        main: theme.color.renciBlue,
-        dim: `${ theme.color.renciBlue }99`,
-      },
+      val: 8,
+      color: { main: '#6f498c', dim: '#6f498c99', },
     },
     group: {
       val: 20,
-      color: {
-        main: theme.color.extended.moss,
-        dim: `#66ACBA`,
-      },
+      color: { main: '#387852', dim: `#38785299`, },
     },
     collaboration: {
       val: 30,
-      color: {
-        main: theme.color.extended.contessa,
-        dim: `#DAA59D`,
-      },
+      color: { main: `#d43737`, dim: `#d4373799`, },
     },
     team: {
-      val: 15,
-      color: {
-        main: theme.color.carolinaBlue,
-        dim: `${ theme.color.carolinaBlue }99`,
-      },
+      val: 20,
+      color: { main: '#1bc4c4', dim: '#1bc4c499', },
     },
   }
 
