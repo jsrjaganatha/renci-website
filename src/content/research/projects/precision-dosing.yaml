@@ -10,13 +10,12 @@ renciRole: !markdown |
 members:
   - id: kimberly-robasky
     role: Lead
-  - id: manderson
+  - id: marcus-anderson
+  - id: david-borland
   - id: laura-capps
+  - id: shruti-raj
   - id: hao-xu
   - id: hong-yi
-  - id: shruti-raj
-  - id: david-borland
-  - id: marcus-anderson
 partners:
   - unc-eii
   - unc-pharmacy

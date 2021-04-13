@@ -27,12 +27,13 @@ const Wrapper = styled.div(({ theme }) => `
 
 export const StaffNetwork = ({ height = 800, width = 800 }) => {
   const theme = useTheme()
-  const data = useStaticQuery(collaborationsQuery)
+  const data = useStaticQuery(teamworkQuery)
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] })
   const groups = data.groups.nodes
   const collaborations = data.collaborations.nodes
   const teams = data.teams.nodes
   const people = data.people.nodes
+  const projects = data.projects.nodes
   const [selectedNodes, setSelectedNodes] = useState(new Set())
   const [selectedRootNode, setSelectedRootNode] = useState(null)
 
@@ -51,12 +52,16 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
     },
     team: {
       val: 20,
-      color: { main: '#1bc4c4', dim: '#1bc4c499', },
+      color: { main: '#00abc7', dim: '#00abc799', },
+    },
+    project: {
+      val: 5,
+      color: { main: '#ff99cc', dim: '#ff99cc99', },
     },
   }
 
   const edgeStyles = {
-    'group-person': {
+    'person-group': {
       color: {
         main: theme.color.extended.contessa,
         dim: `${ theme.color.extended.contessa }66`,
@@ -106,20 +111,57 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
     let nodes = []
     let edges = []
 
-    // add group & collaboration nodes
+    // add nodes
     groups.forEach(({ id, name }) => nodes.push(createNode('group', id, name)))
     collaborations.forEach(({ id, name }) => nodes.push(createNode('collaboration', id, name)))
     teams.forEach(({ id, name }) => nodes.push(createNode('team', id, name)))
     people.forEach(({ id, fullName }) => nodes.push(createNode('person', id, fullName )))
+    // projects.forEach(({ id, name }) => nodes.push(createNode('project', id, name )))
 
-    groups.concat(collaborations).concat(teams).forEach(group => {
-      if (group.members) {
-        group.members.forEach(member => {
-          // add member node & group--member edges
-          nodes.findIndex(node => node.id === member.id) === -1 && nodes.push(createNode('person', member.id, member.name))
-          edges.findIndex(edge => edge.source === group.id && edge.target === member.id) === -1 && edges.push(createEdge('group-person', group.id, member.id))
+    // groups.concat(collaborations).concat(teams).forEach(group => {
+    //   if (group.members) {
+    //     group.members.forEach(member => {
+    //       // create person node and edges to its groups, collabs, teams.
+    //       nodes.findIndex(node => node.id === member.id) === -1 && nodes.push(createNode('person', member.id, member.name))
+    //       edges.findIndex(edge => edge.source === group.id && edge.target === member.id) === -1 && edges.push(createEdge('group-person', group.id, member.id))
+    //     })
+    //   }
+    // })
+    people.forEach(person => {
+      // create person node
+      // nodes.findIndex(node => node.id === person.id) === -1 && nodes.push(createNode('person', person.id, person.fullName))
+      // create person -- group nodes
+      // console.log(`## ${ person.id }`)
+      if (person.groups) {
+        // console.log(`- Groups`)
+        person.groups.forEach(group => {
+          edges.push(createEdge('person-group', person.id, group.id))
+          // console.log(`  + ${ group.id }`)
         })
       }
+      if (person.collaborations) {
+        // console.log(`- Collaborations`)
+        person.collaborations.forEach(collaboration => {
+          edges.push(createEdge('person-group', person.id, collaboration.id))
+          // console.log(`  + ${ collaboration.id }`)
+        })
+      }
+      if (person.teams) {
+        // console.log(`- Teams`)
+        person.teams.forEach(team => {
+          edges.push(createEdge('person-group', person.id, team.id))
+          // console.log(`  + ${ team.id }`)
+        })
+      }
+      // if (!person.groups && !person.collaborations && !person.teams) {
+      //   console.log(`None`)
+      // }
+      // if (person.projects) {
+      //   person.projects.forEach(project => {
+      //     edges.push(createEdge('person-group', person.id, project.id))
+      //     console.log(`${ person.id } -- ${ project.id }`)
+      //   })
+      // }
     })
     setGraphData({ nodes: nodes, links: edges })
   }, [])
@@ -140,24 +182,6 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
     let neighborhood = getNeighborhood(selectedRootNode)
     setSelectedNodes(equalArrays(neighborhood, selectedNodes) ? new Set() : neighborhood)
   }, [selectedRootNode])
-
-  const edgeParticles = d => {
-    switch (d.type) {
-      case 'funding':
-        return 10
-      default:
-        return 0
-    }
-  }
-
-  const edgeParticlesSpeed = d => {
-    switch (d.type) {
-      case 'funding':
-        return 1 - d.value * 0.0001
-      default:
-        return 0
-    }
-  }
 
   return (
     <Wrapper>
@@ -188,7 +212,7 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
   )
 }
 
-const collaborationsQuery = graphql`{
+const teamworkQuery = graphql`{
   groups: allGroupsYaml {
     nodes {
       id
@@ -231,6 +255,24 @@ const collaborationsQuery = graphql`{
     nodes {
       id
       fullName
+      groups {
+        id
+      }
+      collaborations {
+        id
+      }
+      teams {
+        id
+      }
+      projects {
+        id
+      }
+    }
+  }
+  projects: allProjectsYaml {
+    nodes {
+      id
+      name
     }
   }
 }`

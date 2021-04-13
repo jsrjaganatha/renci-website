@@ -6,16 +6,16 @@ featuredImage: data-science-and-analytics.jpg
 members:
   - id: chris-bizon
     role: Lead
-  - id: chris-lenhardt
-  - id: brian-blanton
-  - id: lisa-stillwell
-  - id: kira-bradford
-  - id: kimberly-robasky
-  - id: laura-christopherson
-  - id: shalki-shrivastava
-  - id: howard-lander
-  - id: david-borland
   - id: jim-balhoff
+  - id: brian-blanton
+  - id: laura-christopherson
+  - id: david-borland
+  - id: kira-bradford
+  - id: howard-lander
+  - id: chris-lenhardt
+  - id: kimberly-robasky
+  - id: shalki-shrivastava
+  - id: lisa-stillwell
 projects:
   - data-translator-robokop
   - obesity-hub
