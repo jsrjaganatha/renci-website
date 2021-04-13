@@ -6,16 +6,16 @@ featuredImage: nri.jpg
 members:
   - id: ilya-baldin
     role: Lead
-  - id: paul-ruth
-  - id: anirban-mandal
   - id: mert-cevik
+  - id: yaxue-guo
+  - id: anirban-mandal
+  - id: paul-ruth
+  - id: erik-scott
+  - id: michael-stealey
+  - id: komal-thareja
+  - id: cong-wang
   - id: yufeng-xin
   - id: eric-xin
-  - id: szeng
-  - id: cong-wang
-  - id: erik-scott
-  - id: komal-thareja
-  - id: michael-stealey
 projects:
   - aerpaw
   - atlanticwave-sdx
