@@ -13,9 +13,11 @@ members:
   - id: kira-bradford
   - id: howard-lander
   - id: chris-lenhardt
+  - id: shruti-raj
   - id: kimberly-robasky
   - id: shalki-shrivastava
   - id: lisa-stillwell
+  - id: hong-yi
 projects:
   - data-translator-robokop
   - obesity-hub

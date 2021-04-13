@@ -8,13 +8,16 @@ members:
     role: Lead
   - id: chris-calloway
   - id: isma-gilani
+  - id: alexander-hagerman
   - id: fan-jiang
   - id: oleg-kapeljushnik
   - id: murali-kothapalli
+  - id: carl-schreep
   - id: michael-shoffner
   - id: matt-watson
   - id: yaphet-kebede
   - id: hao-xu
+  - id: bo-zhou
 projects:
   - brain-i
   - biodata-catalyst
