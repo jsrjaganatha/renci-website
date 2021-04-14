@@ -91,7 +91,6 @@ export default ({ data, pageContext }) => {
           <br />
 
           <Meta>
-            Published on { publishDate } <br />
             {
               author && (
                 <span>
