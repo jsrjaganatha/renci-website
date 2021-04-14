@@ -13,8 +13,13 @@ export const Label = styled(BaseTag)(({ theme }) => `
   letter-spacing: 1px;
   filter: brightness(1.0);
   cursor: default;
-  &.news { background-color: ${ theme.color.renciBlue } }
-  &.blog { background-color: ${ theme.color.extended.contessa } }
+  &.news { background-color: ${ theme.color.renciBlue }; }
+  &.blog { background-color: ${ theme.color.extended.contessa }; }
+  &.spotlight {
+    background-color: ${ theme.color.white };
+    color: ${ theme.color.renciBlue };
+    border: 1px solid ${ theme.color.renciBlue };
+  }
   &:hover {
     filter: brightness(1.2);
   }

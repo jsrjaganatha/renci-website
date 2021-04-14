@@ -147,7 +147,9 @@ export const useNews = () => {
 
   const spotlight = articles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
 
-  return { articles, spotlight }
+  const latest = articles.sort((a, b) => a.frontmatter.publishDate < a.frontmatter.publishDate ? -1 : 1).slice(0,3)
+
+  return { articles, spotlight, latest }
 }
 
 export const useNewsSpotlight = () => {

@@ -9,7 +9,7 @@ import { Label } from './label'
 import { NewsDate } from './news-date'
 
 const Wrapper = styled.article`
-  margin: 0 -1rem;
+  margin: 0;
 `
 
 const TitleContainer = styled.div`
@@ -38,7 +38,7 @@ const BodyContainer = styled.div`
   }
 `
 
-export const ArticlePreview = ({ article, path, compact = false }) => {
+export const ArticlePreview = ({ article, path, spotlight, compact = false }) => {
   const hasPreviewImage = (article.frontmatter.previewImage !== null) && (compact === false)
   
   return (
@@ -77,6 +77,14 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
                 <NewsDate>{ article.frontmatter.publishDate }</NewsDate>
                 &nbsp;&nbsp;
                 <Label className={ article.fields.newsType }>{ article.fields.newsType }</Label>
+                {
+                  spotlight && (
+                    <Fragment>
+                      &nbsp;&nbsp;
+                      <Label className="spotlight">Spotlight</Label>
+                    </Fragment>
+                  )
+                }
               </div>
               <Subheading className="title"><Link to={ article.fields.path }>{ article.frontmatter.title }</Link></Subheading>
             </TitleContainer>

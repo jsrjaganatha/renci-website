@@ -12,7 +12,7 @@ const unfade = keyframes`
 `
 
 export const Container = styled.div`
-    width: 100%;
+    width: calc(100% - 2rem);
     max-width: 1200px;
     margin: 0 auto;
     animation: ${ unfade } 500ms ease-out forwards;

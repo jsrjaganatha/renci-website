@@ -1,11 +1,11 @@
 import React, { Fragment } from "react"
 import styled from 'styled-components'
 import { SEO } from '../components/seo'
-import { Link } from 'gatsby'
+import { ArrowLink, Link } from '../components/link'
 import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNews } from '../hooks'
-import { NewsList } from '../components/news'
+import { NewsList, NewsSpotlightList } from '../components/news'
 import HomeGraphic from '../images/home-graphic.svg'
 import { Icon } from '../components/icon'
 
@@ -90,7 +90,7 @@ const Visualization = () => {
 }
 
 const IndexPage = () => {
-  const { spotlight }= useNews()
+  const { latest, spotlight } = useNews()
 
   return (
     <Fragment>
@@ -99,17 +99,25 @@ const IndexPage = () => {
       <Visualization />
 
       <Container>
-        <Section title="News Spotlight" fullWidth>
-          <NewsList articles={ spotlight } />
-        </Section>
+        <Section title="Latest News" fullWidth>
+          {
+            spotlight && (
+              <Fragment>
+                <NewsSpotlightList articles={ spotlight } />
+                
+                <br/><hr/><br/>
+              </Fragment>
+            )
+          }
+          
+          <NewsList articles={ latest } />
 
-        <Section title="Sit amet, consectetur">
-          <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum ex sapiente excepturi blanditiis veniam debitis non ratione minus, sit quae. Quae ut reiciendis soluta eveniet corporis nisi obcaecati excepturi, accusantium!
+          <br/><hr/><br/>
+          
+          <Paragraph center>
+            <ArrowLink text="See All" to="/news" />
           </Paragraph>
-          <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ducimus labore, dolorem sunt mollitia voluptate illo quas minima porro voluptatum voluptates eos molestiae error cupiditate recusandae velit quisquam molestias est praesentium, quod necessitatibus consequuntur veritatis? Laborum cupiditate, repudiandae libero nobis dignissimos unde, modi qui totam rem impedit nam illum cumque.
-          </Paragraph>
+
         </Section>
       </Container>
     </Fragment>
