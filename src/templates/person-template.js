@@ -1,4 +1,5 @@
 import React from 'react'
+import { SEO } from '../components/seo'
 import { graphql } from 'gatsby'
 import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
@@ -29,6 +30,7 @@ export default ({ data, pageContext }) => {
 
   return (
     <Container>
+      <SEO title={ fullName } />
 
       <Profile
         name={ fullName }

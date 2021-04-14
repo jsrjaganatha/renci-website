@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react'
+import { SEO } from '../components/seo'
 import { graphql } from 'gatsby'
 import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title, Subtitle } from '../components/typography'
@@ -70,6 +71,8 @@ export default ({ data, pageContext }) => {
 
   return (
     <Fragment>
+      <SEO title={ title } />
+      
       { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid } /> }
 
       <Container>

@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react'
+import { SEO } from '../components/seo'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
@@ -15,6 +16,8 @@ export default ({ data, pageContext }) => {
   
   return (
     <Fragment>
+      <SEO title={ name } />
+
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
         <Title>{ name }</Title>
         <p>
