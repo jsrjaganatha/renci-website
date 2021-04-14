@@ -1,7 +1,7 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
 const teamsQuery = graphql`{
-    teams: allTeamsYaml {
+    teams: allTeamsYaml(sort: {fields: name}) {
         edges {
             node {
                 id

@@ -26,7 +26,7 @@ export const personFragment = graphql`
 `
 
 const peopleQuery = graphql`{
-  staff: allPeopleYaml(sort: {fields: name___last, order: ASC}) {
+  staff: allPeopleYaml(sort: {fields: [name___last, name___first]}) {
     edges {
       node {
         ...PersonDetails

@@ -1,30 +1,28 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
 const collaborationsQuery = graphql`{
-  collaborations: allCollaborationsYaml {
-    edges {
-      node {
+  collaborations: allCollaborationsYaml(sort: {fields: id}) {
+    nodes {
+      id
+      name
+      description
+      members {
+        id
+        name {
+          first
+          last
+        }
+        email
+        title
+      }
+      projects {
         id
         name
         description
-        members {
-          id
-          name {
-            first
-            last
-          }
-          email
-          title
-        }
-        projects {
-          id
-          name
-          description
-        }
-        www
-        fields {
-          path
-        }
+      }
+      www
+      fields {
+        path
       }
     }
   }
