@@ -8,6 +8,7 @@ members:
     role: Lead
   - id: jim-balhoff
   - id: brian-blanton
+  - id: luthfi-bustillos
   - id: laura-christopherson
   - id: david-borland
   - id: kira-bradford
@@ -15,8 +16,10 @@ members:
   - id: chris-lenhardt
   - id: shruti-raj
   - id: kimberly-robasky
+  - id: priya-sharma
   - id: shalki-shrivastava
   - id: lisa-stillwell
+  - id: gaurav-vaidya
   - id: hong-yi
 projects:
   - data-translator-robokop

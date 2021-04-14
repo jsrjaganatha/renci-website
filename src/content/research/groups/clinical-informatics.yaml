@@ -6,6 +6,9 @@ featuredImage: clinical-informatics.jpg
 members:
   - id: kirk-wilhelmsen
     role: Lead
+  - id: darius-bost
+  - id: dayne-filer
+  - id: clark-jeffries
   - id: jeffrey-tilson
   - id: jason-reilly
   - id: phil-owen

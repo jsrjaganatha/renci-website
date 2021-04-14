@@ -6,6 +6,7 @@ featuredImage: systems.jpg
 members:
   - id: steve-cox
     role: Lead
+  - id: matthew-brightman
   - id: chris-calloway
   - id: isma-gilani
   - id: alexander-hagerman
@@ -14,6 +15,7 @@ members:
   - id: murali-kothapalli
   - id: carl-schreep
   - id: michael-shoffner
+  - id: mani-singh
   - id: matt-watson
   - id: yaphet-kebede
   - id: hao-xu

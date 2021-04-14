@@ -7,7 +7,9 @@ members:
   - id: brian-blanton
     role: Lead
   - id: chris-lenhardt
+  - id: james-mcmanus
   - id: lisa-stillwell
+  - id: marykate-stone
 projects:
   - adcirc-lite-nc
   - adcirc-viz
