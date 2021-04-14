@@ -90,7 +90,7 @@ export default ({ data, pageContext }) => {
             {
               members && (
                 <Article title="RENCI Team">
-                  <PeopleList members={ members } />
+                  <PeopleList members={ members.sort((p, q) => p.name.last > q.name.last ? 1 : -1) } />
                 </Article>
               )
             }
@@ -127,6 +127,10 @@ export const collaborationQuery = graphql`
       www
       members {
         id
+        name {
+          first
+          last
+        }
         fullName
         role
         fields {

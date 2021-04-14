@@ -25,6 +25,7 @@ export default ({ data, pageContext }) => {
 
   const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
   const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
+  const sortedMembers = members ? [...members].sort((f, g) => f.name.last > g.name.last ? 1 : -1) : null
   const sortedNews = news ? [...news].sort((a, b) => new Date(b.frontmatter.publishDate) - new Date(a.frontmatter.publishDate)) : null
   
   return (
@@ -55,7 +56,7 @@ export default ({ data, pageContext }) => {
         </Section>
 
         <Section title="Contributors">
-          { members && <Article title="RENCI Team"><PeopleList members={ members } /></Article> }
+          { sortedMembers && <Article title="RENCI Team"><PeopleList members={ sortedMembers } /></Article> }
           { sortedPartners && <Article title="Partners"><OrganizationsList contributors={ sortedPartners } /></Article> }
           { sortedFunders && <Article title="Funding"><OrganizationsList contributors={ sortedFunders } /></Article> }
         </Section>
@@ -88,6 +89,10 @@ export const projectQuery = graphql`
       www
       members {
         id
+        name {
+          first
+          last
+        }
         fullName
         role
         fields {

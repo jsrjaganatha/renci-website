@@ -34,7 +34,7 @@ export default ({ data, pageContext }) => {
 
         <Section title="Team Members">
           <Article>
-            <PeopleList members={ members } />
+            <PeopleList members={ members.sort((p, q) => p.name.last > q.name.last ? 1 : -1) } />
           </Article>
         </Section>
 
