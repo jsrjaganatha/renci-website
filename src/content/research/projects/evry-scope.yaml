@@ -9,6 +9,7 @@ renciRole: !markdown |
   RENCI is working closely with the project team to design an analytics pipeline to examine image data from the array—roughly one petabyte of data over three years—to help scientists detect exoplanets and transient events. The project also envisions creating a data store that astrophysicists can query, which could be as large as 90 terabytes. To support these efforts, RENCI provides guidance on best practices for collecting, analyzing, and storing large amounts of data.
 members:
   - id: steve-cox
+    role: Lead
   - id: chris-bizon
 partners:
   - unc
