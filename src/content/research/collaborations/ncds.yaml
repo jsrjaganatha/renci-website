@@ -14,12 +14,13 @@ renciRole: !markdown |
   - The Data Economy is collaboration with the North Carolina Board of Science, Technology and Innovation to understand and support the role of Data Science in driving economic development.
 members:
   - id: stan-ahalt
-  - id: shannon-mckeen
-  - id: dawn-shelton
+  - id: jayasree-jaganatha
   - id: ashok-krishnamurthy
-  - id: stephanie-suber
-  - id: amanda-miller
   - id: chris-lenhardt
+  - id: shannon-mckeen
+  - id: amanda-miller
+  - id: dawn-shelton
+  - id: stephanie-suber
 projects:
   - data-matters
 partners:
