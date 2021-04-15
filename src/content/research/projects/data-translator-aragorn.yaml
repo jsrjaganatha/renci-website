@@ -9,10 +9,10 @@ renciRole: !markdown |
   ARAGORN attempts to bridge the precision mismatch between data representations and algorithms that require specificity, and users who pose questions and prefer answers at a more abstract level. ARAGORN uses elements of specific answers to create gestalt explanations, cluster and combine answers with similar content, and reveal the commonalities and contradictions in answers. As development continues, the project will formulate and validate new graph-based methodologies for determining the best answers to user-asked questions.
 
 members:
-  - id: Alex Tropsha
+  - id: alex-tropsha
     role: Lead
   - id: chris-bizon
-  - id: phil-owen
   - id: yaphet-kebede
+  - id: phil-owen
 funding:
   - ncats
