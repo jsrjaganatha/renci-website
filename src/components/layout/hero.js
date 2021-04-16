@@ -66,8 +66,12 @@ export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children 
     <Wrapper backgroundColor={ backgroundColor }>
       {
         backgroundImage
-          ? <Img fluid={ backgroundImage } style={{ height: '500px' }} imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }} />
-          : <Pattern />
+          ? <Img fluid={{
+              ...backgroundImage,
+              sizes: '(min-width: 1600) 1600px, (min-width: 1200) 1200px, (min-width: 800) 800px'
+            }}
+            style={{ height: '500px' }} imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }}
+          /> : <Pattern />
       }
       { children && <Content><Container>{ children }</Container></Content> }
     </Wrapper>
@@ -76,7 +80,7 @@ export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children 
 
 Hero.propTypes = {
   backgroundImage: PropTypes.object,
-  backgroundColor: PropTypes.string,
+  backgroundColor: PropTypes.string.isRequired,
   overlayColor: PropTypes.string.isRequired,
   children: PropTypes.node,
 }

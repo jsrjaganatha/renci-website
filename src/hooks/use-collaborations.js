@@ -30,5 +30,5 @@ const collaborationsQuery = graphql`{
 
 export const useCollaborations = () => {
   const { collaborations } = useStaticQuery(collaborationsQuery)
-  return collaborations.edges.map(({ node }) => node)
+  return collaborations.nodes
 }

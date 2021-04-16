@@ -35,7 +35,7 @@ export default ({ data, pageContext }) => {
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
         { group && group[0] && <Link to={ group[0].fields.path }>{ group[0].name }</Link> }
         <Title>{ name }</Title>
-        <div dangerouslySetInnerHTML={{ __html: description }} />
+        <div>{ description }</div>
       </Hero>
 
       <Container>
@@ -127,7 +127,9 @@ export const projectQuery = graphql`
           publishDate(formatString: "MMMM DD, YYYY")
           featuredImage {
             childImageSharp {
-              fluid {
+              fluid(maxWidth: 1600) {
+                sizes
+                srcSet
                 ...GatsbyImageSharpFluid
               }
             }
