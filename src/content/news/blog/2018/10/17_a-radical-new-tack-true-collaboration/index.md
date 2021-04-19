@@ -21,11 +21,11 @@ tags:
 
 Last November the National Institutes of Health [announced $9 million in pilot funding](https://renci.org/news/uncs-renci-to-lead-project-aimed-at-making-biomedical-data-easier-to-use/) to explore feasibility and best practices for a new approach to advancing biomedical research. The initiative, known as [Data Commons](https://commonfund.nih.gov/commons), is focused on making digital objects—that is, the data, models, and analytical tools that constitute the engine behind the modern research enterprise—vailable through collaborative platforms.
 
-Plenty of data and tools exist, of course. But many are locked inside the computer systems of the institution that "owns" them, are too large to move around, are impossible to combine or compare with other data or tools, or are difficult to share due to privacy concerns, among many other challenges. \u00a0
+Plenty of data and tools exist, of course. But many are locked inside the computer systems of the institution that "owns" them, are too large to move around, are impossible to combine or compare with other data or tools, or are difficult to share due to privacy concerns, among many other challenges.
 
 Data Commons aims to change all that by making biomedical research data "FAIR"—findable, accessible, interoperable, and reusable. It's not about a specific study or even a bunch of them, but about creating linkages that can advance the way _all_ biomedical research is done. If every researcher has access to more—and more useful—data and tools, the thinking goes, we can dramatically accelerate discovery and innovation.
 
-More than 360 people have been working hard over the past nine months to rapidly develop, test, and iterate on specific solutions and overarching strategies for advancing the Data Commons vision. A late summer meeting in Chapel Hill, NC brought together dozens of team representatives to take stock of progress, lessons, and directions. Here are a few take-aways. \u00a0
+More than 360 people have been working hard over the past nine months to rapidly develop, test, and iterate on specific solutions and overarching strategies for advancing the Data Commons vision. A late summer meeting in Chapel Hill, NC brought together dozens of team representatives to take stock of progress, lessons, and directions. Here are a few take-aways.
 
 ### This isn't Thunderdome
 
@@ -37,7 +37,7 @@ One illustration of what this means in practice is the initiative known as DataS
 
 The meeting kicked off with a series of lightning talks on each team's milestones and reflections. Participants noted that some of the most illuminating moments of the meeting, and indeed throughout the project, have happened when teams have had the chance to offer feedback and riff on each other's work.
 
-The trick, attendees reflected, is finding the sweet spot when feedback can be both useful and actionable—not so early that the basic ideas aren't congealed but not so late that the product can't be meaningfully changed. As RENCI director Stan Ahalt noted, deeply reviewing someone else's work takes time, though the benefits for the program as a whole are well worth it. He suggested building in dedicated time for this review and feedback process as the effort moves forward. \u00a0
+The trick, attendees reflected, is finding the sweet spot when feedback can be both useful and actionable—not so early that the basic ideas aren't congealed but not so late that the product can't be meaningfully changed. As RENCI director Stan Ahalt noted, deeply reviewing someone else's work takes time, though the benefits for the program as a whole are well worth it. He suggested building in dedicated time for this review and feedback process as the effort moves forward.
 
 ### It's about the product, not the PI
 

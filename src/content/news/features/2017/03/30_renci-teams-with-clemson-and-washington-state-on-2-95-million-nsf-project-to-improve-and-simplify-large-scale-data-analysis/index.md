@@ -32,17 +32,17 @@ The NSF awarded $2.95 million for a collaborative project that will unite biolog
 
 Claris Castillo, a senior systems researcher, will lead the SciDAS effort as RENCI principal investigator and will be assisted by co-PI Ray Idaszak, RENCI's director of DevOps. Clemson scientist Alex Feltus is the lead PI on the project. Other co-PIs are Clemson's Melissa Smith and Stephen Ficklin of Washington State.
 
-![Photo: Claris Castillo](https://renci.org/wp-content/uploads/2017/02/ClarisCastillo2-copy-2-264x300.png)  
-_Claris Castillo, RENCI_
+![Photo: Claris Castillo](https://renci.org/wp-content/uploads/2017/02/ClarisCastillo2-copy-2.png)
+> Claris Castillo, RENCI
 
-![Photo: Ray Idaszak](https://renci.org/wp-content/uploads/2017/01/ray-idaszak-b.jpg)  
-_Ray Idaszak, RENCI_
+![Photo: Ray Idaszak](https://renci.org/wp-content/uploads/2017/01/ray-idaszak-b.jpg)
+> Ray Idaszak, RENCI
 
-![Photo: Stephen Ficklin](https://renci.org/wp-content/uploads/2017/03/ficklin-300x231.jpg)  
-_Stephen Ficklin, Washington State University (photo credit: Washington State U)_
+![Photo: Stephen Ficklin](https://renci.org/wp-content/uploads/2017/03/ficklin.jpg)
+> Stephen Ficklin, Washington State University (photo credit: Washington State U)
 
-![Photo: Alex Feltus and Melissa Smith](https://renci.org/wp-content/uploads/2017/03/alex-melissa_lead-300x233.jpg)  
-_Alex Feltus (left) and Melissa Smith (right), Clemson University (photo credit: Clemson U)_
+![Photo: Alex Feltus and Melissa Smith](https://renci.org/wp-content/uploads/2017/03/alex-melissa_lead.jpg)
+> Alex Feltus (left) and Melissa Smith (right), Clemson University (photo credit: Clemson U)
 
 SciDAS seeks to help current researchers and future innovators discover data, move it smoothly across advanced networks, and improve flexibility and accessibility to national and global resources. It will enable a broad range of scientists to not only get information faster but also to use much larger data sets and tease out information that they might not even know exists.
 

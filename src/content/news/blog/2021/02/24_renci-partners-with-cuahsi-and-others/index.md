@@ -33,8 +33,6 @@ Operation of the Hub will include four primary tasks:
 3.  Broaden the CZ community through outreach and education activities.
 4.  Enhance collaboration among the CZ Thematic Clusters through coordination, sharing, community meetings, and outreach. The nine CZ Thematic Clusters across the US conducting basic research into the structure, function, and processes of the critical zone are:
 
-&nbsp;
-
 *   CINet: Critical Interface Network in Intensively Managed Landscapes
 *   The Coastal Critical Zone: Processes that transform landscapes and fluxes between land and sea
 *   Bedrock controls on the deep critical zone, landscapes, and ecosystems

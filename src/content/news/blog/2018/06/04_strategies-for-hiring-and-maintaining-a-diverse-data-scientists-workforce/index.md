@@ -24,7 +24,7 @@ RTI's Kristina Brunelle (left) moderates a panel discussion with Amy Roussel, RT
 
 ![](https://renci.org/wp-content/uploads/2018/06/IMG_1356-1024x539.jpg)
 
-Data science is hot. That's good news for workers with data science skills. It also means organizations competing to hire data scientists need to understand how to recruit talent that will solve their data science challenges and contribute to creating a productive and diverse workforce.\u00a0
+Data science is hot. That's good news for workers with data science skills. It also means organizations competing to hire data scientists need to understand how to recruit talent that will solve their data science challenges and contribute to creating a productive and diverse workforce.
 
 For many organizations, figuring out how to recruit and retain data scientists and fostering diversity among data science employees is a struggle, according to Kristina Brunelle of RTI International. Brunelle, director of organizational development and learning, moderated a panel discussion on data science hiring challenges on Thursday, May 24 at RENCI in Chapel Hill, NC. The discussion, sponsored by the [South Big Data Hub](https://southbigdatahub.org/), included panelists Amy Roussel, Senior Vice President, Social Policy, Health, and Economic Research unit, RTI; Sackeena Gordon-Jones, a human resources consultant and coach with Transformation Edge and an adjunct faculty member at North Carolina State University; and Gracie Johnson-Lopez, President and principal consultant with Diversity & HR Solutions.
 
@@ -49,10 +49,12 @@ Other tips for building a strong and diverse data science workforce included:
 - Sell your organization to your candidates. Explain your mission, brand, and value proposition so that they understand you and can determine if they want to be part of the organization.
 - Have onboarding plans not only for the first day, week, or month, but the first year. Provide quarterly check-ins where new employees can talk about how they feel about their role and where they want to be in a few years.
 - Provide lots of learning opportunities and employee resource groups that coalesce around interests and themes, such as women in data science, young software developers, etc.
-- Educate your workforce on what it means to be a diverse and inclusive organization. Where is the organization strong?\u00a0 What might it need to do differently?\u00a0 Where can it improve?
+- Educate your workforce on what it means to be a diverse and inclusive organization. Where is the organization strong? What might it need to do differently? Where can it improve?
 
 ### Dive deeper into diversity and inclusion issues and 2018 D&I Conference
 
-For those interested in learning more about issues related to diversity and inclusion, the 2018 Diversity & Inclusion Conference will be held August 9 at the Brier Creek Country Club in Raleigh, NC. The conference, titled _Inclusive Excellence and the Urgency of Now_, will include sessions on best practices for understanding bias in the hiring process, retention strategies, panel discussions (women, millennials and CEO), and a session aimed at driving inclusion in membership organizations.\u00a0 For more information and to register for the conference, check out the [2018 Diversity & Inclusion Conference website](https://diversityhrsolutions.com/inclusive-excellence-conference/#speakers).
+For those interested in learning more about issues related to diversity and inclusion, the 2018 Diversity & Inclusion Conference will be held August 9 at the Brier Creek Country Club in Raleigh, NC. The conference, titled _Inclusive Excellence and the Urgency of Now_, will include sessions on best practices for understanding bias in the hiring process, retention strategies, panel discussions (women, millennials and CEO), and a session aimed at driving inclusion in membership organizations.
+
+For more information and to register for the conference, check out the [2018 Diversity & Inclusion Conference website](https://diversityhrsolutions.com/inclusive-excellence-conference/#speakers).
 
 _—Karen Green_
