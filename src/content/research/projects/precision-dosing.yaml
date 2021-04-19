@@ -8,12 +8,12 @@ renciRole: !markdown |
 
   The development stack will enable direct integration with electronic health record systems through Fast Healthcare Interoperability Resources (FHIR) and data mapping plugins, while also providing a permissive licensed software and API specification for easy integration of new, third-party therapeutic guidance models. This design will facilitate continuous improvement in the guidance models and their use in research, training, and clinical workflows. With administrative and research dashboards, the development stack can also serve as a testbed to simulate patient parameters and test new models in development.
 members:
-  - id: kimberly-robasky
-    role: Lead
   - id: marcus-anderson
   - id: david-borland
   - id: laura-capps
   - id: shruti-raj
+  - id: kimberly-robasky
+    role: Lead
   - id: hao-xu
   - id: hong-yi
 partners:
