@@ -143,7 +143,7 @@ export const useNews = () => {
   })
 
   const articles = [...features, ...blog]
-    .sort((a, b) => new Date(b.frontmatter.publishDate) - new Date(a.frontmatter.publishDate))
+    .sort((a, b) => new Date(a.frontmatter.publishDate) - new Date(b.frontmatter.publishDate))
 
   const spotlight = articles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
 
