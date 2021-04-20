@@ -15,7 +15,6 @@ export default ({ data, pageContext }) => {
     description,
     members,
     partners,
-    funding,
     projects,
     featuredImage,
     news,
@@ -64,7 +63,7 @@ export default ({ data, pageContext }) => {
         }
 
         {
-          (members || partners || funding) && (
+          (members || partners) && (
             <Section title="Contributors">
               {
                 members && (
@@ -77,13 +76,6 @@ export default ({ data, pageContext }) => {
                 partners && (
                   <Article title="Partners">
                     <OrganizationsList contributors={ partners } />
-                  </Article>
-                )
-              }
-              {
-                funding && (
-                  <Article title="Funding">
-                    <OrganizationsList contributors={ funding } />
                   </Article>
                 )
               }
@@ -147,10 +139,6 @@ export const groupQuery = graphql`
         }
       }
       partners {
-        name
-        url
-      }
-      funding {
         name
         url
       }

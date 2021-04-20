@@ -5,11 +5,11 @@ role: >
 description: !markdown |
   The Finance Team oversees RENCI’s day-to-day fiscal management and research administration. The team is responsible for the processing, analyzing and reporting of RENCI finances. The Finance Team is responsible for monitoring all transactions to ensure that internal and external policies and guidelines are followed, and managing all institutional and sponsored research funding. Additionally, the team provides assistance with submission of research proposals, ensuring that the institute remains in compliance with university, state and federal guidelines.
 members:
-  - kristi-andrews
+  - id: kristi-andrews
     role: Lead
-  - angela-johnson
-  - josephine-muiruri
-  - kailey-oakley
-  - patti-pittman
-  - tamara-sampson
-  - denise-zdanowicz
+  - id: angela-johnson
+  - id: josephine-muiruri
+  - id: kailey-oakley
+  - id: patti-pittman
+  - id: tamara-sampson
+  - id: denise-zdanowicz

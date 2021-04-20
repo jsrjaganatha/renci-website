@@ -5,12 +5,12 @@ blurb: >
 description: !markdown |
   The Communications Team works across groups at RENCI to support marketing, branding, website development, and outreach efforts. The team is responsible for developing and executing a comprehensive communications strategy across all research groups at RENCI. The Communications Team ensures that RENCI projects maintain brand identity and integrity through content creation, marketing and outreach efforts, graphic design and web and app development, with an emphasis on thoughtful user interfaces and experiences. 
 members:
-  - marcus-anderson
-  - laurie-bernadel
-  - jayasree-jaganatha
-  - stephanie-suber
+  - id: marcus-anderson
+  - id: laurie-bernadel
+  - id: jayasree-jaganatha
+  - id: stephanie-suber
     role: Lead
-  - josh-terrell
-  - amber-voght
-  - matt-watson
-  - bo-zhou
+  - id: josh-terrell
+  - id: amber-voght
+  - id: matt-watson
+  - id: bo-zhou

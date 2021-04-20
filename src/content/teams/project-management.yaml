@@ -5,15 +5,16 @@ blurb: >
 description: !markdown |
   The Project Management team is responsible for managing highly complex research and team science coordination projects at RENCI. The team is responsible for developing the project management strategy, supporting project plans, and managing project execution to ensure adherence to budget, schedule, reporting, deliverable requirements, and scope. Project Managers support proposal development on already assigned projects and potentially new, large collaborations.
 members:
-  - laura-capps
-  - ria-costant
-  - sarah-davis
-  - hannah-hiles
-  - paul-kerr
-  - asia-mieczkowska
-  - marian-mersmann
-  - amanda-miller
-  - patrick-patton
-  - dawn-shelton
-  - bryttany-todd
-  - jeremy-zollars
+  - id: laura-capps
+  - id: ria-costant
+  - id: sarah-davis
+  - id: hannah-hiles
+  - id: paul-kerr
+  - id: asia-mieczkowska
+    role: Lead
+  - id: marian-mersmann
+  - id: amanda-miller
+  - id: patrick-patton
+  - id: dawn-shelton
+  - id: bryttany-todd
+  - id: jeremy-zollars

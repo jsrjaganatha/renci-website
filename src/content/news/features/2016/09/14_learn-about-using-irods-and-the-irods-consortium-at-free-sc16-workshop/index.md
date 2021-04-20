@@ -1,6 +1,6 @@
 ---
 title: "Learn about using iRODS and the iRODS Consortium at free SC16 workshop"
-subtitle: IRODS: From Prototype to Production will be sponsored by DDN
+subtitle: "IRODS: From Prototype to Production will be sponsored by DDN"
 slug: learn-about-using-irods-and-the-irods-consortium-at-free-sc16-workshop
 publishDate: 2016-09-14
 author: 

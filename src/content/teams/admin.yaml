@@ -5,10 +5,10 @@ role: >
 description: !markdown |
   The Administrative Assistants Team (AAT/Admin Team) provides direct support to the members of the Office of the Director (OOD) as well as to the wider RENCI community. The Admin Team is the point of contact for OOD's availability for calls and meetings, questions about OOD's respective responsibilities , general information about RENCI processes, and assistance with the hiring process. The Admin Team also helps out with events, meetings, supplies orders, parking permits, and much more. 
 members:
-  - chris-daley
-  - julie-hayes
-  - mary-huang
-  - stefania-knight
-  - asia-mieczkowska
+  - id: chris-daley
+  - id: julie-hayes
+  - id: mary-huang
+  - id: stefania-knight
+  - id: asia-mieczkowska
     role: Lead
-  - rebecca-ratchford
+  - id: rebecca-ratchford
