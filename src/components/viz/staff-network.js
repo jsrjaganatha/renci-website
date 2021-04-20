@@ -153,6 +153,20 @@ export const StaffNetwork = ({ height = 800, width = 800 }) => {
           // console.log(`  + ${ team.id }`)
         })
       }
+      if (person.groups) {
+        // console.log(`- Teams`)
+        person.groups.forEach(group => {
+          edges.push(createEdge('person-group', person.id, group.id))
+          // console.log(`  + ${ group.id }`)
+        })
+      }
+      if (person.collaborations) {
+        // console.log(`- Teams`)
+        person.collaborations.forEach(collaboration => {
+          edges.push(createEdge('person-group', person.id, collaboration.id))
+          // console.log(`  + ${ collaboration.id }`)
+        })
+      }
       // if (!person.groups && !person.collaborations && !person.teams) {
       //   console.log(`None`)
       // }
