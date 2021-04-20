@@ -82,12 +82,10 @@ const FooterContents = () => {
         <Col xs={ 12 } md={ 6 } lg={ 3 }>
           <strong>Connect</strong>
           <p>
-            Twitter <br/>
-            Facebook <br/>
-            LinkedIn <br/>
-            Instagram <br/>
-            YouTube <br/>
-            RSS
+            <Link to="https://www.twitter.com/RENCI">Twitter</Link> <br/>
+            <Link to="https://www.facebook.com/renci.org">Facebook</Link> <br/>
+            <Link to="https://www.linkedin.com/company/65321">LinkedIn</Link> <br/>
+            <Link to="https://www.youtube.com/RENCIMedia">YouTube</Link> <br/>
           </p>
         </Col>
         <Col xs={ 12 }>
