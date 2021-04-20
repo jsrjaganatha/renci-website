@@ -10,10 +10,10 @@ renciRole: !markdown |
 members:
   - id: chris-lenhardt
     role: Co-Lead
+  - id: james-mcmanus
+  - id: patrick-patton
   - id: lisa-stillwell
     role: Co-Lead
-  - id: patrick-patton
-  - id: james-mcmanus
 partners:
   - ncsu-geospatial
 funding:

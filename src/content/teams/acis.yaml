@@ -12,6 +12,7 @@ members:
   - kevin-otte
   - chris-rutledge
   - marcin-sliwowski
+    role: Lead
 projects:
 online_presence:
   url: https://wiki.renci.org/

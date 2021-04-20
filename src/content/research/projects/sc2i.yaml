@@ -10,9 +10,9 @@ renciRole: !markdown |
 members:
   - id: ashok-krishnamurthy
     role: Lead
+  - id: justin-james
   - id: oleg-kapeljushnik
   - id: michael-shoffner
-  - id: justin-james
   - id: patrick-patton
 partners:
   - duke-university

@@ -6,10 +6,10 @@ description:  >
 renciRole: !markdown |
   [HydroShare](https://www.hydroshare.org/) enhances researchers’ ability to share products resulting from their research—not just the scientific publication summarizing a study, but also the data, models, and workflow scripts used to create the scientific publication and reproduce the results. Scientists use HydroShare to discover and access hydrologic data and models, retrieve them to their desktop, or perform analyses in a distributed computing environment that may include grid, cloud, or high performance computing.
 members:
-  - id: hong-yi
-    role: Lead
   - id: chris-calloway
   - id: chris-lenhardt
+  - id: hong-yi
+    role: Lead
 partners:
   - brigham-young-university
   - cuashi

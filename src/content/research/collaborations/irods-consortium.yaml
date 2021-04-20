@@ -12,6 +12,7 @@ renciRole: !markdown |
 projects:
   - irods
 members:
+  - id: laura-capps
   - id: jason-coposky
   - id: kory-draughn
   - id: justin-james
