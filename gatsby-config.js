@@ -110,6 +110,8 @@ module.exports = {
     "ProjectsYaml.members": `PeopleYaml`, // Link project members to people
     "ProjectsYaml.funding": `OrganizationsYaml`, // Link project funders to organizations
     "ProjectsYaml.partners": `OrganizationsYaml`, // Link project partners to organizations
+    // TEAMS
+    "TeamsYaml.members": `PeopleYaml`, // Link team members to people
     // NEWS
     "MarkdownRemark.frontmatter.author": "PeopleYaml",
     "MarkdownRemark.frontmatter.people": "PeopleYaml",

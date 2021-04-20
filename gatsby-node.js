@@ -113,6 +113,24 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         }
       },
     },
+    TeamsYaml: {
+      members: {
+        type: ["PeopleYaml"],
+        resolve(source, args, context, info) {
+          if (!source.members) { return [] }
+          const memberIds = source.members.map(member => member.id)
+          // console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
+          return context.nodeModel.getNodesByIds({ ids: memberIds })
+            .map(node => {
+              const index = source.members.findIndex(member => member.id === node.id)
+              if (index === -1) {
+                return node
+              }
+              return ({ ...node, role: source.members[index].role })
+            })
+        }
+      },
+    },
     GroupsYaml: {
       members: {
         type: ["PeopleYaml"],
