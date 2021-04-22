@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report an errors or usability issue on the website
 title: ''
 labels: ''
 assignees: ''
