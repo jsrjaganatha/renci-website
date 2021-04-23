@@ -52,6 +52,7 @@ export const teamQuery = graphql`
       members {
         id
         fullName
+        role
         name {
           first
           last
