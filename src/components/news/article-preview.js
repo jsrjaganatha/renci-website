@@ -43,7 +43,7 @@ export const ArticlePreview = ({ article, path, spotlight, compact = false }) =>
   
   return (
     <Wrapper>
-      <Grid fluid>
+      <Grid fluid style={{ padding: 0 }}>
         <Row>
           {
             hasPreviewImage && (
