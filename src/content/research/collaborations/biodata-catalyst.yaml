@@ -15,12 +15,12 @@ members:
   - id: marcus-anderson
   - id: sarah-davis
   - id: chris-erdmann
-  - id: chris-lenhardt
   - id: paul-kerr
   - id: asia-mieczkowska
   - id: amanda-miller
   - id: patrick-patton
   - id: stephanie-suber
+  - id: amber-voght
   - id: matt-watson
 projects:
   - bdc3-cici

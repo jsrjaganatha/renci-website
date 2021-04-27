@@ -1,6 +1,6 @@
 id: biodata-catalyst
 name: BioData Catalyst
-featuredImage: bdc.jpg
+featuredImage: ../collaborations/biodata-catalyst.jpg
 description: >
   NHLBI BioData Catalyst is a cloud-based ecosystem providing tools, applications, and workflows in secure workspaces. By increasing access to NHLBI datasets and data analysis capabilities, BioData Catalyst accelerates biomedical research that drives discovery, leading to novel diagnostic tools, therapeutics and prevention strategies for heart, lung, blood, and sleep disorders. 
 renciRole: !markdown |
