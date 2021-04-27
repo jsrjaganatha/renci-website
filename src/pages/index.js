@@ -62,9 +62,12 @@ const Overlay = styled.div`
   background-color: #ffffffaa;
 `
 
-const Tagline = styled.div`
+const Tagline = styled.div(({ theme }) => `
   position: absolute;
-  left: 1rem;
+    left: ${ theme.spacing.large };
+  @media (min-width: 1240px) {
+  left: ${ theme.spacing.medium };
+  }
   right: 0;
   top: 5rem;
   font-size: 300%;
@@ -73,7 +76,7 @@ const Tagline = styled.div`
   color: #222;
   max-width: 1220px;
   margin: auto;
-`
+`)
 
 const Visualization = () => {
   return (
