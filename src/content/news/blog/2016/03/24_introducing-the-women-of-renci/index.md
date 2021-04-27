@@ -81,5 +81,3 @@ Manage pre and post award proposals for RENCI and RENCI UBC. Schedule travel and
 **Hong Yi, senior research software developer**  
 Design and develop software for various projects; write proposals as needed.
 
-_-Stephanie Suber_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

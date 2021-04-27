@@ -22,9 +22,8 @@ _New funding for DHS Center of Excellence means continued collaboration with REN
 
 The U.S. Department of Homeland Security (DHS) recently announced it will provide $20 million over five years to fund the Coastal Resilience Center of Excellence (COE) at UNC-Chapel Hill. That's a good thing for people in coastal areas who each year must cope with hurricanes, erosion, flooding, and storm surge.
 
-<div id="attachment_14820" class="wp-caption alignright" style="width: 300px">[![Aftermath of Hurricane Sandy. RENCI and the DHS Coastal Resilience Center work together to improve hurricane storm surge prediction.](https://renci.org/wp-content/uploads/2015/05/sandy_acy_640-300x169.jpg)](https://renci.org/wp-content/uploads/2015/05/sandy_acy_640.jpg)
-
-Aftermath of Hurricane Sandy. RENCI and the DHS Coastal Resilience Center work together to improve hurricane storm surge prediction.
+![Aftermath of Hurricane Sandy](https://renci.org/wp-content/uploads/2015/05/sandy_acy_640.jpg)
+> Aftermath of Hurricane Sandy. RENCI and the DHS Coastal Resilience Center work together to improve hurricane storm surge prediction.
 
 The new grant acknowledges the effectiveness of a longtime partnership between the Coastal Resilience COE (formerly the Coastal Hazards Center of Excellence) and RENCI. For more than five years, Brian Blanton, RENCI's director of environmental programs and a coastal oceanographer, has worked closely with Rick Luettich, lead investigator for the Coastal Resilience COE and director of UNC's [Institute of Marine Sciences](http://ims.unc.edu/), to enhance the [ADCIRC](http://adcirc.org/) storm surge modeling system and put it to use as a tool to help coastal communities understand, predict, and mitigate the impacts of coastal storms.
 

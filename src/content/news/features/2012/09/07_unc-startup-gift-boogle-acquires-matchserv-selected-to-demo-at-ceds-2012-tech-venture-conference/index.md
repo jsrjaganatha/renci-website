@@ -18,15 +18,15 @@ tags:
     - 
 ---
 
-<img class="size-large wp-image-12067 alignleft" title="Giftboogle" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/Giftboogle-Story1.jpg" width="640" height="386" />
-
-<em>Above: Gift Boogle CEO Eric McAfee (left), and COO Scott Kleist.</em>
 
 CHAPEL HILL, N.C. – Gift Boogle, a startup out of UNC Chapel Hill, has acquired MatchServ, a provider of web-based matching technology and a former strategic partner. MatchServ's technology will be integrated into Gift Boogle's gift matching social media application.
 
 
-
 The aquisition means MatchServ's former CEO, Sherard Griffin, joins the Gift Boogle team as Chief Technology Officer.   Prior to MatchServ, Sherard was CEO and co-founder of AvanGuard Solutions Inc., a mobile advertising, marketing and entertainment software company.
+
+![Gift Boogle CEO Eric McAfee and COO Scott Kleist stand in front of mirrored building](https://www.renci.org/wp-content/uploads/2013/10/Giftboogle-Story1.jpg)
+
+> Gift Boogle CEO Eric McAfee (left), and COO Scott Kleist.
 
 "Sherard is a master technologist and a strong addition to our team," said Eric McAfee, Gift Boogle's CEO. "We were already collaborating on a world-class gift matching platform, and it was a logical next step to bring him and the MatchServ technology on board."
 
@@ -44,20 +44,16 @@ Earlier this year, Gift Boogle was selected to participate in Carolina Launch Pa
 
 Two other Carolina Launch Pad ventures will be represented at the CED Tech Venture conference: Impulsonic, which provides software tools for synthesis and propagation of sound in video games and acoustics; and Sqord, a recent Launch Pad participant now at Groundwork Labs in Durham that runs an interactive website designed to encourage physical activity in children.
 
-More information:
+## More information
 
-Gift Boogle: <a href="http://www.giftboogle.com/">http://www.giftboogle.com/</a>
+- Gift Boogle: <a href="http://www.giftboogle.com/">http://www.giftboogle.com/</a>
 
-Carolina Launch Pad: <a href="http://carolinalaunchpad.org/">http://carolinalaunchpad.org/</a>
+- Carolina Launch Pad: <a href="http://carolinalaunchpad.org/">http://carolinalaunchpad.org/</a>
 
-RENCI: <a href="https://www.renci.org/">https://www.renci.org/</a>
+- RENCI: <a href="https://www.renci.org/">https://www.renci.org/</a>
 
-CED: <a href="http://www.cednc.org/">http://www.cednc.org/</a>
+- CED: <a href="http://www.cednc.org/">http://www.cednc.org/</a>
 
-&nbsp;
+- Media Contact:
 
-Media Contact:
-
-Eric McAfee, <a href="mailto:pr@giftboogle.com">pr@giftboogle.com</a>
-
-888-456-2246
+  Eric McAfee, <a href="mailto:pr@giftboogle.com">pr@giftboogle.com</a><br/>  888-456-2246

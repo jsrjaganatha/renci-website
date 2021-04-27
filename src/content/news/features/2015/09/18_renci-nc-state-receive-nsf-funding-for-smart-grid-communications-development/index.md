@@ -17,10 +17,10 @@ collaborations:
 tags:
     - 
 ---
-[![Yufeng](https://renci.org/wp-content/uploads/2015/09/Yufeng-224x300.jpg)](https://renci.org/wp-content/uploads/2015/09/Yufeng.jpg)
->Yufeng Xin
-
 The National Science Foundation recently announced plans to award nearly $12 million to [US Ignite](http://www.us-ignite.org), as part of the new [White House "Smart Cities" Initiative](https://www.whitehouse.gov/the-press-office/2015/09/14/fact-sheet-administration-announces-new-smart-cities-initiative-help), which will provide funding to projects and organizations developing next-generation Internet applications.
+
+![Headshot of Yufeng Xin](https://renci.org/wp-content/uploads/2015/09/Yufeng.jpg)
+> Yufeng Xin
 
 One of the projects that will benefit from the new funding is a joint effort involving RENCI, North Carolina State University, and the Rochester Institute of Technology to develop an advanced design architecture that will integrate cloud computing and next-generation communication networks with wide-area control of large power systems based on Synchronized Phasor Measurements, or "Synchophasors."
 
@@ -36,7 +36,7 @@ The team will use emerging technologies such as cloud computing and software def
 
 Related work by Xin and Chakrabortty won awards for best application in the energy and sustainability sector at US Ignite Application Summits in 2013 and 2014.
 
-For more information:
+## For more information
 
 - [White House "Smart Cities" Initiative](https://www.whitehouse.gov/the-press-office/2015/09/14/fact-sheet-administration-announces-new-smart-cities-initiative-help)
 - [National Science Foundation Press Release](http://nsf.gov/news/news_summ.jsp?cntn_id=136263&org=NSF&from=news)

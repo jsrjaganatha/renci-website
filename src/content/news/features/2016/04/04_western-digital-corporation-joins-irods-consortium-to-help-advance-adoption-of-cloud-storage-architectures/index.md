@@ -19,7 +19,6 @@ tags:
     - data-management
     - open-source
 ---
-_WDC to provide targeted technology enhancements to expand data movement options for life science and other data intensive workflows_
 
 SAN JOSE, Calif., April 4, 2016 _PRNewswire_ -- Helping the world harness the power of data, Western Digital Corporation (NASDAQ: [WDC](http://studio-5.financialcontent.com/prnews?Page=Quote&Ticker=WDC "WDC")) today announced that it is now an active contributor to iRODS, a membership-based consortium that develops and supports the integrated Rule-Oriented Data System ([iRODS](http://irods.org/)), an open source software platform for storing, searching, and sharing large files and datasets. Thousands of organizations around the world use iRODS for flexible, policy-based management of files and metadata that span across diverse storage devices and locations. Western Digital Corporation will initially contribute advanced HGST S3 connector technology to the iRODS architecture to enhance cloud connectivity.
 

@@ -25,17 +25,17 @@ Julie Mell, associate professor of history, and Helen Burgess, associate profess
 
 The SCR in the D.H. Hill Library, called the Visualization Studio, is a square room with a floor-to-ceiling desktop on all four walls, making it ideal for presenting large volumes of information, interactions with data, and group projects that involve multimedia. The space was created through a collaboration between the [RENCI](https://renci.org/) and NC State.
 
-[![IMG_1609](https://renci.org/wp-content/uploads/2015/09/IMG_1609-300x200.jpg)](https://renci.org/wp-content/uploads/2015/09/IMG_1609.jpg)
-*Mell highlights a portion of the tapestry for her students.*
+[![IMG_1609](https://renci.org/wp-content/uploads/2015/09/IMG_1609.jpg)](https://renci.org/wp-content/uploads/2015/09/IMG_1609.jpg)
+> Mell highlights a portion of the tapestry for her students.
 
-Mell uses the SCR to teach the Bayeux tapestry, a large embroidery stitched by Anglo-Saxon women for Norman rulers. Mell had never attempted to teach the tapestry in class before because of its massive size \u2013 230 feet in length and 20 inches high. Working with Digital Research and Scholarship Librarian Markus Wust and University Library Technician Shaun Bennett, Mell was able to use the four large walls of the SCR to create an environment where students could not only study the Bayeux tapestry but also become immersed in its story.
+Mell uses the SCR to teach the Bayeux tapestry, a large embroidery stitched by Anglo-Saxon women for Norman rulers. Mell had never attempted to teach the tapestry in class before because of its massive size &mdash; 230 feet in length and 20 inches high. Working with Digital Research and Scholarship Librarian Markus Wust and University Library Technician Shaun Bennett, Mell was able to use the four large walls of the SCR to create an environment where students could not only study the Bayeux tapestry but also become immersed in its story.
 
 According to Mell, the Internet has brought a "revolution of accessibility to rare and precious objects" that were once only accessible via a trip to a museum. Now, with the SCR, Mell can truly "recreate digitally the experience of the museum."
 
 Burgess also uses the SCR to immerse her students in another world, albeit the more modern and tragic world of 9/11. As part of a larger unit, Burgess has her students read the _The 9/11 Report: A Graphic Adaptation_. This version of the report includes an 18-page timeline of events that, like the Bayeux tapestry, is too large to appreciate by flipping through the book. Wust and Burgess worked together to bring the timeline to the SCR walls, along with a book of comics, _In the Shadow of No Towers,_ and a symphony based on that text.
 
-[![burgess1](https://renci.org/wp-content/uploads/2015/09/burgess1-300x200.jpg)](https://renci.org/wp-content/uploads/2015/09/burgess1.jpg)
-*Burgess’ students annotate the SCR walls.*
+[![burgess1](https://renci.org/wp-content/uploads/2015/09/burgess1.jpg)](https://renci.org/wp-content/uploads/2015/09/burgess1.jpg)
+> Burgess’ students annotate the SCR walls.
 
 What happened next, according to Burgess, is that student learning transformed into a "performative experience." Rather than reading for homework and discussing in class, students were able to sit on the floor, stand beside the materials and touch them, and place sticky notes on the walls to capture their thoughts. The life size versions of text allowed students to interact in a way they would not have in the classroom, both physically and mentally.
 
@@ -47,5 +47,3 @@ The next event in the series will be held Friday, Sept. 18 at the [Duke Energy H
 
 Coffee & Viz programs are free and open to the public. Coffee and light refreshments are served at 9:15 a.m. and the program begins at 9:30 a.m. For more information, contact [Karen Ciccone](mailto:kacollin@ncsu.edu?subject=Coffee%20%26%20Viz%20series). For those interested in finding more ideas on teaching in an SCR, read the RENCI [white paper](https://renci.org/wp-content/uploads/2015/06/SCR-WhitePaper-FINAL-6.29.15.pdf) that documents the development of the SCRs and some of their uses.
 
-_– Stephanie Suber_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

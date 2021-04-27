@@ -2,7 +2,7 @@
 title: "Crossing the pond in the name of better data management"
 slug: crossing-the-pond-in-the-name-of-better-data-management
 publishDate: 2015-09-25T10:59:37
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - 
@@ -18,11 +18,10 @@ tags:
     - data-management
     - training
 ---
-[![iRODS Chief Technologist Jason Coposky offers guidance to iRODS users at the University of Utrecht.](https://renci.org/wp-content/uploads/2015/09/Jason2-256x300.jpg)](https://renci.org/wp-content/uploads/2015/09/Jason2.jpg)
-
-iRODS Chief Technologist Jason Coposky offers guidance to iRODS users at the University of Utrecht.
-
 The iRODS data management platform and the iRODS Consortium that works to sustain it are making waves well beyond their home base in Chapel Hill, NC.
+
+[![iRODS Chief Technologist Jason Coposky offers guidance to users at the University of Utrecht](https://renci.org/wp-content/uploads/2015/09/Jason2.jpg)](https://renci.org/wp-content/uploads/2015/09/Jason2.jpg)
+> iRODS Chief Technologist Jason Coposky offers guidance to users at the University of Utrecht
 
 This week, three of the smart, savvy people behind [iRODS](http://irods.org) and the [Consortium](http://irods.org/consortium/) (iRODS originator Reagan Moore, Consortium Executive Director Dan Bedard, and Chief Technologist Jason Coposky) traveled to France, the United Kingdom, and the Netherlands to talk about the benefits of iRODS as a data management solution for large distributed research projects, to provide training for those interested in becoming iRODS power users, and generally to evangelize about software that is now being used far and wide in Europe, the U.S., Asia, South America, Australia, and South Africa.
 
@@ -36,5 +35,4 @@ Like most good techie workshops, the format was hands-on, informal, and included
 
 Unfortunately, neither Reagan, Dan, nor Jason invited me to travel with them to Europe to document their European tour (maybe next time guys?). But I think its safe to say that researchers, scientific programmers, IT administrators, and other specialists who build research data solutions learned valuable tips and picked up plenty of new information this week that will help them take control of their data.
 
-_–Karen Green_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->
+<!--_–Karen Green_ -->

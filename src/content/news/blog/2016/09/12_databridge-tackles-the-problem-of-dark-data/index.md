@@ -1,5 +1,5 @@
 ---
-title: "DataBridge tackles the problem of dark data'"
+title: "DataBridge tackles the problem of dark data"
 slug: databridge-tackles-the-problem-of-dark-data
 publishDate: 2016-09-12T16:45:22
 author: 
@@ -39,10 +39,9 @@ DataBridge gathers metadata about data sets, including the scientific field of t
 
 In its first iteration, also funded by the NSF, DataBridge focused on data sets in the social sciences. As the project expands into new communities, we wish them continued success in making data from the "long tail of science" more accessible and usable.
 
-## Learn more:
+## Learn More
 
 - DataBridge [white paper](https://renci.org/wp-content/uploads/2015/07/RCI-RENCI-White-Paper-No5.FINAL_.pdf)
-
 - DataBridge [website](http://databridge.web.unc.edu/)
 
 <!-- _-Karen Green_ -->

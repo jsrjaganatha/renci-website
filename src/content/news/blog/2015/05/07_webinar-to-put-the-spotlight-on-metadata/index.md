@@ -2,7 +2,7 @@
 title: "Webinar to put the spotlight on metadata"
 slug: webinar-to-put-the-spotlight-on-metadata
 publishDate: 2015-05-07T09:53:36
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - 
@@ -32,4 +32,4 @@ The iRODS Consortium sees metadata as both a challenge and an opportunity, and C
 
 If you've had metadata on the mind lately, if you're interested in best practices for preserving and managing research metadata, or if you yearn for a glimpse of the future of metadata management in the life sciences, then plan to tune in for what should be a forward-looking, thought-provoking roundtable discussion.
 
-_-Karen Green_
+<!-- _-Karen Green_ -->

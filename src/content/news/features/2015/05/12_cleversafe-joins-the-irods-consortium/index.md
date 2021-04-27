@@ -18,7 +18,8 @@ tags:
     - data-management
     - open-source
 ---
-CHAPEL HILL, NC, May 12, 2015 – Cleversafe, the market share leader in web-scale data storage, will become the ninth member of the iRODS Consortium, a membership-based foundation organized to sustain the integrated Rule-Oriented Data System (iRODS) as free open source data management software.
+
+CHAPEL HILL, NC – Cleversafe, the market share leader in web-scale data storage, will become the ninth member of the iRODS Consortium, a membership-based foundation organized to sustain the integrated Rule-Oriented Data System (iRODS) as free open source data management software.
 
 Cleversafe, a Chicago-based company, delivers a breakthrough private cloud platform that solves petabyte-and-beyond storage challenges. Relied upon by the world's largest data repositories, Cleversafe reduces 80 percent or more of storage costs while providing carrier-grade security, 15 nines of reliability, and simplified storage management. Cleversafe joins a growing list of consortium members who have gathered to collaborate on iRODS, free open source software for data discovery, workflow automation, secure collaboration and data virtualization. The consortium was formed by RENCI (the Renaissance Computing Institute) and the Data Intensive Cyber Environments (DICE) Center, both research institutes at the University of North Carolina at Chapel Hill.
 

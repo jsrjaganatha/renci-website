@@ -1,5 +1,6 @@
 ---
 title: "HydroShare extends the reach of breakthrough National Water Model"
+subtitle: The National Water Model will help to mitigate disasters such as the recent flooding in Louisiana shown here. HydroShare and iRODS are helping to bring the model to a wider community of scientists and practitioners
 slug: hydroshare-extends-the-reach-of-breakthrough-national-water-model
 publishDate: 2016-09-14
 author: 
@@ -22,10 +23,10 @@ tags:
     - open-source
     - data-management
 ---
-![Pic; Louisiana-flooding](https://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg)  
-_The National Water Model will help to mitigate disasters such as the recent flooding in Louisiana shown here. HydroShare and iRODS are helping to bring the model to a wider community of scientists and practitioners._
 
 The national water science community has been abuzz since August, when the National Oceanic and Atmospheric Administration (NOAA) launched its new high resolution [National Water Model](http://water.noaa.gov/about/nwm) (NWM), a system that simulates the flow of rivers and streams throughout the continental United States in more detail than ever before possible.
+
+![Pic; Louisiana-flooding](https://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg)  
 
 Using data from more than 8,000 U.S. Geological Service stream gauges and other sources, the NWM can produce water flow forecasts to 2.7 million stream locations and provides high resolution forecasts of stream flows, soil moisture levels, water runoff, stream anomalies, and other parameters at 700 times greater detail than the previous model. The NWM gives scientists a wealth of data to help them better understand hydrological processes. That same data can help communities and emergency responders better prepare for and mitigate floods that take lives and damage homes and businesses every year.
 

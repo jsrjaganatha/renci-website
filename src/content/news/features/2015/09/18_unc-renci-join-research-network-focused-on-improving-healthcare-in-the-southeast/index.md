@@ -19,7 +19,7 @@ tags:
     - 
 ---
 
-CHAPEL HILL – The University of North Carolina at Chapel Hill is one of multiple new sites to join the Mid-South Clinical Data Research Network (CDRN), a collaborative partnership that is harnessing data from electronic health records to improve outcomes for patients throughout the Southeast. The expansion is funded by a three-year, $8.5 million funding award from the Patient-Centered Outcomes Research Institute (PCORI).
+CHAPEL HILL, NC – The University of North Carolina at Chapel Hill is one of multiple new sites to join the Mid-South Clinical Data Research Network (CDRN), a collaborative partnership that is harnessing data from electronic health records to improve outcomes for patients throughout the Southeast. The expansion is funded by a three-year, $8.5 million funding award from the Patient-Centered Outcomes Research Institute (PCORI).
 
 The [Mid-South CDRN](https://midsouthcdrn.mc.vanderbilt.edu/) will focus on improving treatments and outcomes for health conditions ranging from heart disease, diabetes and cancer to sickle cell anemia, sleep apnea, autism and arthritis. It is also participating in national studies addressing the optimal dose of aspirin in patients with coronary heart disease, and optimal surgical approaches for obesity. The goal is to rapidly translate research findings into clinical practice. 
 

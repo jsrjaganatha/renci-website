@@ -2,7 +2,7 @@
 title: "Finding common ground in the Social Computing Room"
 slug: finding-common-ground-in-the-social-computing-room
 publishDate: 2015-02-16T10:21:49
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -17,11 +17,11 @@ collaborations:
 tags:
     - visualization
 ---
-<div id="attachment_14395" class="wp-caption alignleft" style="width: 300px">[![A delegation from Kyrgyzstan views biopsy slides in the RENCI Social Computing Room. ](https://renci.org/wp-content/uploads/2015/02/Kyrgyzstan3-300x225.jpg)](https://renci.org/wp-content/uploads/2015/02/Kyrgyzstan3.jpg)
-
-A delegation from Kyrgyzstan views biopsy slides in the RENCI Social Computing Room.
 
 Science, like music, is an international language. No matter their cultural, ethnic, or religious backgrounds, no matter if they conduct fieldwork in the U.S. or run a lab in central Asia, scientists always seem able to find common ground.
+
+![A delegation from Kyrgyzstan views biopsy slides displayed in the RENCI Social Computing Room](https://renci.org/wp-content/uploads/2015/02/Kyrgyzstan3.jpg)
+> A delegation from Kyrgyzstan views biopsy slides in the RENCI Social Computing Room.
 
 It's a fact all competent science communicators understand, and one I was reminded of when a delegation of science and technology professionals from Kyrgyzstan visited RENCI's [Social Computing Room](https://renci.org/news/built-for-interaction/) (SCR) on the UNC-Chapel Hill campus on Feb. 12. The group, comprised primarily of women with backgrounds in mathematics, software engineering, and information science, journeyed half way around the world to participate in the [Open World Program](http://www.openworld.gov/), a U.S. exchange program that supports and encourages current and future leaders in post-Soviet block countries.
 
@@ -39,10 +39,9 @@ I'm hoping that one day, a bright girl from a village in Kyrgyzstan will walk in
 
 All because one day in Chapel Hill, a small group of Americans and Kyrgyzstanis found common ground through science.
 
-_-Karen Green_
+<!-- _-Karen Green_ -->
 
-_Note: Thanks to the aforementioned David Borland, and Ray Idaszak, RENCI's director of collaborative environments, for making this visit a success. Also thanks to UNC Global and Melissa McMurray for reaching out to RENCI for the Open World visit.  
+_Note: Thanks to the aforementioned [David Borland](/people/david-borland), and Ray Idaszak, RENCI's director of collaborative environments, for making this visit a success. Also thanks to UNC Global and Melissa McMurray for reaching out to RENCI for the Open World visit.  
 _
 
 Please email [scr-help@renci.org](mailto:scr-help@renci.org) if you are interested in reserving the RENCI Social Computing Room.
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

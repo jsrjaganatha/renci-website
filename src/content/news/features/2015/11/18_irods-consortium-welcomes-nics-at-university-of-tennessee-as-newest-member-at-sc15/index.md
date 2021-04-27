@@ -20,9 +20,9 @@ tags:
     - open-source
 ---
 
-AUSTIN, Texas, Nov. 18, 2015 - The [National Institute of Computational Sciences](https://www.nics.tennessee.edu/) (NICS) at the University of Tennessee today became the 13<sup>th</sup> member of the iRODS Consortium, the membership-based foundation organized to sustain the integrated Rule-Oriented Data System ([iRODS](x-webdoc://477066E8-AF68-4460-9119-C05A685E0ED2/irods.org)) as free open source data management software.
+AUSTIN, Texas - The [National Institute of Computational Sciences](https://www.nics.tennessee.edu/) (NICS) at the University of Tennessee today became the 13<sup>th</sup> member of the iRODS Consortium, the membership-based foundation organized to sustain the integrated Rule-Oriented Data System ([iRODS](https://irods.org)) as free open source data management software.
 
-The newest consortium member was announced in the [<span class="s2">RENCI</span>](https://www.renci.org/) booth (#181) on the SC15 show floor at the Austin Convention Center.
+The newest consortium member was announced in the [RENCI](https://www.renci.org/) booth (#181) on the SC15 show floor at the Austin Convention Center.
 
 NICS, a National Science Foundation-funded high-performance computing center that provides computational resources for more than 1,000 users, is the seventh new iRODS Consortium member this year. Other members are the Wellcome Sanger Institute, Cleversafe, DataDirect Networks (DDN), EMC Corporation, IBM, NASA's Atmospheric Science Data Center, Novartis, Seagate, RENCI, University College London, Complete Genomics, and the Data Intensive Cyber Environments (DICE) group at UNC-Chapel Hill.
 

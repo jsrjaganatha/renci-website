@@ -1,5 +1,6 @@
 ---
 title: "UNC-Chapel Hill's RENCI and Georgia Tech to Lead Major Effort that Applies Big Data Solutions to Challenges Faced in North Carolina and the South"
+subtitle: Buried in troves of data that scientists have gathered, but not yet analyzed, could be key insights to improving health care disparities, coastal hazards, and urban planning in the southern United States
 slug: renci-georgia-tech-to-lead-effort-on-big-data-solutions
 publishDate: 2015-11-02
 author: 
@@ -19,9 +20,8 @@ tags:
     - data-analysis
     - team-science
 ---
-_Buried in troves of data that scientists have gathered, but not yet analyzed, could be key insights to improving health care disparities, </em><em>coastal hazards, and urban planning in the southern United States._
 
-**(Chapel Hill, N.C.** – Nov. 2, 2015) -- The University of North Carolina's [Renaissance Computing Institute (RENCI)](https://renci.org/) and [Georgia Institute of Technology](http://www.gatech.edu) will co-direct a new, national effort that is unprecedented in scope to develop a big data innovation hub serving 16 southern states and the District of Columbia. The hub will have dual locations in Atlanta and Chapel Hill, with co-executive directors who will be accountable to hub partners.
+Chapel Hill, N.C. – The University of North Carolina's [Renaissance Computing Institute (RENCI)](https://renci.org/) and [Georgia Institute of Technology](http://www.gatech.edu) will co-direct a new, national effort that is unprecedented in scope to develop a big data innovation hub serving 16 southern states and the District of Columbia. The hub will have dual locations in Atlanta and Chapel Hill, with co-executive directors who will be accountable to hub partners.
 
 
 ![Big Data Analytics for Coastal Storm Surge](https://renci.org/wp-content/uploads/2015/11/bdhub-feat-11-2-2015-300x281.png "Big Data Analytics for Coastal Storm Surge")

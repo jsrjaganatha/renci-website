@@ -21,9 +21,10 @@ tags:
     - open-source
     - high-performance-computing
 ---
-![Photo; iRODS Booth at SC16](https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg)  
 
 SALT LAKE CITY, UTAH – Attendees of SC16 who are interested in open source data management will have plenty of opportunities to learn about the integrated Rule-Oriented Data System (iRODS) and the new iRODS 4.2, which will be released just in time for the conference.
+
+![Photo; iRODS Booth at SC16](https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg)  
 
 iRODS, is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. A team of software engineers based at the [Renaissance Computing Institute](https://www.renci.org/) (RENCI) at UNC-Chapel Hill develop iRODS and the software is sustained by the [iRODS Consortium](http://irods.org/consortium/), a membership-based organization with 15 active members in the U.S. and Europe. SC16 attendees can visit the RENCI booth on the SC show floor (#3628) during regular exhibit hours to learn about what's new in iRODS 4.2, hear case studies, and see demonstrations from iRODS developers and Consortium members. Free iRODS t-shirts will be available to conference participants who attend a presentation in the booth.
 

@@ -2,7 +2,7 @@
 title: "DataNet presentations lead to invigorating discussion at ESA annual meeting"
 slug: datanet-presentations-lead-to-invigorating-discussion-at-esa-annual-meeting
 publishDate: 2015-09-14T10:39:58
-author: ["stephanie-suber"]
+author: 
 featuredImage: null
 groups:
     - data-science-and-analytics
@@ -17,11 +17,11 @@ collaborations:
 tags:
     - data-management
 ---
-[![ESAlogo](https://renci.org/wp-content/uploads/2015/09/ESAlogo-204x300.png)](https://renci.org/wp-content/uploads/2015/09/ESAlogo.png)
-
 DataNet Tools and Services was the topic of a session at the recent Ecological Society of America [Annual Meeting](http://esa.org/baltimore/), held last month in Baltimore.
 
 Chris Lenhardt and Mike Conway presented in the [session](http://eco.confex.com/eco/2015/webprogram/Session10796.html) representing the UNC Chapel Hill-based DataNet Federation Consortium (DFC). Chris is lead of the DFC Facilities and Operations team and is active in RENCI's environmental sciences group; Mike is a senior developer with DFC.
+
+![ESAlogo](https://renci.org/wp-content/uploads/2015/09/ESAlogo.png)](https://renci.org/wp-content/uploads/2015/09/ESAlogo.png)
 
 Organized by Amber Budden of the DataONE DataNet project, the session used the [IGNITE](http://igniteshow.com/) format: a series of 5-minute, 20-slide talks followed by Q & A. The fast-paced IGNITE talks present forward-looking, unconventional, and/or controversial ideas to spur the audience into questioning their usual assumptions and thinking creatively about the topic. Both of the DFC IGNITE talks challenged the audience to consider how a data management system can provide tools and services for scientists that go beyond simply storing, indexing discovering, and accessing data files.
 
@@ -33,5 +33,5 @@ Lenhardt and Conway report that they spent a significant amount of time respondi
 
 For more on the DataNet Federation Consortium, visit the [DFC website](http://datafed.org/).
 
-_— Mary Whitton, Chris Lenhardt, and Mike Conway_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->
+<!-- _— Mary Whitton, Chris Lenhardt, and Mike Conway_ -->
+

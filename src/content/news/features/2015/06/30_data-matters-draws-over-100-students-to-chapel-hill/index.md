@@ -39,20 +39,16 @@ Tom Carsey, director of the Odum Institute, chimed in with Ahalt to recognize th
 
 The National Consortium for Data Science (NCDS), the Odum Institute for Social Science Research at UNC-Chapel Hill, and the Renaissance Computing Institute (RENCI) will sponsor the series again next June.
 
-* * *
-
 ## About the Sponsors
 
 The National Consortium for Data Science formed in 2013 as a non-profit public-private partnership to advance the field of data science and address the data challenges of the 21st century. For more information, visit [www.data2discovery.org](http://www.data2discovery.org/).
 
-The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit [www.odum.unc.edu](http://www.odum.unc.edu/).
+The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit [odum.unc.edu](https://odum.unc.edu/).
 
-RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit [www.renci.org](https://www.renci.org/).
-
-* * *
+RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit [renci.org](https://www.renci.org/).
 
 ## Data Matters 2015 Album
 
 [![NCDS Data Matters Short Course Series | 2015 Album](https://live.staticflickr.com/303/18978949229_50ed579326_z.jpg)](https://www.flickr.com/photos/renci/albums/72157655060989922 "NCDS Data Matters Short Course Series | 2015 Album")
 
-_Click the image above to view photos from this event._
+> Click the image above to view photos from this event.

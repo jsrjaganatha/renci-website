@@ -49,7 +49,7 @@ The CyVerse Discovery Environment, said Blanton, excites scientists with an inte
 
 "It connects researchers to the resources they need and, by using iRODS, it manages their data, all without the end user having to understand the underlying technology," said Blanton. "If you take away the CyVerse Discovery Environment, you need to work directly with the underlying technology and not that many scientists want to do that, nor do they have the time. In the simplest terms, this is a mechanism for getting stuff done."
 
-[![Video; Discovery Environment](http://img.youtube.com/vi/r7m9nDAcYu0/0.jpg)](http://www.youtube.com/watch?v=r7m9nDAcYu0 "Discovery Environment")
+[![View "Doscovery Environment" video](http://img.youtube.com/vi/r7m9nDAcYu0/0.jpg)](http://www.youtube.com/watch?v=r7m9nDAcYu0 "View video: Discovery Environment")
 
 RENCI, which hosts and administers the hub that connects the research data grids of DFC partners, now uses the CyVerse Discovery Environment to manage data and support data-driven science for DFC members. The Odum Institute for Social Science Research, a UNC-Chapel Hill institute and a DFC partner, installed the CyVerse system as part of its [Virtual Institute for Social Research](https://renci.org/wp-content/uploads/2015/05/VISRWhite-Paper-No3_2015_highres.pdf) (VISR), a secure cyberinfrastructure for conducting social science research and managing its data.
 

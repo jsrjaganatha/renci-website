@@ -28,15 +28,11 @@ The iRODS Partner Program assists iRODS users who need help installing and confi
 
 The iRODS Partner Program has two levels of participation. Gold Partners are Consortium members, and they provide support that leverages training and fallback assistance from Consortium staff. Standard Partners have registered with the Consortium as iRODS solution and service providers. Current partners are Daystrom Technology Group, Distributed Bio, and Metadata Technology North America (MTNA). To learn more about the iRODS Partners Program, or to contact a partner, see [http://irods.org/partners/](http://irods.org/partners/).
 
-* * *
-
 ## iRODS Hub: An App Store for iRODS
 
 The growing iRODS user developer community now has a place to share software written for iRODS: iRODS Hub ([http://irods.org/hub/](http://irods.org/hub/)). On this site, users and developers can link to their plugins, rules, documentation, tutorials, links, videos, and more, so they can be shared with other users who could benefit from using them.
 
 "iRODS Hub highlights a key technology built into iRODS 4: the pluggable architecture," said iRODS Consortium Chief Technologist, Jason Coposky. "Plugins make it easier than ever to connect iRODS to new storage systems, new authentication methods, and new programming languages. Through the Hub, iRODS developers can easily show off the plugins they've written, as well as iRODS rules, clients, documentation, and other work they've done. As our community grows, iRODS Hub will help new users configure their deployments quickly and easily. And because iRODS is so flexible, as the resources available through the Hub grow, the possible uses for iRODS can grow just as quickly."
-
-* * *
 
 ## About the iRODS Consortium*
 

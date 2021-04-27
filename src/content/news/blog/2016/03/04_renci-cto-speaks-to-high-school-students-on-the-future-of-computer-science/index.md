@@ -39,5 +39,3 @@ The ultimate goal of the talk, according to Schmitt, was to showcase the current
 
 "We are working toward a grand challenge," said Schmitt. "How can we integrate human expertise, computer models, data-driven approaches, and knowledge-driven approaches to solve the problems of the future? These kids are going to be the ones to figure that out.”
 
-_– Stephanie Suber_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

@@ -2,7 +2,8 @@
 title: "Research Triangle Analysts at RENCI: Topological Data Analysis"
 slug: research-triangle-analysts-at-renci-topological-data-analysis
 publishDate: 2016-02-04T10:02:37
-author: ["stephanie-suber"]
+author:
+    - chris-calloway
 featuredImage: null
 groups:
     - 
@@ -35,5 +36,3 @@ EEGs are signals obtained from electrodes placed on the brain measuring electric
 
 View video of Ghadyali's talk [here](https://www.dropbox.com/s/cxznsy5bxnafak5/RTPAnalysts_Topology.mov?dl=0) as well as the illustrations in his presentation [here](https://www.dropbox.com/s/lbn8vg4k5k05yzr/Hamza.pptx?dl=0).
 
-_-Chris Calloway_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

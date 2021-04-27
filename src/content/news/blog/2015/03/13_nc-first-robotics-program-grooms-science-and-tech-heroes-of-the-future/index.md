@@ -19,7 +19,7 @@ tags:
 ---
 There has been a growing buzz in the media about the importance of STEM (Science, Technology, Engineering, and Math) education and the struggle to ensure students receive enough of it in public schools. Part of the reason for this intense focus is that the U.S. Department of Labor expects there will be [1.2 million job openings](http://mashable.com/2011/09/07/stem-microsoft-infographic/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29) in STEM related fields by 2018, but there won't be enough qualified graduates to fill those jobs.
 
-According to a Harris Interactive survey, many students who choose a math or science career interacted with a teacher or participated in a program that inspired them and helped launch their STEM career path. [NC FIRST Robotics](http://www.ncfirstrobotics.org/), which was created to help students acquire the knowledge and skills needed to compete in our technologically-driven society, is one such program.
+According to a Harris Interactive survey, many students who choose a math or science career interacted with a teacher or participated in a program that inspired them and helped launch their STEM career path. NC FIRST Robotics, which was created to help students acquire the knowledge and skills needed to compete in our technologically-driven society, is one such program.
 
 The Triangle will get a taste of what it means to be a NC FIRST Robotics competitor during the upcoming regional robotics competition March 19-21 at Dorton Arena on the NC State Fairgrounds.
 
@@ -46,6 +46,3 @@ Sharlini Sankaran, REACH NC executive director and FRC volunteer judge since the
 Hopper encourages families to come to this weekend's FRC to see what it's all about. The event is free and open to the public, and the best days to view the excitement are March 20 and 21. Attendees can participate in a behind the scenes tour, and there are hands-on activities for younger students.
 
 For those interested in [volunteering](mailto:ncfirstrobots@gmail.com), this is just one of many events that NC FIRST sponsors throughout the year. NC FIRST also needs team and event [sponsors](mailto:ncfirstrobots@gmail.com). Currently, there are 50 teams in NC, spanning the mountains to the coast. However, with the ever-increasing deficit between STEM jobs and people to fill them, expanding opportunities for students to learn in fun and engaging ways is a good investment for NC tech companies and the entire state.
-
-_– Stephanie Suber_
-<!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->

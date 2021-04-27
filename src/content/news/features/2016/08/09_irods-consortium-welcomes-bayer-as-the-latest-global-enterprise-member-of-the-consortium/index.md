@@ -18,9 +18,10 @@ tags:
     - data-management
     - open-source
 ---
-![bayer_logo2](https://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg)
 
 CHAPEL HILL, NC - The iRODS Consortium welcomes Bayer, a global life science company with core competencies in the fields of health care and agriculture, as the latest consortium member.
+
+![Bayer logo](https://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg)
 
 Launched in 2014, the membership-based iRODS Consortium leads the development and support of the integrated Rule-Oriented Data System (iRODS) as free open source software for managing large, complex data. Bayer uses iRODS to manage life sciences data at large scale.
 

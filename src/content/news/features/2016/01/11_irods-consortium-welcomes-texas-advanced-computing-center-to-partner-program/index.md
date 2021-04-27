@@ -18,7 +18,7 @@ tags:
     - data-management
     - open-source
 ---
-CHAPEL HILL, NC, January 11, 2016 - The [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC), a facility that provides scientists with some of the world's most powerful computing resources to enable discoveries, is the latest organization to join the iRODS Partner Program, the [iRODS Consortium](http://irods.org/consortium/) announced today.
+CHAPEL HILL, NC - The [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC), a facility that provides scientists with some of the world's most powerful computing resources to enable discoveries, is the latest organization to join the iRODS Partner Program, the [iRODS Consortium](http://irods.org/consortium/) announced today.
 
 The iRODS Partner Program connects people who have data management challenges with organizations that can help solve them. All iRODS Partners have extensive experience with iRODS, the integrated Rule Oriented Data System, as deployed in production environments.
 
