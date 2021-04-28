@@ -17,9 +17,9 @@ collaborations:
 tags:
     - 
 ---
-<img class="size-large wp-image-12067 alignleft" title="Carolina Launch Pad Headquarters" src="https://www.renci.org/wp-content/uploads/2013/11/launchpad-story.jpg" alt="" width="640" height="427" />
+CHAPEL HILL, NC — A new crop of Carolina entrepreneurs have joined Carolina Launch Pad, the university's pre-commercial technology startup incubator. The companies will participate in the program for the next year.
 
-CHAPEL HILL, NC, June 6, 2012—A new crop of Carolina entrepreneurs have joined Carolina Launch Pad, the university's pre-commercial technology startup incubator. The companies will participate in the program for the next year.
+![three gentleman discussing arouund table](https://www.renci.org/wp-content/uploads/2013/11/launchpad-story.jpg)
 
 The four new Launch Pad ventures will occupy office space at the Chapel Hill headquarters of RENCI, the Renaissance Computing Institute. They will join current Launch Pad participant Impulsonic, Inc., which joined the program after the start of the last program year and will stay through September.
 
@@ -30,20 +30,19 @@ This year, Launch Pad participants will also have the chance to visit successful
 "One of the things our alumni value about their time in the Launch Pad is the chance to network with other entrepreneurs, especially those who have been through the challenges of launching a new company," said David Knowles, director of Carolina Launch Pad and RENCI's director of economic development and engagement. "This year, we plan to give our participants plenty of opportunities to network and share ideas with successful entrepreneurs as well as with faculty and staff at RENCI, in the business school and at OTD."
 
 Incoming and outgoing Launch Pad participants will gather for a kickoff event June 13 at Top of the Hill restaurant in Chapel Hill. New participants are:
-<ul>
-	<li><strong>Gift Boogle</strong>, which helps its customers find thoughtful and memorable gifts using a social media analytics-driven application. The system uses social media data, text analytics, and information from users to identify gift giving occasions and match users with the perfect gift. The application aims to make gift giving less stressful and more meaningful by matching users with the appropriate online retailers. Eric McAfee, a UNC graduate, serial entrepreneur, and UNC Information Technology Services staff member, and Scott Kleist, a recent Kenan-Flagler Business School graduate, lead the venture.</li>
-	<li><strong>Prepped</strong>, a company that helps K-12 educators find the best online educational resources through a proprietary Web application. Prepped's application enables teachers to save, rank and share educational videos, articles, podcasts, smart board lessons, lesson plans and other online content. Feedback and reviews from Prepped's network of educators provides other educators with ranked resources and expert advice that matches their needs. Eduardo Garza, a recent Kenan-Flagler Business School MBA recipient, and Charlotte Garza, a former educator and graduate of the University of Texas education master's program, lead the company.</li>
-	<li><strong>Queue</strong>, a company that has created an analytics platform for restaurants. The system allows restaurant patrons to check in and monitor their wait list status in real time using a smart phone. Restaurants can track data points on their waiting patrons using an iPAD-based application, allowing them to gain insights into their customers' experiences and to take actions to improve customer relations. Fitch Carrere, a recent UNC graduate in journalism and mass communication, leads the venture.</li>
-	<li><strong>Students and Teachers Employing New Criteria in Learning (STENCIL),</strong> an educational, cloud-based software development firm. STENCIL's cloud-based software analyzes student attendance, behavior and course performance data and compares it to high school drop out warning signs. When a student is at risk, the software sends an alert to parents, teachers and administrators, giving them the chance to intervene at an early stage. The company is led by Julian Wooten, a UNC graduate who plans to enter the Kenan-Flagler MBA program in the fall, and Cameron Musler, a student in the entrepreneurship program at UNC Chapel Hill.</li>
-</ul>
+
+- **Gift Boogle**, which helps its customers find thoughtful and memorable gifts using a social media analytics-driven application. The system uses social media data, text analytics, and information from users to identify gift giving occasions and match users with the perfect gift. The application aims to make gift giving less stressful and more meaningful by matching users with the appropriate online retailers. Eric McAfee, a UNC graduate, serial entrepreneur, and UNC Information Technology Services staff member, and Scott Kleist, a recent Kenan-Flagler Business School graduate, lead the venture.
+- **Prepped**, a company that helps K-12 educators find the best online educational resources through a proprietary Web application. Prepped's application enables teachers to save, rank and share educational videos, articles, podcasts, smart board lessons, lesson plans and other online content. Feedback and reviews from Prepped's network of educators provides other educators with ranked resources and expert advice that matches their needs. Eduardo Garza, a recent Kenan-Flagler Business School MBA recipient, and Charlotte Garza, a former educator and graduate of the University of Texas education master's program, lead the company.
+- **Queue**, a company that has created an analytics platform for restaurants. The system allows restaurant patrons to check in and monitor their wait list status in real time using a smart phone. Restaurants can track data points on their waiting patrons using an iPAD-based application, allowing them to gain insights into their customers' experiences and to take actions to improve customer relations. Fitch Carrere, a recent UNC graduate in journalism and mass communication, leads the venture.
+- **Students and Teachers Employing New Criteria in Learning (STENCIL)**, an educational, cloud-based software development firm. STENCIL's cloud-based software analyzes student attendance, behavior and course performance data and compares it to high school drop out warning signs. When a student is at risk, the software sends an alert to parents, teachers and administrators, giving them the chance to intervene at an early stage. The company is led by Julian Wooten, a UNC graduate who plans to enter the Kenan-Flagler MBA program in the fall, and Cameron Musler, a student in the entrepreneurship program at UNC Chapel Hill.
+
 The four new startups will join Impulsonic, Inc., which provides software tools to synthesize and propagate sound in video games and for acoustics design. The company's proprietary tools—including three patented sound technologies—are the result of six years of research and development by faculty and students in the UNC computer science department.  Anish Chandak, a Ph.D. student in computer science, and Dinesh Manocha, Phi Delta Theta/Mason Distinguished Professor of computer science, lead the company.
 
-For more information, visit the <a href="http://carolinalaunchpad.org/" target="_blank">Carolina Launch Pad website</a>.
+For more information, visit the [<a href="]Carolina Launch Pad website](http://carolinalaunchpad.org/).
 
-Related links:
+## Related links
 
-<a href="https://www.renci.org/">RENCI</a>
-<a href="http://www.kenan-flagler.unc.edu/" target="_blank">Kenan-Flagler Business School</a>
-<a href="http://otd.unc.edu/" target="_blank">UNC Office of Technology Development</a>
+- [Kenan-Flagler Business School](http://www.kenan-flagler.unc.edu/)
+- [UNC Office of Technology Development](http://otd.unc.edu/)
 
-Carolina Launch Pad and RENCI support the Innovate@Carolina Roadmap, UNC's plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu" target="_blank">http://innovate.unc.edu</a>.
+Carolina Launch Pad and RENCI support the Innovate@Carolina Roadmap, UNC's plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit [innovate.unc.edu](http://innovate.unc.edu).

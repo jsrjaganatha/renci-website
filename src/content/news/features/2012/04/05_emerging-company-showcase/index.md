@@ -21,8 +21,6 @@ tags:
 
 Fourteen startup companies based on innovations at the University of North Carolina at Chapel Hill will present at the annual Emerging Company Showcase on April 18.
 
-
-
 The lineup includes eight new scientific firms poised to market discoveries including devices for communication in the hospital, compounds for treating neuropathic pain and a variety of tools for areas such as supporting basic and neuroscience research, diagnosing and treating cancer, managing side effects of dialysis for end-stage kidney disease patients, training cardiothoracic surgeons and supporting clinical decisions.
 
 The showcase also includes six new technology firms offer solutions for community banking, water testing, sound engineering, online commerce and lesson planning for K-12 educators.
@@ -34,8 +32,6 @@ It is hosted by the Blackstone Entrepreneurs Network; Carolina KickStart; the No
 "The showcase provides a unique opportunity to see UNC's most promising startups," said Don Rose, Ph.D., director of Carolina KickStart, which is part of the NC TraCS institute, home of UNC's Clinical and Translational Science Awards from the National Institutes of Health. "For the firms, it provides an excellent forum for seeking capital, finding management and networking with the greater startup community. As in years past, we anticipate the event will result in fruitful connections and investment."
 
 Last year, more than 200 people attended the showcase, which featured 12 startups in two tracks for the first time: scientific and technology. Each company makes an eight-minute pitch, then a post-presentation session provides networking opportunities for all.
-
-&nbsp;
 
 "The tremendous growth in attendance each year is a testament to the quality of the companies presenting," added Rose.
 
@@ -52,10 +48,6 @@ Zoller is an instructor in Launching the Venture, a series of courses that help 
 "The Office of Technology Development is working with these companies to identify and protect the intellectual property assets that form the basis of these new ventures," said Cathy Innes, director of the UNC Office of Technology Development. "We work closely with Kenan-Flagler Business School, Carolina KickStart and RENCI to help them launch."
 
 The event supports the Innovate@Carolina Roadmap, UNC's plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu">innovate.unc.edu.</a>
-
-&nbsp;
-
-&nbsp;
 
 NC TraCS Institute contact: Michelle Maclay, (919) 843-5365, Michelle_Maclay@med.unc.edu
 

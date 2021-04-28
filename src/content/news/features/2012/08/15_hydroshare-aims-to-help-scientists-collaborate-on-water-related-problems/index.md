@@ -18,15 +18,18 @@ tags:
     -
 ---
 
-<img class="size-large wp-image-12067 alignleft" title="HydroShare" src="https://www.renci.org/wp-content/uploads/2013/11/HydroShare_Story_Header_Image_Edited.jpg" alt="" width="640" height="427" />
 
 CHAPEL HILL, NC - RENCI, the Renaissance Computing Institute at UNC Chapel Hill, will work with Utah State University and water scientists across the U.S. on a $4.5 million collaborative project funded by the National Science Foundation aimed at giving hydrologists the technology infrastructure they need to address critical issues related to water quality, quantity, accessibility, and management.
+
+![Close-up of water fountain](https://www.renci.org/wp-content/uploads/2013/11/HydroShare_Story_Header_Image_Edited.jpg)
 
 The project will expand the data sharing capabilities of the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI) Hydrologic Information System (HIS) and includes collaborators from Brigham Young University, the University of South Carolina, Purdue University, Tufts University, the University of Texas at Austin, and the University of California at San Diego.
 
 The five-year project provides $2.1 million to RENCI to develop infrastructure for an online collaborative environment for discovering, accessing and sharing water science data sets, models and computer simulations.
 
-[caption id="attachment_9325" align="alignleft" width="300"]<a href="https://www.renci.org/wp-content/uploads/2012/08/hydroshare-630x472.jpg"><img class="size-medium wp-image-9325 " title="hydroshare" src="https://www.renci.org/wp-content/uploads/2012/08/hydroshare-300x225.jpg" alt="" width="300" height="225" /></a> Above: Mockup of a potential HydroShare interface. The Web-based system will help hydrologists easily share data, models and workflows so they are better able to collaborate on solutions to critical problems of water quality, quantity, safety and access. Image courtesy of Jeff Horsburgh and David Tarboton, Utah State University[/caption]
+![Mockup of a potential HydroShare interface](https://www.renci.org/wp-content/uploads/2012/08/hydroshare.jpg)
+
+> Mockup of a potential HydroShare interface. The Web-based system will help hydrologists easily share data, models and workflows so they are better able to collaborate on solutions to critical problems of water quality, quantity, safety and access. Image courtesy of Jeff Horsburgh and David Tarboton, Utah State University[/caption]
 
 "Think of it as Facebook for hydrologists who want to work collaboratively sharing data and models," said David Tarboton of Utah State University, the lead principal investigator on the project.  Tarboton leads a multidisciplinary team spanning eight institutions that includes UNC PI Ray Idaszak, RENCI's director of collaborative environments and technical coordinator for the project, and co-PI Larry Band, director of UNC Chapel Hill's Institute for the Environment.
 
@@ -40,11 +43,11 @@ CUAHSI HIS connects hydrologic databases housed on servers across the U.S. The w
 
 The funding period began July 1 and a kickoff meeting will be held in the fall.
 
-<strong class="head2">More information:</strong>
-<a href="https://www.renci.org">RENCI</a>
-<a href="http://www.cuahsi.org" target="_blank">CUAHSI</a>
-<a href="http://www.usu.edu" target="_blank">Utah State University</a>
-<a href="http://www.ie.unc.edu" target="_blank">UNC Institute for the Environment</a>
+## More information
+
+- [CUAHSI](http://www.cuahsi.org)
+- [Utah State University](http://www.usu.edu)
+- [UNC Institute for the Environment](http://www.ie.unc.edu)
 
 <!-- old tags
 ["CUAHSI","Data Intensive Cyber Environments (DICE)","HydroShare","iRODS","National Science Foundation (NSF)","Utah State University","water science"]

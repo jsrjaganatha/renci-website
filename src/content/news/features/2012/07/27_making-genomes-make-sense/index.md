@@ -9,7 +9,10 @@ groups:
 projects:
     - 
 people:
-    - 
+    - chris-bizon
+    - phil-owen
+    - jason-reilly
+    - erik-scott
 teams: 
     - 
 collaborations:
@@ -18,9 +21,9 @@ tags:
     -
 ---
 
-https://www.youtube.com/watch?v=l4B2gF1h6mo
-
 CHAPEL HILL, NC - Sometimes, technology progresses faster than our ability to take advantage of it. The Internet was the domain of the U.S. Department of Defense and a handful of scientists before enterprising college students and technology geeks figured out how to make money off it and launched the "dot.com" era. Similarly, in only a decade, technology has transformed the sequencing of a whole human genome from a scientific milestone costing about $3 billion to a relatively routine affair costing several thousand dollars. But using this wealth of genomic data to improve healthcare and human health has proven to be a tougher nut to crack. 
+
+[![Play video of Jim Evans interview](https://img.youtube.com/vi/l4B2gF1h6mo/0.jpg)](https://www.youtube.com/watch?v=l4B2gF1h6mo "Jim Evans Interview")
 
 Whole genome sequencing—examining in detail all of an individual's DNA—has the potential to help researchers and clinicians diagnose genetically caused diseases, pinpoint people at high risk for diseases before they show symptoms, and guide new disease treatments, according to Jim Evans, MD, PhD, and Bryson Professor of Genetics and Medicine at the University of North Carolina School of Medicine.
 
@@ -36,7 +39,7 @@ As Evans explained, traditional genetic testing as a tool in diagnosing and trea
 
 Over four years, about 750 patients from UNC hospitals and clinics will have their genomes sequenced and analyzed through NCGENES.  The study will enroll undiagnosed patients within three broad disease categories with likely genetic causes: neurodevelopmental disorders in children, hereditary cancer susceptibility, and genetic cardiac disorders. The analysis will first look for diagnostic information—mutations in genes known to cause specific disorders. The researchers also will look for medically relevant incidental findings by examining other genes known to influence or cause disease.
 
-<strong class="renci_head" style="font-weight: bold;">To know or not to know</strong>
+## To know or not to know
 
 By focusing on well-known and understood genetic markers, the researchers hope to implement a simpler, scalable method for finding useful health related information in the huge volume of data that comprise a human genome. In turn, that information can be used to make evidence-based diagnoses and treatment decisions.
 
@@ -50,7 +53,7 @@ By classifying findings into categories, the researchers hope to give patients a
 
 One arm of the NCGENES study will examine how patients respond to potentially troubling genetic findings by asking some study participants to choose whether they want to receive incidental findings about untreatable conditions, said Evans. That research will gather data on what people want (and don't want) to know about their genetics, what factors influence their decisions, and how information about genetic diseases changes peoples' attitudes and behaviors.
 
-<strong class="renci_head" style="font-weight: bold;">A step toward personalized medicine</strong>
+## A step toward personalized medicine
 
 Obtaining, sequencing and analyzing DNA samples from human subjects involves the work of multiple laboratories, careful tracking of sensitive personal information, and an analysis system that categorizes genetic material based on the parameters established by the researchers.
 
@@ -68,15 +71,15 @@ The workflow management system even coordinates the process of confirming suspic
 
 "From start to finish, it's a very complicated process," said Evans. "If we want to be able to analyze many samples in a way that is useful for diagnosis and treatment, we need to do it systematically and in an expeditious manner. That's what this project is trying to do: systemize genetic analysis so patients can benefit in real time."
 
-###
+* * *
 
 This research is funded by a four-year, $8 million grant from the National Human Genome Research Institute.
 
-<strong>Principal Investigator:</strong> Jim Evans, Ph.D., M.D, UNC Department of Genetics
+- **Principal Investigator:** Jim Evans, Ph.D., M.D, UNC Department of Genetics
 
-<span class="renci_head"><strong>Co PIs:</strong> </span>Jonathan Berg, M.D., Ph.D., UNC Department of Genetics; Kirk Wilhelmsen, M.D., Ph.D., RENCI and UNC Department of Genetics; Karen Weck, M.D., UNC Molecular Genetics Laboratory; Gail Henderson, Ph.D., UNC Department of Social Medicine
+- **Co PIs:** Jonathan Berg, M.D., Ph.D., UNC Department of Genetics; Kirk Wilhelmsen, M.D., Ph.D., RENCI and UNC Department of Genetics; Karen Weck, M.D., UNC Molecular Genetics Laboratory; Gail Henderson, Ph.D., UNC Department of Social Medicine
 
-<strong><span class="renci_head">RENCI Team:</span> Chris Bizon, Phil Owen, Keary Cavin, Nassib Nassar, Jason Reilly, Charles Schmitt, Erik Scott, Xiaoshu Wang</strong>
+- **RENCI Team:** Chris Bizon, Phil Owen, Keary Cavin, Nassib Nassar, Jason Reilly, Charles Schmitt, Erik Scott, Xiaoshu Wang</strong>
 
 <!-- old tags
 

@@ -17,11 +17,10 @@ collaborations:
 tags:
     - 
 ---
-&nbsp;
-
-<img class="size-large wp-image-12067 alignleft" title="E-iRODS" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/eirods-logo-l-630x173.png" width="640" height="176" />
 
 RENCI is pleased to announce the second beta release, version 3.0b2, of the new E-iRODS binary distribution.  This release marks a continued progress toward the first full release of E-iRODS, which will be backed up by extensive unit, functional, and regression testing, running continuously on RENCI's open infrastructure. Support and documentation will also be available.
+
+![E-iRODS logo with lowercase "e" rotated 45 degrees in teal square](https://www.renci.org/wp-content/uploads/2013/11/eirods-logo-l-630x173.png)
 
 E-iRODS is the Enterprise version of the integrated Rule-Oriented Data System (iRODS), a data grid infrastructure that allows distributed data to be viewed, shared, and managed as a single collection, with support for metadata and discovery. The technology also provides a powerful framework for implementing distributed data management policies.
 
