@@ -53,7 +53,7 @@ const FooterContents = () => {
         <Col xs={ 12 }>
           <Img fixed={ logo } style={{ width: '82.5px', height: '54px', margin: 0 }} /> <br/>
         </Col>
-        <Col xs={ 12 } md={ 6 } lg={ 3 }>
+        <Col xs={ 12 } md={ 6 } lg={ 5 }>
           <p>
             RENCI Anchor at Europa Center <br/>
             100 Europa Drive, Suite 540 <br/>
@@ -63,15 +63,6 @@ const FooterContents = () => {
           <p>919-445-9540</p>
         </Col>
         <Col xs={ 12 } md={ 6 } lg={ 3 }>
-          <strong>More</strong>
-          <p>
-            <Link to="/about">About</Link> <br/>
-            <Link to="/branding">Branding</Link> <br/>
-            <Link to="/careers">Careers</Link> <br/>
-            Room Reservations
-          </p>
-        </Col>
-        <Col xs={ 12 } md={ 6 } lg={ 3 }>
           <strong>Partners</strong>
           <p>
             <Link to="https://www.unc.edu/">UNC-Chapel Hill</Link> <br/>
@@ -79,7 +70,7 @@ const FooterContents = () => {
             <Link to="https://duke.edu/">Duke University</Link>
           </p>
         </Col>
-        <Col xs={ 12 } md={ 6 } lg={ 3 }>
+        <Col xs={ 12 } md={ 6 } lg={ 2 }>
           <strong>Connect</strong>
           <p>
             <Link to="https://www.twitter.com/RENCI">Twitter</Link> <br/>
@@ -88,7 +79,15 @@ const FooterContents = () => {
             <Link to="https://www.youtube.com/RENCIMedia">YouTube</Link> <br/>
           </p>
         </Col>
-        <Col xs={ 12 }>
+        <Col xs={ 12 } md={ 6 } lg={ 2 }>
+          <strong>More</strong>
+          <p>
+            <Link to="/about">About</Link> <br/>
+            <Link to="/careers">Careers</Link> <br/>
+            <Link to="https://dashboard.renci.org/">RENCI Dashboard</Link> <br/>
+          </p>
+        </Col>
+        <Col xs={ 12 } style={{ textAlign: 'center' }}>
           &copy; { new Date().getFullYear() }
         </Col>
       </Row>
