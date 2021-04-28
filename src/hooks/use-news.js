@@ -5,108 +5,104 @@ const newsQuery = graphql`{
     filter: {fileAbsolutePath: {regex: "/content\/news\/features/"}},
     sort: {fields: frontmatter___publishDate, order: DESC}
   ) {
-    edges {
-      node {
-        id
-        fileAbsolutePath
-        frontmatter {
-          title
-          slug
-          spotlight
-          featuredImage {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
+    nodes {
+      id
+      fileAbsolutePath
+      frontmatter {
+        title
+        slug
+        spotlight
+        featuredImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
             }
-          }
-          previewImage {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-          publishDate(formatString: "MMMM D, YYYY")
-          author {
-            id
-            name {
-              first
-              last
-            }
-          }
-          groups {
-            id
-          }
-          collaborations {
-            id
-          }
-          projects {
-            id
-          }
-          tags {
-            id
           }
         }
-        fields {
-          path
-          newsType
+        previewImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
         }
-        excerpt(pruneLength: 500)
+        publishDate(formatString: "MMMM D, YYYY")
+        author {
+          id
+          name {
+            first
+            last
+          }
+        }
+        groups {
+          id
+        }
+        collaborations {
+          id
+        }
+        projects {
+          id
+        }
+        tags {
+          id
+        }
       }
+      fields {
+        path
+        newsType
+      }
+      excerpt(pruneLength: 500)
     }
   }
   blog: allMarkdownRemark(
     filter: {fileAbsolutePath: {regex: "/content\/news\/blog/"}},
     sort: {fields: frontmatter___publishDate, order: DESC}
   ) {
-    edges {
-      node {
-        id
-        fileAbsolutePath
-        frontmatter {
-          title
-          slug
-          spotlight
-          featuredImage {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
+    nodes {
+      id
+      fileAbsolutePath
+      frontmatter {
+        title
+        slug
+        spotlight
+        featuredImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
             }
-          }
-          previewImage {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-          publishDate(formatString: "MMMM D, YYYY")
-          author {
-            id
-            name {
-              first
-              last
-            }
-          }
-          groups {
-            id
-          }
-          collaborations {
-            id
-          }
-          projects {
-            id
           }
         }
-        fields {
-          path
-          newsType
+        previewImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
         }
-        html
-        excerpt(pruneLength: 500)
+        publishDate(formatString: "MMMM D, YYYY")
+        author {
+          id
+          name {
+            first
+            last
+          }
+        }
+        groups {
+          id
+        }
+        collaborations {
+          id
+        }
+        projects {
+          id
+        }
       }
+      fields {
+        path
+        newsType
+      }
+      html
+      excerpt(pruneLength: 500)
     }
   }
   spotlightSlugs: allNewsSpotlightYaml {
@@ -120,7 +116,7 @@ export const useNews = () => {
   const news = useStaticQuery(newsQuery)
   const spotlightSlugs = news.spotlightSlugs.nodes.map(node => node.slug)
 
-  const features = news.features.edges.map(({ node }) => {
+  const features = news.features.nodes.map(node => {
     // read date from the file path, and set client route
     const matches = node.fileAbsolutePath.match(/content\/news\/features\/(\d{4})\/(\d{2})\/.+\/index.md$/)
     if (matches) {
@@ -131,7 +127,7 @@ export const useNews = () => {
     return node
   })
 
-  const blog = news.blog.edges.map(({ node }) => {
+  const blog = news.blog.nodes.map(node => {
     // read date from the file path, and set client route
     const matches = node.fileAbsolutePath.match(/content\/news\/blog\/(\d{4})\/(\d{2})\/.+\/index.md$/)
     if (matches) {
@@ -143,7 +139,7 @@ export const useNews = () => {
   })
 
   const articles = [...features, ...blog]
-    .sort((a, b) => new Date(a.frontmatter.publishDate) - new Date(b.frontmatter.publishDate))
+    .sort((a, b) => new Date(a.frontmatter.publishDate) - new Date(b.frontmatter.publishDate) ? 1 : -1)
 
   const spotlight = articles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
 
