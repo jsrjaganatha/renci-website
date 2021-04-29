@@ -9,7 +9,7 @@ import { Label } from './label'
 import { NewsDate } from './news-date'
 
 const Wrapper = styled.article`
-  margin: 0;
+  margin-bottom: 2rem;
 `
 
 const TitleContainer = styled.div`
