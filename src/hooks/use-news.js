@@ -139,16 +139,16 @@ export const useNews = () => {
   })
 
   const articles = [...features, ...blog]
-    .sort((a, b) => new Date(a.frontmatter.publishDate) - new Date(b.frontmatter.publishDate) ? 1 : -1)
+  const sortedArticles = articles
+    .sort((a, b) => {
+      const aDate = new Date(a.frontmatter.publishDate)
+      const bDate = new Date(b.frontmatter.publishDate)
+      return (bDate - aDate)
+    })
 
-  const spotlight = articles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
+  const spotlight = sortedArticles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
 
-  const latest = articles.sort((a, b) => a.frontmatter.publishDate < a.frontmatter.publishDate ? -1 : 1).slice(0,3)
+  const latest = sortedArticles.slice(0,3)
 
-  return { articles, spotlight, latest }
-}
-
-export const useNewsSpotlight = () => {
-  const spotlightArticles = useNews().filter(article => article.frontmatter.spotlight === true)
-  return spotlightArticles
+  return { articles: sortedArticles, spotlight, latest }
 }

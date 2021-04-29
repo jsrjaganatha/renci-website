@@ -21,12 +21,10 @@ export default ({ data, pageContext }) => {
   }} = data
 
   const [currentProjects, setCurrentProjects] = useState([])
-  const [pastProjects, setPastProjects] = useState([])
 
   useEffect(() => {
     if (projects) {
       setCurrentProjects(projects.filter(project => !project.archived))
-      setPastProjects(projects.filter(project => project.archived))
     }
   }, [projects])
 
@@ -76,20 +74,6 @@ export default ({ data, pageContext }) => {
                 partners && (
                   <Article title="Partners">
                     <OrganizationsList contributors={ partners } />
-                  </Article>
-                )
-              }
-            </Section>
-          )
-        }
-        
-        {
-          pastProjects && (
-            <Section title="Past Projects">
-              {
-                pastProjects.length > 0 && (
-                  <Article title="Past Projects">
-                    <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                   </Article>
                 )
               }

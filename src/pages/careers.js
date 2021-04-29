@@ -17,7 +17,7 @@ const CareersPage = () => {
         <SEO title="RENCI Careers" />
 
         <Section title="Why RENCI?">
-          <Article title="Because it's Cool">
+          <Article title="">
             <Paragraph>
               RENCI's inclusive, creative method transcends disciplinary boundaries to catalyze data-driven discovery and innovation for the public good.
               A career at RENCI offers a stimulating, collaborative environment where you can unleash your intellectual potential to advance technology and accelereate research.

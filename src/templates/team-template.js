@@ -8,7 +8,7 @@ import { PeopleList } from '../components/people'
 export default ({ data, pageContext }) => {
   const { teamsYaml: {
     name,
-    blurb,
+    role,
     description,
     members,
     featuredImage
@@ -20,18 +20,10 @@ export default ({ data, pageContext }) => {
 
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
         <Title>{ name }</Title>
-        <p>
-          { blurb }
-        </p>
+        <Paragraph>{ description }</Paragraph>
       </Hero>
 
       <Container>
-        <Section title="Team Details">
-          <Article title="Description">
-            <div dangerouslySetInnerHTML={{ __html: description }} />
-          </Article>
-        </Section>
-
         <Section title="Team Members">
           <Article>
             <PeopleList members={ members.sort((p, q) => p.name.last > q.name.last ? 1 : -1) } />
@@ -47,8 +39,14 @@ export const teamQuery = graphql`
   query($id: String!) {
     teamsYaml( id: { eq: $id }) {
       name
-      blurb
       description
+      featuredImage {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
       members {
         id
         fullName

@@ -1,8 +1,9 @@
 id: communications
 name: Communications
-blurb: >
+featuredImage: communications.jpg
+description: >
   The Communications Team works across groups at RENCI to support marketing, branding, website development, and outreach efforts. 
-description: !markdown |
+role: !markdown |
   The Communications Team works across groups at RENCI to support marketing, branding, website development, and outreach efforts. The team is responsible for developing and executing a comprehensive communications strategy across all research groups at RENCI. The Communications Team ensures that RENCI projects maintain brand identity and integrity through content creation, marketing and outreach efforts, graphic design and web and app development, with an emphasis on thoughtful user interfaces and experiences. 
 members:
   - id: marcus-anderson

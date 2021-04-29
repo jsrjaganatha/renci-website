@@ -1,8 +1,9 @@
 id: ood
 name: Office of the Director
-role: >
+featuredImage: ood.jpg
+description: >
   The Office of the Director (OOD) holds responsibility for managing RENCI’s overall performance and future strategic direction. It is their responsibility to ensure that the department runs smoothly and with the utmost financial stability possible.
-description: !markdown |
+role: !markdown |
   The Office of the Director (OOD) holds responsibility for managing RENCI’s overall performance and future strategic direction. In close collaboration with divisions throughout RENCI, the OOD develops organizational capabilities, oversees strategic sustainability planning, and supports current and future research and development. To bolster RENCI’s continued growth, the OOD also focuses on improving internal operations and processes, supporting staff in professional development efforts, and growing a collaborative, inclusive culture. 
 members:
   - id: stan-ahalt

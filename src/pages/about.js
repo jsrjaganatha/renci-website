@@ -78,20 +78,6 @@ const AboutPage = () => {
         <ArrowLink to="#" text="View our Strategic Plan" float="right" />
       </Section>
 
-      <Section title="History">
-        <Article title="In the Beginning">
-          <Paragraph>
-             In the beginning... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, consequuntur distinctio omnis esse, nulla praesentium perspiciatis ut accusantium sed, incidunt labore optio eius laudantium unde cupiditate? Porro aliquam, reiciendis quam!
-           </Paragraph>
-        </Article>
-
-        <Article title="In Recent Years">
-          <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis omnis provident ut commodi ea, hic dolores nulla. Delectus est omnis laborum veritatis quae voluptatum, nulla quis possimus esse quia tenetur. Dolorum labore vitae cupiditate provident tempore alias totam, maiores suscipit, minus eligendi commodi temporibus ex sequi voluptate esse fugit eum, quis iusto distinctio earum? Commodi deserunt similique, voluptas saepe! Recusandae iure alias, quas at illo nobis. Eaque totam, asperiores fuga at qui laudantium. Saepe quos, repellendus. Id tenetur vitae enim minima repudiandae, illum iure aperiam expedita soluta aut tempore voluptas quo cumque repellat eveniet odio numquam nisi deserunt possimus aliquid.
-          </Paragraph>
-        </Article>
-      </Section>
-
     </Container>
   )
 }

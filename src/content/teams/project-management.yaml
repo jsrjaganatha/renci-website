@@ -1,8 +1,9 @@
 id: project-management
 name: Project Management
-blurb: >
+featuredImage: project-management.jpg
+description: >
   The Project Management team is responsible for managing highly complex research and team science coordination projects at RENCI. 
-description: !markdown |
+role: !markdown |
   The Project Management team is responsible for managing highly complex research and team science coordination projects at RENCI. The team is responsible for developing the project management strategy, supporting project plans, and managing project execution to ensure adherence to budget, schedule, reporting, deliverable requirements, and scope. Project Managers support proposal development on already assigned projects and potentially new, large collaborations.
 members:
   - id: laura-capps

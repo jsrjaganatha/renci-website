@@ -1,8 +1,9 @@
 id: hr
 name: Human Resources
-role: >
+featuredImage: hr.jpg
+description: >
   The Human Resources (HR) team fosters an environment of inclusion, effectiveness, and support for the entire RENCI community.
-description: !markdown |
+role: !markdown |
   The Human Resources team fosters an environment of inclusion, effectiveness, and support for the entire RENCI community. The team is responsible for maintaining a culture of excellence that embraces inclusion and equitable practices, enhancing workforce effectiveness across all teams, and sharing resources for employee assistance with the RENCI workforce. Additionally, HR Managers promotes UNC Chapel-Hill’s commitment to research by supporting and enriching hiring practices. 
 members:
   - id: schinae-gross-williams
