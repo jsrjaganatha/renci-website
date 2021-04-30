@@ -36,10 +36,10 @@ RENCI will contribute expertise through its projects [DyNamo](http://nrig.renci.
 
 FABRIC itself plays a large role in the FlyNet project. A primary goal of the FlyNet project is to bridge the abstraction gap between the scientists and their usage of the FABRIC infrastructure. FABRIC will be used to move high volume data collected from the drones and cameras through the network. With support from RENCI’s implementation of the DyNamo network platform, Mobius, FABRIC’s in-network processing will allow operation on the data while the data is being shipped through the network. The FABRIC infrastructure also includes core network nodes which each have different computing capacities that can be leveraged for in-network processing. 
 
-“We’re excited to see how we can help advance drone capabilities through our work here at RENCI,” said [Anirban Mandal](https://nrig.renci.org/staff/anirban-mandal/), assistant director of the Network Research & Infrastructure Group at RENCI. “Part of the FlyNet charge for RENCI is to extend the Mobius platform and use application-centric programs to leverage these new in-network processing capabilities offered by FABRIC.”
+“We’re excited to see how we can help advance drone capabilities through our work here at RENCI,” said [Anirban Mandal](http://nrig.renci.org/staff/anirban-mandal/), assistant director of the Network Research & Infrastructure Group at RENCI. “Part of the FlyNet charge for RENCI is to extend the Mobius platform and use application-centric programs to leverage these new in-network processing capabilities offered by FABRIC.”
 
 The project team will enable access to a rich set of resources for researchers and educators from a diverse set of institutions, including historically black colleges and universities (HBCUs), community colleges, and women’s colleges, to further democratize research. In addition, collaboration with the NSF’s Research Experience for Undergraduates Sites in Computer Networking will promote participation of under-served/under-represented students in project activities.
 
-More information about the project is available at [https://www.flynet-ci.org](https://www.flynet-ci.org).
+More information about the project is available at [https://www.flynet-ci.org](http://www.flynet-ci.org).
 
 _By Jayasree Jaganatha, Communications & Marketing Specialist, & Tanvi Krishnamurthy, Communications Intern, RENCI_
