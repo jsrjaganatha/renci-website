@@ -65,4 +65,4 @@ The South Hub is one of four regional Big Data Hubs that work to accelerate part
 [National Science Foundation News Release](https://www.nsf.gov/news/news_summ.jsp?cntn_id=189864)  
 [Midwest Big Data Hub](http://midwestbigdatahub.org/)  
 [Northeast Big Data Hub](http://nebigdatahub.org/)  
-[West Big Data Hub](http://midwestbigdatahub.org/)
+[West Big Data Hub](http://westbigdatahub.org/)
