@@ -24,7 +24,7 @@ export default ({ data, pageContext }) => {
 
   useEffect(() => {
     if (projects) {
-      setCurrentProjects(projects.filter(project => !project.archived))
+      setCurrentProjects(projects.filter(project => !project.archived).sort((p, q) => p.name.toLowerCase() < q.name.toLowerCase() ? -1 : 1))
     }
   }, [projects])
 
