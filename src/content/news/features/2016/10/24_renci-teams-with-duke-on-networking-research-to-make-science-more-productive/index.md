@@ -26,7 +26,7 @@ tags:
 
 CHAPEL HILL, NC - RENCI will lead a $1 million research project to securely automate and monitor the creation of virtual "superfacilities" that link scientists to multiple resources to increase their productivity.
 
-The award from the National Science Foundation's [Cybersecurity Innovation for Cyberinfrastructure](https://www.nsf.gov/pubs/2016/nsf16533/nsf16533.htm) (CICI) program will provide three years of funding to RENCI's [Network Research and Infrastructure group](http://nrig.renci.org/) and to partners in the [Duke University computer science](http://www.cs.duke.edu/) department and Duke's [Office of Information Technology](http://oit.duke.edu/).
+The award from the National Science Foundation's [Cybersecurity Innovation for Cyberinfrastructure](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505159) (CICI) program will provide three years of funding to RENCI's [Network Research and Infrastructure group](http://nrig.renci.org/) and to partners in the [Duke University computer science](http://www.cs.duke.edu/) department and Duke's [Office of Information Technology](http://oit.duke.edu/).
 
 As science becomes increasingly collaborative, scientists use more facilities that they access over networks, including scientific instruments, computing resources, and data repositories—so much so that some researchers have coined the term superfacilities to describe the integration of two or more facilities using high performance networks and data management. Today's superfacilities are manually built for specific applications or communities, a fact that has limited their use to larger, long-lived projects.
 
