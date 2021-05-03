@@ -1,6 +1,6 @@
-id: biodata-catalyst
+id: bdc3
 name: BioData Catalyst Coordinating Center
-featuredImage: biodata-catalyst.jpg
+featuredImage: bdc3.jpg
 description: >
   The BioData Catalyst Coordinating Center coordinates project management, communications, project reporting, and collaboration standards for the NHLBI BioData Catalyst project. BioData Catalyst is a cloud-based ecosystem providing tools, applications, and workflows in secure workspaces. 
 renciRole: !markdown |
