@@ -10,10 +10,10 @@ const Wrapper = styled.div`
   margin: 0;
   & .gatsby-image-wrapper {
     transition: filter 250ms;
-    filter: saturate(0.6);
+    filter: saturate(0.5);
   }
   &:hover .gatsby-image-wrapper {
-    filter: saturate(0.9);
+    filter: saturate(0.75);
   }
 `
 
