@@ -25,6 +25,7 @@ const BodyContainer = styled.div`
   max-height: 150px;
   overflow-y: hidden;
   position: relative;
+  margin-bottom: 1rem;
   &::after {
     content: "";
     position: absolute;
