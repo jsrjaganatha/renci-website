@@ -4,7 +4,7 @@ slug: renci-to-develop-network-software-for-aw-sdx
 link: https://renci.org/blog/renci-to-develop-advanced-network-software-for-atlanticwave-sdx-2-0/
 publishDate: 2021-02-03
 author:
-featuredImage: null
+featuredImage: atl-wave.png
 groups:
     - 
 projects:
@@ -18,8 +18,6 @@ collaborations:
 tags:
     - 
 ---
-
-![](AltanticWave-SDX-01-1024x512.png)
 
 Sharing big data requires big networks. Systems like [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/), which connects networks in the U.S., Chile, Brazil, and South Africa, provide specialized infrastructure needed to send vast amounts of scientific data across long distances, helping scientists make the most of powerful data collections.
 
