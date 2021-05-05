@@ -16,6 +16,9 @@ const NavHeading = styled(Heading)`
 const NavList = styled.ul`
   list-style-type: none;
   margin: 0;
+  & > li {
+    padding: 0;
+  }
 `
 
 const NavListItem = styled.li`
