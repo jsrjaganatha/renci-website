@@ -51,7 +51,7 @@ Hannah Hiles, research project manager, was originally contacted by her friends 
 
 She encourages those who want to help to use any and all skills at their disposal. According to Hiles, if you have a 3-D printer and want to contribute to face mask assistance, there is a high demand for [Ear Saver Strap Extensions](https://3dprint.nih.gov/discover/3dpx-013759) that can help reduce strain on healthcare practitioners' ears.
 
-Hiles has also donated her time to the state and national chapters of [Mask Warriors](https://facemaskwarriors.com/), an organization that collects data from mask seekers and connects them to mask makers. She serves as an organizer to make sure the right kinds of masks get distributed to the right people.
+Hiles has also donated her time to the state and national chapters of Mask Warriors, an organization that collects data from mask seekers and connects them to mask makers. She serves as an organizer to make sure the right kinds of masks get distributed to the right people.
 
 ### Assisting Food Banks
 
