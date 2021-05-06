@@ -55,6 +55,6 @@ Other tips for building a strong and diverse data science workforce included:
 
 For those interested in learning more about issues related to diversity and inclusion, the 2018 Diversity & Inclusion Conference will be held August 9 at the Brier Creek Country Club in Raleigh, NC. The conference, titled _Inclusive Excellence and the Urgency of Now_, will include sessions on best practices for understanding bias in the hiring process, retention strategies, panel discussions (women, millennials and CEO), and a session aimed at driving inclusion in membership organizations.
 
-For more information and to register for the conference, check out the [2018 Diversity & Inclusion Conference website](https://diversityhrsolutions.com/inclusive-excellence-conference/#speakers).
+For more information and to register for the conference, check out the [Diversity & Inclusion Conference website](https://diversityhrsolutions.com/).
 
 _—Karen Green_
