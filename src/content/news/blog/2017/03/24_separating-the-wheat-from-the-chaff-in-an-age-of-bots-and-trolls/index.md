@@ -22,9 +22,9 @@ In the age of ubiquitous connectivity and social media, information is at our fi
 
 ![](https://renci.org/wp-content/uploads/2017/03/bots-and-trolls2.jpg)
 
-A recent roundtable discussion sponsored by the [South Big Data Hub](https://wordpress.com/stats/day/southbdhub.wordpress.com) examined the rapidly changing landscape for building online communities, sharing information, and creating what often appears to be a groundswell of support for particular points of view.
+A recent roundtable discussion sponsored by the [South Big Data Hub](http://southbigdatahub.org/) examined the rapidly changing landscape for building online communities, sharing information, and creating what often appears to be a groundswell of support for particular points of view.
 
-The roundtable panelists have studied social media data and worked to understand its impacts for years. They have a wide range of experience in computer science, data science, and the behavioral and social sciences (for panelist bios, click [here](https://southbdhub.wordpress.com/anti-social-computing-bots-lies-and-the-new-information-environment/)).
+The roundtable panelists have studied social media data and worked to understand its impacts for years. They have a wide range of experience in computer science, data science, and the behavioral and social sciences (for panelist bios, click [here](http://sbdh-prod.ideas.gatech.edu/content/expert-panelists-discuss-bots-lies-and-new-information-environment)).
 
 According to one of those panelists, Kathleen M. Carley, PhD, of Carnegie Mellon University, social media, easy access to the internet, and the proliferation of bots (web "robot" software that runs automated tasks over the internet) and trolls (people who seek arguments on the internet) has turned discourse about big ideas into "a wild west." The cast of characters on this new frontier include [Anonymous](http://anonofficial.com/)—loosely associated group of international network hackers and activists who generally oppose internet censorship—and social media platforms like Twitter and YouTube, who police their sites and evolve and change on a daily basis.
 
