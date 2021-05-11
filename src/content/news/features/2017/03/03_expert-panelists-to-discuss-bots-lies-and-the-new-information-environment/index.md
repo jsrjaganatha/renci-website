@@ -23,7 +23,7 @@ The explosion of social media, blogs, and websites purporting to be news sources
 
 The South Big Data Innovation Hub will bring together four experts for a roundtable discussion that explores how bots and other new phenomena are shaping conversations and shifting public discourse. The impact of these technologies and social media platforms can build bridges among groups who might not otherwise connect and promote positive change. However, those same tools can be harnessed to spread misinformation or used by terrorist groups. The Brookings Institution, for example, estimates ISIS has more than 70,000 Twitter accounts.
 
-The roundtable discussion Anti-Social Computing: Bots, Lies, and the New Information Environment will be webcast from noon – 1:15 p.m. Thursday, March 9. The webcast is free and open to all. The public can also attend the roundtable in person at Carnegie Mellon University in Pittsburgh. For details or to register for the webinar, click <a href="https://southbdhub.wordpress.com/programs/virtual-roundtables/" target="_blank">here</a>.
+The roundtable discussion Anti-Social Computing: Bots, Lies, and the New Information Environment will be webcast from noon – 1:15 p.m. Thursday, March 9. The webcast is free and open to all. The public can also attend the roundtable in person at Carnegie Mellon University in Pittsburgh. For details or to register for the webinar, click [here](https://southbigdatahub.org/resources/newsblog/expert-panelists-discuss-bots-lies-and-new-information-environment).
 
 ## About the panelists
 
@@ -44,4 +44,4 @@ Waltzman, is a senior information scientist at the RAND Corporation . Prior to 
 _Lea Shanley, PhD, South Big Data Hub_  
 Shanley is the co-Executive Director of the South Big Data Hub. She was the founding director of the Washington-based Wilson Center's Commons Lab, guiding strategic research in social media, social computing, and big data for disaster response and humanitarian assistance.
 
-The roundtable is sponsored by the South Big Data Regional Innovation Hub, an initiative to build public-private partnerships that apply data science and analytics to scientific and regional challenges. The South Hub is one of a network of four Big Data Regional Innovation Hubs funded by the National Science Foundation. For more information, visit the [South Hub website](http://southbdhub.com/).
+The roundtable is sponsored by the South Big Data Regional Innovation Hub, an initiative to build public-private partnerships that apply data science and analytics to scientific and regional challenges. The South Hub is one of a network of four Big Data Regional Innovation Hubs funded by the National Science Foundation. For more information, visit the [South Hub website](http://southbigdatahub.org/).
