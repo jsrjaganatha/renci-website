@@ -24,11 +24,11 @@ The explosion of digital data means changes in how we work, play, and interact w
 
 What started as an effort to integrate multiple information and communication technologies with sensors that collect data about transportation systems, power plant usage, water supply networks, and more has evolved into a transformation of urban environments using a data infrastructure that can monitor events, troubleshoot problems, and enable a better quality of life.
 
-The [South Big Data Hub](https://southbdhub.wordpress.com/) will bring together leaders of the Smart Cities movement on Friday, Oct. 14 to discuss the data challenges—and the unprecedented opportunities—of creating smart and connected cities. The Smart and Connected Cities Community of Practice webinar runs from noon to 1:30 p.m. Eastern time and is open to all. To join the webinar, click [here](https://renci.webex.com/mw3100/mywebex/default.do?service=1&siteurl=renci&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Drenci%26AT%3DMI%26EventID%3D482477322%26UID%3D0%26Host%3DQUhTSwAAAAIZuHW8I572udXfZrz6QtQUYnsYJjJnzMoPGDkSDDb_XvnpZuUJ-jaAMO).
+The [South Big Data Hub](https://southbdhub.wordpress.com/) will bring together leaders of the Smart Cities movement on Friday, Oct. 14 to discuss the data challenges—and the unprecedented opportunities—of creating smart and connected cities. The Smart and Connected Cities Community of Practice webinar runs from noon to 1:30 p.m. Eastern time and is open to all.
 
 Featured speakers at the webinar will be:
 
-*   Daniel Morgan, the first-ever chief data scientist at the U.S. Department of Transportation. Morgan will talk about the [DOT's data challenge](https://www.data.gov/safety/us-department-transportation-data-challenge/), which encourages developers to build apps that address public safety, access to transportation, and that help the department better understand and reduce traffic congestion.
+*   Daniel Morgan, the first-ever chief data scientist at the U.S. Department of Transportation. Morgan will talk about the [DOT's data challenge](https://www.transportation.gov/datachallenge), which encourages developers to build apps that address public safety, access to transportation, and that help the department better understand and reduce traffic congestion.
 
 *   Tony Hamilton, of the [IEEE Smart Cities Working Group](http://smartcities.ieee.org/). This working group of the Institute of Electrical and Electronics Engineers emerged to assist municipalities as they transition into Smart Cities. This includes raising awareness of the benefits and downsides of technology and guiding the appropriate uses of technology.
 
