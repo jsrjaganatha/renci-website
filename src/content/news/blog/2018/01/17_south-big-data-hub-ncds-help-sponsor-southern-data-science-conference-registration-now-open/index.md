@@ -27,7 +27,7 @@ The South Big Data Hub is one of the sponsors of the conference, which is expect
 
 SDSC 18 is the second annual Southern Data Science Conference and this year, a research track has been added, where academics and students from top research institutions will share their work during a poster session. The research track aims to bridge the gaps between data scientists in industry, academia, and government. The research poster session will give graduate students and academic researchers the chance to present their ongoing work to industry leaders, and will provide industry attendees the opportunity to recruit new talent or form new collaborations.
 
-Researchers whose posters are accepted for the conference will have their registration fees paid by the NCDS. In addition, the NCDS will present prizes to the three best posters as selected by the conference program committee. Poster submissions are due Jan. 26 and can be submitted [here](https://www.southerndatascience.com/submission-guidline).
+Researchers whose posters are accepted for the conference will have their registration fees paid by the NCDS. In addition, the NCDS will present prizes to the three best posters as selected by the conference program committee. Poster submissions are due Jan. 26 and can be submitted [here](https://www.southerndatascience.com/).
 
 Keynote addresses will be presented by Kirk Borne, principal data scientist at Booz Allen Hamilton; and Jane Eggers, CEO of Nara Logics. Other speakers represent some of the biggest names in the technology and data science sectors, including Google, Facebook, Uber, Intel, and Microsoft.
 

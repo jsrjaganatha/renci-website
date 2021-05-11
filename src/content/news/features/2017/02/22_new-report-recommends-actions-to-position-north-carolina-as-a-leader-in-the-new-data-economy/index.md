@@ -19,7 +19,7 @@ tags:
     - 
 ---
 
-CHAPEL HILL, NC - North Carolina has the brain power, the educational system, and the technology business sector that can propel it to the top in the emerging data economy, says a report published recently by the [North Carolina Board of Science, Technology & Innovation](https://www.nccommerce.com/sti/board-of-science-technology-innovation). However, those assets must be nurtured through a focus on data education and literacy, support for data-focused startups, and a coordinated effort to present the state as a data leader. 
+CHAPEL HILL, NC - North Carolina has the brain power, the educational system, and the technology business sector that can propel it to the top in the emerging data economy, says a report published recently by the [North Carolina Board of Science, Technology & Innovation](https://www.nccommerce.com/about-us/boards-commissions/board-science-technology-innovation). However, those assets must be nurtured through a focus on data education and literacy, support for data-focused startups, and a coordinated effort to present the state as a data leader. 
 
 The report, _NC in the Next Tech Tsunami: Navigating the Data Economy_, was produced in collaboration with the [National Consortium for Data Science](http://datascienceconsortium.org/) (NCDS), a public-private partnership to advance data science headquartered at RENCI, a University of North Carolina technology research institute. The NCDS also engaged students from UNC's [Kenan-Flagler Business School](http://www.kenan-flagler.unc.edu/) to conduct much of the research for the report.
 
@@ -33,4 +33,4 @@ The report offers recommendations that include elevating the data economy to the
 
 "We have the pieces needed to make North Carolina's role in data similar to the role Silicon Valley plays to the general technology sector," said Shannon McKeen, director of business development for the NCDS. "Our challenge is to bring those assets together and show that they are part of a cohesive and comprehensive plan to support and grow our data economy."
 
-The initiative's next step is to form a public/private working group to implement the recommendations. To view or download the report, click [here](http://www.nccommerce.com/Portals/6/Documents/Resources/NC%20Big%20Data%20Report.pdf).
+The initiative's next step is to form a public/private working group to implement the recommendations. To view or download the report, click [here](https://www.nccommerce.com/nc-science--technologyinternational-trade-reports/scitech/resources/nc-big-data-report.pdf).
