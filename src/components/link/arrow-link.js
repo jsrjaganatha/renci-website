@@ -7,6 +7,7 @@ import { Icon } from '../icon'
 const Wrapper = styled.span(({ theme, float }) => `
   float: ${ float ? float : 'none' };
   position: relative;
+  margin-right: ${ theme.spacing.small };
   & .icon {
     fill: ${ theme.color.darkgrey };
     padding-top: 2px;

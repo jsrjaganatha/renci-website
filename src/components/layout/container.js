@@ -1,4 +1,4 @@
-import styled, { keyframes } from 'styled-components'
+import styled, { css, keyframes } from 'styled-components'
 
 const unfade = keyframes`
     0% {
@@ -11,9 +11,10 @@ const unfade = keyframes`
     }
 `
 
-export const Container = styled.div`
-    width: calc(100% - 2rem);
-    max-width: 1200px;
-    margin: 0 auto;
-    animation: ${ unfade } 500ms ease-out forwards;
-`
+export const Container = styled.div(({ theme }) => css`
+  width: calc(100% - 2rem);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: calc(2*${ theme.spacing.large });
+  animation: ${ unfade } 500ms ease-out forwards;
+`)
