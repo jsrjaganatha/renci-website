@@ -77,6 +77,7 @@ export const Menu = ({ items, dark }) => {
           <MenuItem key={ item.path }
             onMouseEnter={ handleOpenTray } onMouseLeave={ handleCloseTray }
             onFocus={ handleOpenTray } onBlur={ handleCloseTray }
+            onClick={ handleCloseTray }
           >
             <MenuLink to={ item.path } dark={ dark } partiallyActive={ true } activeClassName="active">
               { item.text }&nbsp;<Icon icon="chevron-down" size={ 16 } fill={ dark ? theme.color.white : theme.color.darkgrey } />
