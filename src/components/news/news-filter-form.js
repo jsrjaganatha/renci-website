@@ -90,7 +90,11 @@ export const NewsFilterForm = () => {
   useEffect(() => {
     // update the project options accordingly.
     const index = groupsAndCollaborations.findIndex(group => group.id === filters.group)
-    const filteredProjects = index > -1 ? groupsAndCollaborations[index].projects : projects
+    const filteredProjects = index > -1
+      ? groupsAndCollaborations[index].projects
+        ? groupsAndCollaborations[index].projects
+        : [] 
+      : projects
     setProjectOptions(filteredProjects.map(project => ({ value: project.id, label: project.name })))
   }, [filters.group])
 
