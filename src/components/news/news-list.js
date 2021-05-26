@@ -6,5 +6,5 @@ export const NewsList = ({ articles }) => {
 }
 
 export const NewsSpotlightList = ({ articles }) => {
-  return articles.map(article => <ArticlePreview key={ article.frontmatter.slug } article={ article } spotlight />)
+  return articles.map(article => <ArticlePreview key={ article.frontmatter.slug } article={ article } />)
 }

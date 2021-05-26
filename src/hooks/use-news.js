@@ -143,12 +143,12 @@ export const useNews = () => {
     .sort((a, b) => {
       const aDate = new Date(a.frontmatter.publishDate)
       const bDate = new Date(b.frontmatter.publishDate)
-      return (bDate - aDate)
+      return (aDate - bDate)
     })
 
-  const spotlight = sortedArticles.filter(article => spotlightSlugs.includes(article.frontmatter.slug))
+  const latest = sortedArticles
+    .sort((a, b) => spotlightSlugs.includes(a.frontmatter.slug) && !spotlightSlugs.includes(b.frontmatter.slug) ? -1 : 1)
+    .slice(0,3)
 
-  const latest = sortedArticles.slice(0,3)
-
-  return { articles: sortedArticles, spotlight, latest }
+  return { articles: sortedArticles, latest }
 }

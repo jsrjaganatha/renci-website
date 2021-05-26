@@ -93,7 +93,7 @@ const Visualization = () => {
 }
 
 const IndexPage = () => {
-  const { latest, spotlight } = useNews()
+  const { latest } = useNews()
 
   return (
     <Fragment>
@@ -102,19 +102,17 @@ const IndexPage = () => {
       <Visualization />
 
       <Container>
-        <Section title="Latest News" fullWidth>
+        <Section title="News Spotlight" fullWidth>
           {
-            spotlight && (
+            latest && (
               <Fragment>
-                <NewsSpotlightList articles={ spotlight } />
+                <NewsSpotlightList articles={ latest } />
                 
                 <br/><hr/><br/>
               </Fragment>
             )
           }
           
-          <NewsList articles={ latest } />
-
           <br/><hr/><br/>
           
           <Paragraph center>
