@@ -6,7 +6,7 @@ publishDate: 2015-08-06
 author: ["stephanie-suber"]
 featuredImage: null
 groups:
-    - systems
+    - software-architecture
 projects:
     - 
 people:

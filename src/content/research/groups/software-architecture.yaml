@@ -1,7 +1,7 @@
-id: systems
-name: Software Systems Architecture
+id: software-architecture
+name: Software Architecture
 description: >
-  The Software Systems Architecture Group develops cloud computing data science platforms and environments. These include the HeLx platform used in neuroscience, plant genomics, and clinical research projects. The Systems Group also designs scalable knowledge management methods including full text search systems augmented with knowledge graph and machine learning models. 
+  The Software Architecture group develops cloud computing data science platforms and environments. These include the HeLx platform used in neuroscience, plant genomics, and clinical research projects. The Systems Group also designs scalable knowledge management methods including full text search systems augmented with knowledge graph and machine learning models. 
 featuredImage: systems.jpg
 members:
   - id: steve-cox

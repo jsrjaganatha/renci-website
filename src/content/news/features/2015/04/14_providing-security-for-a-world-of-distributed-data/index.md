@@ -5,7 +5,7 @@ publishDate: 2015-04-14
 author: 
 featuredImage: null
 groups:
-    - systems
+    - software-architecture
 projects:
     - secure-research-space
     - irods

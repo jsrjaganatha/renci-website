@@ -6,7 +6,7 @@ author:
 featuredImage: null
 groups:
     - nrig
-    - systems
+    - software-architecture
     - data-science-and-analytics
 projects:
     - scidas

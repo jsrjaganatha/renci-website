@@ -5,7 +5,7 @@ publishDate: 2018-04-25
 author: 
 featuredImage: null
 groups:
-    - systems
+    - software-architecture
 projects:
     - 
 people:

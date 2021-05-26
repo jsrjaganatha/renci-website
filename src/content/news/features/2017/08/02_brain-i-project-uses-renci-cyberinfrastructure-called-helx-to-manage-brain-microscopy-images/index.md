@@ -6,7 +6,7 @@ publishDate: 2017-08-02
 author: ["stephanie-suber"]
 featuredImage: null
 groups:
-    - systems
+    - software-architecture
 projects:
     - brain-i
     - helx
