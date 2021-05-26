@@ -15,7 +15,7 @@ renciRole: !markdown |
   The project uses the National Ecological Observatory Network, which collects data for insights on changes in U.S. ecosystems, as a test case for initial information gathering. After the pilot, the effort will be broadened to encompass other large facilities.
 members:
   - id: anirban-mandal
-    role: Co-Principal Investigator
+    role: Co-PI
   - id: ilya-baldin
   - id: erik-scott
   - id: laura-christopherson
