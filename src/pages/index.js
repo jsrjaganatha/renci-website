@@ -6,6 +6,7 @@ import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNews } from '../hooks'
 import { NewsList, NewsSpotlightList } from '../components/news'
+import { ProjectSpotlight } from '../components/projects'
 import HomeGraphic from '../images/home-graphic.svg'
 import { Icon } from '../components/icon'
 
@@ -103,22 +104,15 @@ const IndexPage = () => {
 
       <Container>
         <Section title="News Spotlight" fullWidth>
-          {
-            latest && (
-              <Fragment>
-                <NewsSpotlightList articles={ latest } />
-                
-                <br/><hr/><br/>
-              </Fragment>
-            )
-          }
-          
-          <br/><hr/><br/>
-          
+          { latest && <NewsList articles={ latest } /> }
+          <br/>
           <Paragraph center>
-            <ArrowLink text="See All" to="/news" />
+            <ArrowLink text="See all news" to="/news" />
           </Paragraph>
+        </Section>
 
+        <Section title="Project Spotlight" fullWidth>
+          <ProjectSpotlight />
         </Section>
       </Container>
     </Fragment>
