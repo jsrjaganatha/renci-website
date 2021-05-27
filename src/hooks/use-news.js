@@ -141,9 +141,9 @@ export const useNews = () => {
   const articles = [...features, ...blog]
   const sortedArticles = articles
     .sort((a, b) => {
-      const aDate = new Date(a.frontmatter.publishDate)
-      const bDate = new Date(b.frontmatter.publishDate)
-      return (aDate - bDate)
+      const aDate = Date(a.frontmatter.publishDate)
+      const bDate = Date(b.frontmatter.publishDate)
+      return aDate < bDate ? -1 : 1
     })
 
   const latest = sortedArticles
