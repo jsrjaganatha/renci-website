@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { useProjects } from '../../hooks'
 
@@ -12,33 +12,52 @@ const Wrapper = styled.div(({ theme }) => `
   @media (min-width: 992px) {
     flex-direction: row;
   }
+  & .project {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: ${ theme.spacing.medium };
+    background-color: #00000011;
+    min-height: 300px;
+    @media (min-width: 992px) {
+      min-height: 400px;
+      flex-direction: row;
+    }
+  }
 `)
 
 const SpotlightItem = styled.div(({ theme }) => `
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 300px;
-  text-align: center;
-  padding: ${ theme.spacing.medium };
-  background-color: #00000011;
-  min-height: 400px;
 `)
 
 export const ProjectSpotlight = () => {
   const projects = useProjects()
-  let selectedProjects = []
-  const indices = [...Array(3).keys()].map(num => Math.floor(Math.random() * projects.length))
-  indices.forEach(index => selectedProjects.push(projects[index]))
+  const [selectedProjects, setSelectedProjects] = useState([])
+
+  useEffect(() => {
+    // select three random project indices
+    let projectsCopy = [...projects]
+    let projectSelection = []
+    for (let i = 0; i < 3; i += 1) {
+      const randomIndex = Math.floor(Math.random() * projectsCopy.length)
+      const randomProject = projectsCopy.splice(randomIndex, 1)[0]
+      projectSelection.push(randomProject)
+    }
+    // map those indices to projects
+    setSelectedProjects(projectSelection)
+  }, [])
+  
 
   return (
-    <Wrapper>
+    <Wrapper className="project-spotlight">
       {
-        selectedProjects.map(project => (
-          <SpotlightItem>
+        selectedProjects && selectedProjects.map(project => (
+          <div className="project">
             { project.name }
-          </SpotlightItem>
+            <hr />
+            { project.group ? project.group.name : '' }
+          </div>
         ))
       }
     </Wrapper>
