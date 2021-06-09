@@ -2,18 +2,17 @@ import { graphql, useStaticQuery } from 'gatsby'
 
 const projectsQuery = graphql`{
   projects: allProjectsYaml(sort: {fields: name}) {
-    edges {
-      node {
+    nodes {
+      id
+      name
+      description
+      www
+      fields {
+        path
+      }
+      group {
         id
         name
-        description
-        www
-        fields {
-          path
-        }
-        group {
-          id
-        }
       }
     }
   }
@@ -21,5 +20,5 @@ const projectsQuery = graphql`{
 
 export const useProjects = () => {
   const { projects } = useStaticQuery(projectsQuery)
-  return projects.edges.map(({ node }) => node)
+  return projects.nodes
 }

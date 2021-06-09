@@ -4,7 +4,8 @@ import styled from 'styled-components'
 import { Container as Grid, Row, Col } from 'react-grid-system'
 import { Heading } from '../../components/typography'
 import { useCollaborations, useGroups, useTeams } from '../../hooks'
-import { ArrowLink } from '../../components/link'
+import { ArrowLink } from '../link'
+import { Button } from '../buttons'
 import { animated, useSprings } from 'react-spring'
 
 const NavColumn = styled(animated.div)`
@@ -20,6 +21,13 @@ const NavColumn = styled(animated.div)`
   & ${ Heading } {
     font-size: 150%;
   }
+`
+
+const AllProjectsLink = styled.div`
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  font-size: 80%;
 `
 
 export const ResearchSubmenu = ({ onLinkClick }) => {
@@ -75,14 +83,17 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
     }))
   )
 
-  console.log(springs)
-
   return (
-    <Grid fluid component="nav">
-      <Row>
-        { springs.map((styles, i) => <NavColumn xs={ 12 } md={ 4 } style={{ ...styles, flex: 1 }}>{ columns[i] }</NavColumn>) }
-      </Row>
-    </Grid>
+    <Fragment>
+      <Grid fluid component="nav" style={{ position: 'relative' }}>
+        <Row>
+          { springs.map((styles, i) => <NavColumn xs={ 12 } md={ 4 } style={{ ...styles, flex: 1 }}>{ columns[i] }</NavColumn>) }
+        </Row>
+      </Grid>
+      <AllProjectsLink>
+        <ArrowLink float="right" text="View All Projects" to="/projects" />
+      </AllProjectsLink>
+    </Fragment>
   )
 }
 
