@@ -28,9 +28,6 @@ const Wrapper = styled.div(({ theme }) => `
   }
 `)
 
-const SpotlightItem = styled.div(({ theme }) => `
-`)
-
 export const ProjectSpotlight = () => {
   const projects = useProjects()
   const [selectedProjects, setSelectedProjects] = useState([])
@@ -56,7 +53,8 @@ export const ProjectSpotlight = () => {
           <div className="project">
             { project.name }
             <hr />
-            { project.group ? project.group.name : '' }
+            { project.group ? project.group.name : null }
+            { project.collaboration ? project.collaboration.name : null }
           </div>
         ))
       }

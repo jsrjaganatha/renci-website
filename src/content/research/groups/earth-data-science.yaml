@@ -8,8 +8,9 @@ members:
     role: Lead
   - id: chris-lenhardt
   - id: james-mcmanus
+  - id: phil-owen
   - id: lisa-stillwell
-  - id: marykate-stone
+  - id: jeffrey-tilson
 projects:
   - adcirc-lite-nc
   - adcirc-viz

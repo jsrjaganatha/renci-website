@@ -60,7 +60,7 @@ const FooterContents = () => {
             Chapel Hill, NC  27517
           </p>
           <p>media@renci.org</p>
-          <p>919-445-9540</p>
+          <p>919-445-9640</p>
         </Col>
         <Col xs={ 12 } md={ 6 } lg={ 3 }>
           <strong>Partners</strong>

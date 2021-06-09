@@ -232,10 +232,21 @@ exports.createResolvers = ({ actions, createResolvers }) => {
           })
         }
       },
+      collaboration: {
+        type: ["CollaborationsYaml"],
+        resolve(source, args, context, info) {
+          return context.nodeModel.runQuery({
+            query: { filter: { collaborations: { elemMatch: { id: { eq: source.id } } } } },
+            type: "CollaborationsYaml",
+            firstOnly: false,
+          })
+        }
+      },
     },
   }
   createResolvers(resolvers)
 }
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
   const personTemplate = path.resolve(`src/templates/person-template.js`)

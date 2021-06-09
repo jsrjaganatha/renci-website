@@ -16,7 +16,6 @@ members:
   - id: stan-ahalt
   - id: jayasree-jaganatha
   - id: ashok-krishnamurthy
-  - id: chris-lenhardt
   - id: shannon-mckeen
   - id: amanda-miller
   - id: dawn-shelton
@@ -29,8 +28,6 @@ partners:
   - rti-international
   - unc-charlotte
   - unc-greensboro
-funding:
-  - nsf
 www:
   - https://www.datascienceconsortium.org/
   - https://twitter.com/ncds

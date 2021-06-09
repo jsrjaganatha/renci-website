@@ -18,8 +18,8 @@ members:
   - id: mauricio-tavares
   - id: komal-thareja
   - id: cong-wang
-  - id: yufeng-xin
   - id: eric-xin
+  - id: yufeng-xin
 projects:
   - aerpaw
   - atlanticwave-sdx
