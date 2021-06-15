@@ -20,5 +20,5 @@ const projectsQuery = graphql`{
 
 export const useProjects = () => {
   const { projects } = useStaticQuery(projectsQuery)
-  return projects.nodes
+  return projects.nodes.sort((p, q) => p.name.toLowerCase() < q.name.toLowerCase() ? -1 : 1)
 }
