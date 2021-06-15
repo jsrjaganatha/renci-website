@@ -236,7 +236,7 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         type: ["CollaborationsYaml"],
         resolve(source, args, context, info) {
           return context.nodeModel.runQuery({
-            query: { filter: { collaborations: { elemMatch: { id: { eq: source.id } } } } },
+            query: { filter: { projects: { elemMatch: { id: { eq: source.id } } } } },
             type: "CollaborationsYaml",
             firstOnly: false,
           })
