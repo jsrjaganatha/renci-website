@@ -17,8 +17,8 @@ const projectColumns = [
     sortFunction: (p, q) => p.name.toLowerCase() < q.name.toLowerCase() ? -1 : 1,
   },
   {
-    name: 'Group',
-    selector: row => row.group ? row.group[0].name : null,
+    name: 'Group/Collaboration',
+    selector: row => row.group ? row.group[0].name : row.collaboration ? row.collaboration[0].name : 'N/A',
     type: 'string',
     sortable: true,
     sortFunction: (p, q) => p.name.toLowerCase() < q.name.toLowerCase() ? -1 : 1,
