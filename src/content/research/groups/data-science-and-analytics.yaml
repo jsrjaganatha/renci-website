@@ -22,10 +22,19 @@ members:
   - id: gaurav-vaidya
   - id: hong-yi
 projects:
-  - data-translator-robokop
-  - obesity-hub
   - ccdh
+  - chemotext2
+  - ctmd
+  - data-translator-robokop
+  - dot-safety-assessment-project
+  - family-planning-national-training-center
+  - hydroshare
+  - inca
+  - man-to-molecule-to-man
+  - obesity-hub
+  - percept
   - platform-for-analyzing-whole-brain-images
+  - precision-dosing
   - scate
   - semantic-infrastructure-for-noctua-and-gene-ontology
 
