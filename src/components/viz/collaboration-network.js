@@ -1,24 +1,38 @@
-import React, { useCallback, useEffect, useState } from 'react'
+import React, { Fragment, useCallback, useEffect, useState } from 'react'
 import styled, { useTheme } from 'styled-components'
 import { graphql, useStaticQuery } from 'gatsby'
 import loadable from '@loadable/component'
+import { Icon } from '../icon'
 
 const ForceGraph2D = loadable(() => import('./force-graph'))
 
 const equalArrays = (arr1, arr2) => JSON.stringify([...arr1].sort()) === JSON.stringify([...arr2].sort())
 
 const Wrapper = styled.div(({ theme }) => `
-  margin: -1rem 0 0 0;
+  margin: 0;
   overflow: hidden;
   width: 100%;
-  display: flex;
-  justify-content: flex-end;
+  & canvas {
+    border: 1px solid ${ theme.color.lightgrey };
+  }
   & .graph-tooltip {
     font-size: 66% !important;
     text-align: center;
     background-color: ${ theme.color.black } !important;
     padding: ${ theme.spacing.xs } !important;
     line-height: 1.5 !important;
+  }
+  & .legend {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  * .legend-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: ${ theme.spacing.small };
   }
 `)
 
@@ -32,13 +46,6 @@ export const CollaborationsNetwork = ({ height = 800, width = 800 }) => {
   const [selectedRootNode, setSelectedRootNode] = useState(null)
 
   const nodeStyles = {
-    person: {
-      val: 20,
-      color: {
-        main: theme.color.renciBlue,
-        dim: `${ theme.color.renciBlue }99`,
-      },
-    },
     group: {
       val: 20,
       color: {
@@ -219,6 +226,16 @@ export const CollaborationsNetwork = ({ height = 800, width = 800 }) => {
 
   return (
     <Wrapper>
+      <div className="legend">
+        {
+          Object.keys(nodeStyles).map(item => (
+            <div key={ `legend-item_${ item }` } className="legend-item">
+              <Icon icon="bullet" size={ 12 } fill={ nodeStyles[item].color.main } /> <span>{ item }</span>
+            </div>
+          ))
+        }
+      </div>
+      <br />
       {
         graphData.nodes && graphData.links && (
           <ForceGraph2D
