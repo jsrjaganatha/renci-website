@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { Container as Grid, Row, Col } from 'react-grid-system'
 import { Heading } from '../../components/typography'
 import { useCollaborations, useGroups, useTeams } from '../../hooks'
-import { ArrowLink } from '../link'
+import { ArrowLink, Link } from '../link'
 import { Button } from '../buttons'
 import { animated, useSprings } from 'react-spring'
 
@@ -37,7 +37,7 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
 
   const columns = [
     <Fragment>
-      <Heading>Research Groups</Heading>
+      <Heading><Link to="/research/groups">Research Groups</Link></Heading>
       <ul>
         {
           groups.map((group, i) => (
@@ -49,7 +49,7 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
       </ul>
     </Fragment>,
     <Fragment>
-      <Heading>Collaborations</Heading>
+      <Heading><Link to="/research/collaborations">Collaborations</Link></Heading>
       <ul>
         {
           collaborations.map((collaboration, i) => (
@@ -61,7 +61,7 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
       </ul>
     </Fragment>,
     <Fragment>
-      <Heading>Operations</Heading>
+      <Heading><Link to="/research/operations">Operations</Link></Heading>
       <ul>
         {
           teams.map((team, i) => (

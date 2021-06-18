@@ -8,13 +8,14 @@ renciRole: !markdown |
 projects:
 members:
   - id: laura-capps
-  - id: jason-coposky
   - id: kory-draughn
   - id: justin-james
   - id: alan-king
   - id: markus-kitsinger
   - id: daniel-moore
   - id: terrell-russell
+pastMembers:
+  - id: jason-coposky
 partners:
   - renci
   - bayer

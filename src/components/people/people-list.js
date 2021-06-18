@@ -19,6 +19,7 @@ export const PeopleList = ({ members }) => {
     <Wrapper>
       {
         members.map(person => {
+          console.log(person)
           const photo = person.photo ? person.photo.childImageSharp.fixed : avatar.childImageSharp.fixed
           return (
             <MiniProfile
