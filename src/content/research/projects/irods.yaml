@@ -7,8 +7,6 @@ featuredImage: irods.jpg
 renciRole: !markdown |
   [iRODS](https://irods.org) is developed and maintained by the iRODS Consortium which is housed at RENCI, its primary founding organization.
 members:
-  - id: jason-coposky
-    role: Lead
   - id: laura-capps
   - id: kory-draughn
   - id: dave-fellinger
@@ -16,6 +14,7 @@ members:
   - id: alan-king
   - id: daniel-moore
   - id: terrell-russell
+    role: Lead
 partners:
 funding:
 www:
