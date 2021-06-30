@@ -14,8 +14,6 @@ members:
   - id: markus-kitsinger
   - id: daniel-moore
   - id: terrell-russell
-pastMembers:
-  - id: jason-coposky
 partners:
   - renci
   - bayer
