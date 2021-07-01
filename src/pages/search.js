@@ -13,7 +13,9 @@ const SearchPage = () => {
     <Container>
       <SEO title="Search" />
 
+      <br />
       <Title>Search</Title>
+      <br />
 
       <InstantSearch searchClient={ searchClient } indexName="NEWS">
         <SearchBox />

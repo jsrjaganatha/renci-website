@@ -11,7 +11,9 @@ const TagsPage = () => {
     <Container>
       <SEO title="Tags" />
 
+      <br />
       <Title>Tags</Title>
+      <br />
 
       <pre>{ JSON.stringify(tags, null, 2) }</pre>
 

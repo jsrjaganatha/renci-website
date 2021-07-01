@@ -8,7 +8,9 @@ const BrandingPage = () => {
     <Container>      
       <SEO title="RENCI Branding and Style Guide" />
       
+      <br />
       <Title>RENCI Branding & Style Guide</Title>
+      <br />
 
       <Paragraph>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.

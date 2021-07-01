@@ -157,10 +157,12 @@ const NewsPage = () => {
       <NewsContext.Provider value={{ news, page, prevPage, nextPage, pageCount, paginationRadius, filters, changeFilterSelect, clearFilters, filtersUrl }}>
         <SEO title="RENCI News" />
         
+        <br />
         <FlexHeader>
           <Title>RENCI News</Title>
           { pageCount > 1 && <PaginationTray /> }
         </FlexHeader>
+        <br />
         
         <HorizontalRule />
 

@@ -30,14 +30,14 @@ const AllProjectsLink = styled.div`
   font-size: 80%;
 `
 
-export const ResearchSubmenu = ({ onLinkClick }) => {
+export const OurWorkSubmenu = ({ onLinkClick }) => {
   const groups = useGroups()
   const collaborations = useCollaborations()
   const teams = useTeams()
 
   const columns = [
     <Fragment>
-      <Heading><Link to="/research/groups">Research Groups</Link></Heading>
+      <Heading><Link to="/our-work/groups">Research Groups</Link></Heading>
       <ul>
         {
           groups.map((group, i) => (
@@ -49,7 +49,7 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
       </ul>
     </Fragment>,
     <Fragment>
-      <Heading><Link to="/research/collaborations">Collaborations</Link></Heading>
+      <Heading><Link to="/our-work/collaborations">Collaborations</Link></Heading>
       <ul>
         {
           collaborations.map((collaboration, i) => (
@@ -61,7 +61,7 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
       </ul>
     </Fragment>,
     <Fragment>
-      <Heading><Link to="/research/operations">Operations</Link></Heading>
+      <Heading><Link to="/our-work/operations">Operations</Link></Heading>
       <ul>
         {
           teams.map((team, i) => (
@@ -97,10 +97,10 @@ export const ResearchSubmenu = ({ onLinkClick }) => {
   )
 }
 
-ResearchSubmenu.propTypes = {
+OurWorkSubmenu.propTypes = {
   onLinkClick: PropTypes.func.isRequired,
 }
 
-ResearchSubmenu.defaultProps = {
+OurWorkSubmenu.defaultProps = {
   onLinkClick: () => {},
 }

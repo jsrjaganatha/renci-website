@@ -13,9 +13,9 @@ const AboutPage = () => {
     <Container>
       <SEO title="About RENCI" />
   
-      <Section>
-        <Title>About RENCI</Title>
-      </Section>
+      <br />
+      <Title>About RENCI</Title>
+      <br />
 
       <Section title="We Do Data Science">
         <Paragraph>

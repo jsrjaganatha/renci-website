@@ -6,7 +6,7 @@ import { Header } from './header'
 import { Main } from './main'
 import { Footer } from './footer'
 import { Container } from '../container'
-import { Menu, MobileMenu, ResearchSubmenu } from '../../menu'
+import { Menu, MobileMenu, OurWorkSubmenu } from '../../menu'
 import { Link, IconLink } from '../../link'
 import { Icon } from '../../icon'
 import { useBrand, useWindow } from '../../../hooks'
@@ -97,7 +97,7 @@ const FooterContents = () => {
 
 const menuItems = [
   { path: '/about', text: 'About' },
-  { path: '/research', text: 'Research', submenu: ResearchSubmenu },
+  { path: '/our-work', text: 'Our Work', submenu: OurWorkSubmenu },
   { path: '/people', text: 'People' },
   { path: '/news', text: 'News' },
   // { path: '/events', text: 'Events' },

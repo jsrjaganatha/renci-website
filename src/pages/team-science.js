@@ -9,7 +9,9 @@ const TeamSciencePage = () => {
     <Container>
       <SEO title="Team Science at RENCI" />
   
+      <br />
       <Title>Team Science at RENCI</Title>
+      <br />
 
       <CollaborationsNetwork width={ 950 } height={ 600 } />
 
